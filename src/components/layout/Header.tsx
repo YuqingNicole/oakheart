@@ -5,11 +5,11 @@ import { Button } from "@/components/ui/button";
 import logo from "@/assets/oakheart-logo.png";
 
 const navItems = [
-  { label: "Process", href: "#process" },
-  { label: "Components", href: "#components" },
-  { label: "Games", href: "#games" },
-  { label: "About", href: "#about" },
-  { label: "FAQ", href: "#faq" },
+  { label: "Process", href: "/process" },
+  { label: "Components", href: "/components" },
+  { label: "Games", href: "/games" },
+  { label: "About", href: "/about" },
+  { label: "FAQ", href: "/faq" },
 ];
 
 export function Header() {
