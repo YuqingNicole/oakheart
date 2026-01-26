@@ -24,7 +24,7 @@ export function FloatingQuoteButton() {
         y: isVisible ? 0 : 100 
       }}
       transition={{ duration: 0.3 }}
-      className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50 md:hidden"
+      className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50"
     >
       <a href="/quote">
         <Button variant="hero" size="lg" className="shadow-elevated group">
