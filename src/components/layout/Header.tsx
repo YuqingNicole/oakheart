@@ -38,13 +38,8 @@ export function Header() {
             ))}
           </nav>
 
-          {/* CTA Buttons */}
-          <div className="hidden lg:flex items-center gap-4">
-            <a href="/materials">
-              <Button variant="ghost" size="sm">
-                Material Library
-              </Button>
-            </a>
+          {/* CTA Button */}
+          <div className="hidden lg:flex items-center">
             <a href="/quote">
               <Button variant="hero" size="default">
                 Request Quote
@@ -83,12 +78,7 @@ export function Header() {
                   {item.label}
                 </a>
               ))}
-              <div className="flex flex-col gap-3 pt-4 border-t border-border">
-                <a href="/materials" onClick={() => setIsOpen(false)}>
-                  <Button variant="ghost" className="justify-start w-full">
-                    Material Library
-                  </Button>
-                </a>
+              <div className="pt-4 border-t border-border">
                 <a href="/quote" onClick={() => setIsOpen(false)}>
                   <Button variant="hero" className="w-full">
                     Request Quote
