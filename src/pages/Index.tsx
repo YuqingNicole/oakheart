@@ -6,7 +6,6 @@ import { Showcase } from "@/components/sections/Showcase";
 import { Testimonials } from "@/components/sections/Testimonials";
 import { CTA } from "@/components/sections/CTA";
 import { Footer } from "@/components/layout/Footer";
-import { FloatingQuoteButton } from "@/components/FloatingQuoteButton";
 
 const Index = () => {
   return (
@@ -21,7 +20,6 @@ const Index = () => {
         <CTA />
       </main>
       <Footer />
-      <FloatingQuoteButton />
     </div>
   );
 };
