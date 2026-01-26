@@ -7,6 +7,7 @@ import logo from "@/assets/oakheart-logo.png";
 const navItems = [
   { label: "Process", href: "/process" },
   { label: "Components", href: "/components" },
+  { label: "Materials", href: "/materials" },
   { label: "Games", href: "/games" },
   { label: "About", href: "/about" },
   { label: "FAQ", href: "/faq" },
@@ -39,12 +40,16 @@ export function Header() {
 
           {/* CTA Buttons */}
           <div className="hidden lg:flex items-center gap-4">
-            <Button variant="ghost" size="sm">
-              Get Estimate
-            </Button>
-            <Button variant="hero" size="default">
-              Request Quote
-            </Button>
+            <a href="/materials">
+              <Button variant="ghost" size="sm">
+                Material Library
+              </Button>
+            </a>
+            <a href="/quote">
+              <Button variant="hero" size="default">
+                Request Quote
+              </Button>
+            </a>
           </div>
 
           {/* Mobile Menu Button */}
@@ -79,12 +84,16 @@ export function Header() {
                 </a>
               ))}
               <div className="flex flex-col gap-3 pt-4 border-t border-border">
-                <Button variant="ghost" className="justify-start">
-                  Get Estimate
-                </Button>
-                <Button variant="hero">
-                  Request Quote
-                </Button>
+                <a href="/materials" onClick={() => setIsOpen(false)}>
+                  <Button variant="ghost" className="justify-start w-full">
+                    Material Library
+                  </Button>
+                </a>
+                <a href="/quote" onClick={() => setIsOpen(false)}>
+                  <Button variant="hero" className="w-full">
+                    Request Quote
+                  </Button>
+                </a>
               </div>
             </nav>
           </motion.div>
