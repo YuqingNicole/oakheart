@@ -1,0 +1,105 @@
+# Why We Don’t Follow Through on What We Set Out to Do and What to Do about It
+
+Source: http://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=238A280A16A5605
+
+# The Akrasia Effect: Why We Don’t Follow Through on What We Set Out to Do and What to Do About It
+
+written by [James Clear](https://jamesclear.com/about)
+
+[Behavioral Psychology](https://jamesclear.com/behavioral-psychology)
+[Featured](https://jamesclear.com/featured)
+[Goal Setting](https://jamesclear.com/goal-setting)
+[Procrastination](https://jamesclear.com/procrastination)
+
+*This article is an excerpt from [Atomic Habits](https://jamesclear.com/atomic-habits "Atomic Habits").*
+
+In the summer of 1830, Victor Hugo was facing an impossible deadline. Twelve months earlier, the French author had promised his publisher a new book. But instead of writing, he spent that year pursuing other projects, entertaining guests, and delaying his work. Frustrated, Hugo’s publisher responded by setting a deadline less than six months away. The book had to be finished by February 1831.
+
+Hugo concocted a strange plan to beat his procrastination. He collected all of his clothes and asked an assistant to lock them away in a large chest. He was left with nothing to wear except a large shawl. Lacking any suitable clothing to go outdoors, he remained in his study and wrote furiously during the fall and winter of 1830.[1](#footnote-1-15204) The Hunchback of Notre Dame was published two weeks early on January 14, 1831.
+
+![Victor Hugo (The Akrasia Effect)](https://jamesclear.com/wp-content/uploads/2016/01/victor-hugo-by-etienne-carjat-1876.jpg)
+
+Victor Hugo as photographed by Etienne Carjat in 1876. By this time, it seems, he had unlocked his clothes and put them back on. (Source: National Library of France.)
+
+## The Ancient Problem of Akrasia
+
+Human beings have been procrastinating for centuries. Even prolific artists like Victor Hugo are not immune to the distractions of daily life. The problem is so timeless, in fact, that ancient Greek philosophers like Socrates and Aristotle developed a word to describe this type of behavior: *Akrasia*.
+
+*Akrasia* is the state of acting against your better judgment. It is when you do one thing even though you know you should do something else. Loosely translated, you could say that *akrasia* is procrastination or a lack of self-control. *Akrasia* is what prevents you from following through on what you set out to do.
+
+Why would Victor Hugo commit to writing a book and then put it off for over a year? Why do we make plans, set deadlines, and commit to goals, but then fail to follow through on them?
+
+## Why We Make Plans, But Don't Take Action
+
+One explanation for why *akrasia* rules our lives and procrastination pulls us in has to do with a behavioral economics term called “time inconsistency.” Time inconsistency refers to the tendency of the human brain to value immediate rewards more highly than future rewards.
+
+When you make plans for yourself — like setting a goal to lose weight or write a book or learn a language — you are actually making plans for your future self. You are envisioning what you want your life to be like in the future and when you think about the future it is easy for your brain to see the value in taking actions with long-term benefits.
+
+When the time comes to make a decision, however, you are no longer making a choice for your future self. Now you are in the moment and your brain is thinking about the present self. And researchers have discovered that the present self really likes instant gratification, not long-term payoff. This is one reason why you might go to bed feeling motivated to make a change in your life, but when you wake up you find yourself falling into old patterns. Your brain values long-term benefits when they are in the future, but it values immediate gratification when it comes to the present moment.
+
+This is one reason why [the ability to delay gratification](https://jamesclear.com/delayed-gratification) is such a great predictor of success in life. Understanding how to resist the pull of instant gratification—at least occasionally, if not consistently—can help you bridge the gap between where you are and where you want to be.
+
+## The Framework You Need to Beat Procrastination
+
+Here are three ways to overcome akrasia, beat procrastination, and follow through on what you set out to do.
+
+**Strategy 1: Design your future actions.**
+
+When Victor Hugo locked his clothes away so he could focus on writing, he was creating what psychologists refer to as a “commitment device.” A commitment device is a choice you make in the present that controls your actions in the future.[2](#footnote-2-15204) It is a way to lock in future behavior, bind you to good habits, and restrict you from bad ones.
+
+There are many ways to create a commitment device. You can reduce overeating by purchasing food in individual packages rather than in bulk size. You can voluntarily ask to be added to the banned list at casinos and online poker sites to prevent future gambling sprees. I’ve even heard of athletes who have to “make weight” for a competition choosing to leave their wallets at home during the week before weigh-in so they won’t be tempted to buy fast food.
+
+The circumstances differ, but the message is the same: commitment devices can help you design your future actions. Find ways to automate your behavior beforehand rather than relying on willpower in the moment. Be the architect of your future actions, not the victim of them. [3](#footnote-3-15204)
+
+**Strategy 2: Reduce the friction of starting.**
+
+The guilt and frustration of procrastinating is usually worse than the pain of doing the work. In the words of Eliezer Yudkowsky, “On a moment-to-moment basis, being in the middle of doing the work is usually less painful than being in the middle of procrastinating.”
+
+So why do we still procrastinate? Because it's not being *in* the work that is hard, it's *starting* the work. The friction that prevents us from taking action is usually centered around starting the behavior. Once you begin, it's often less painful to do the work. This is why it is often more important to [build the habit of getting started](https://jamesclear.com/start-succeed) when you're beginning a new behavior than it is to worry about whether or not you are successful at the new habit.
+
+You have to constantly [reduce the size of your habits](https://jamesclear.com/habit-guide). Put all of your effort and energy into [building a ritual](https://jamesclear.com/twyla-tharp) and make it as easy as possible to get started. Don't worry about the results until you've mastered the art of showing up.
+
+**Strategy 3: Utilize implementation intentions.**
+
+An implementation intention is when you state your intention to implement a particular behavior at a specific time in the future. For example, “I will exercise for at least 30 minutes on [DATE] in [PLACE] at [TIME].”
+
+There are hundreds of successful studies showing how implementation intentions positively impact everything from exercise habits to flu shots. In the flu shot study, researchers looked at a group of 3,272 employees at a Midwestern company and found that employees who wrote down the specific date and time they planned to get their flu shot were significantly more likely to follow through weeks later. [4](#footnote-4-15204)
+
+It seems simple to say that scheduling things ahead of time can make a difference, but as I have covered previously, implementation intentions can make you [2x to 3x more likely](https://jamesclear.com/implementation-intentions) to perform an action in the future.
+
+## Fighting Akrasia
+
+Our brains prefer instant rewards to long-term payoffs. It's simply a consequence of how our minds work. Given this tendency, we often have to resort to crazy strategies to get things done—like Victor Hugo locking up all of his clothes so he could write a book. But I believe it is worth it to spend time building these commitment devices if your goals are important to you.
+
+Aristotle coined the term *enkrateia* as the antonym of *akrasia*. While *akrasia* refers to our tendency to fall victim to procrastination, *enkrateia* means to be “in power over oneself.” Designing your future actions, reducing the friction of starting good behaviors, and using implementation intentions are simple steps that you can take to make it easier to live a life of *enkrateia* rather than one of *akrasia*. [5](#footnote-5-15204)
+
+*This article is an excerpt from Chapter 14 of my book**Atomic* *Habits. [Read more here](https://jamesclear.com/atomic-habits "Read more here").*
+
+Footnotes
+
+1. Adèle Hugo and Charles E. Wilbour, Victor Hugo, by a Witness of His Life (New York: Carleton, 1864).
+2. Gharad Bryan, Dean Karlan, and Scott Nelson, “Commitment Devices,” Annual Review of Economics 2, no. 1 (2010), doi:10.1146/annurev.economics.102308.124324.
+3. Thanks to my friends at Beeminder for some of the ideas I mention here. You can see their [full article](http://blog.beeminder.com/akrasia/) on commitment devices to overcome akrasia for more ideas.
+4. [“Using implementation intentions prompts to enhance influenza vaccination rates”](http://www.pnas.org/content/108/26/10415.full) by Katherine L. Milkman, John Beshears, James J. Choi, David Laibson, and Brigitte C. Madrian. Proceedings of the National Academy of Sciences: Vol. 108 No. 26.
+5. Thanks to my friend Nir Eyal for originally pointing me toward the term akrasia.
+
+## 
+
+Thanks for reading. You can get more actionable ideas in my popular email newsletter. Each week, I share 3 short ideas from me, 2 quotes from others, and 1 question to think about. **Over 3,000,000 people subscribe**. Enter your email now and join us.
+
+####
+
+About the Author
+
+**James Clear** writes about habits, decision making, and continuous improvement. He is the author of the #1 *New York Times* bestseller, [Atomic Habits](https://jamesclear.com/atomic-habits). The book has sold over 25 million copies worldwide and has been translated into more than 60 languages.
+
+[Click here to learn more →](/about)
+
+Read Next
+
+* [My 2015 Annual Review](https://jamesclear.com/2015-annual-review)
+* [The 10 Best Articles of 2015](https://jamesclear.com/best-articles-2015)
+* [The Value of Time: How Much is Your Time Really Worth?](https://jamesclear.com/value-of-time)
+* [How to Master the Invisible Hand That Shapes Our Lives](https://jamesclear.com/feedback-loops)
+* [One Research-Backed Way to Effectively Manage Your Stressful and Busy Schedule](https://jamesclear.com/personal-values-journal)
+* [All Articles](/articles)
