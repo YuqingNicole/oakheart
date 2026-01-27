@@ -1,14 +1,14 @@
 # The golden era of crowdfunding is over
 
-Source: https://thecityofkings.com/news/the-golden-era-of-crowdfunding-is-over/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## The golden era of crowdfunding is over
 
-28th June 2022 [6](https://thecityofkings.com/news/the-golden-era-of-crowdfunding-is-over/#comments)
+28th June 2022 6
 
-![website.jpg](https://thecityofkings.com/wp-content/uploads/2022/06/website.jpg)
+!website.jpg
 
 In 2009 Kickstarter launched, it wasn’t the first crowdfunding platform but it did a lot of things right and has grown into something incredible. For board gaming at least, Kickstarter has perhaps had more of an impact than anything else over the past 10 years.
 
@@ -24,13 +24,13 @@ There was no real competition and Kickstarter failed to evolve, they rarely intr
 
 ### **The newcomers**
 
-This didn’t go unnoticed and last year [gamefound](https://gamefound.com/) took advantage, switching from a pledge manager to a full blown crowdfunding platform.
+This didn’t go unnoticed and last year gamefound took advantage, switching from a pledge manager to a full blown crowdfunding platform.
 
 We saw some huge creators using the platform including Chip Theory Games, Lucky Duck Games, and Awaken Realms. To date gamefound has raised over €230,000,000 by filling holes in the functionality of Kickstarter and most recently by competing directly against it.
 
 Gamefound has focussed on the tabletop market and are slowly eating away at that slice of Kickstarters pie by offering board game specific features that other markets may not be interested in. At this point in time, there are 50 live or upcoming projects on gamefound and many others that have already finished. It certainly isn’t as many as there are on Kickstarter, but it’s a noticable amount that keeps on growing.
 
-Alongside this, [BackerKit](https://www.backerkit.com/) have just launched their own crowdfunding platform, also making the move from pledge manager to fully blown crowdfunder. BackerKit has been around for longer than gamefound and has raised over $470,000,000 through pledge managers for over 12,000 creators since its creation. With such a big userbase they are well placed to enter the crowdfunding market and are doing so with a bang.
+Alongside this, BackerKit have just launched their own crowdfunding platform, also making the move from pledge manager to fully blown crowdfunder. BackerKit has been around for longer than gamefound and has raised over $470,000,000 through pledge managers for over 12,000 creators since its creation. With such a big userbase they are well placed to enter the crowdfunding market and are doing so with a bang.
 
 BackerKit have announced many big names including Leder Games, Cephalofair, and Restoration Games as publishers moving to the platform with their next projects. Based on the track record of the 30+ companies that are signed up, they’ll no doubt be raising $10,000,000’s by the end of the year.
 
@@ -44,7 +44,7 @@ For consumers this can only be a good thing, publishers will be able to provide 
 
 Yet, I worry for publishers that the golden era of crowdfunding is over and we’ll no longer be seeing a rise in the million dollar campaigns. The number of people discovering our projects will start decreasing, and our chances to succeed will be reduced.
 
-As gamefound and BackerKit build up their audiences, we’ll see less people visiting Kickstarter as crowdfunders become spread across multiple platforms. There may be the same amount of people willing to back projects, and likely even more, but never again will they all be in one place browsing the same content. Which will have a considerable impact given I’ve estimated [Kickstarter currently brings 50% of my backers](https://thecityofkings.com/news/where-do-kickstarter-backers-come-from/) to my campaigns.
+As gamefound and BackerKit build up their audiences, we’ll see less people visiting Kickstarter as crowdfunders become spread across multiple platforms. There may be the same amount of people willing to back projects, and likely even more, but never again will they all be in one place browsing the same content. Which will have a considerable impact given I’ve estimated Kickstarter currently brings 50% of my backers to my campaigns.
 
 For the larger publishers and most hyped projects I don’t expect this will have much effect, their top line may be slightly lower but they will still do well. For everyone else, a new challenge has been created and I advise you to proceed with caution.
 
@@ -56,7 +56,7 @@ When choosing a platform, don’t let the offerings be the deciding factor. Look
 
 I look forward to seeing how the crowdfunding world changes over the next 12 months as a new era for board games begins.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

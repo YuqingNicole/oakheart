@@ -1,6 +1,6 @@
 # Top 10 Short-Term Ways to Stumble into Long-Term Success
 
-Source: http://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=285A327A16A6100
+Source: 
 
 This is awesome Jamey. I appreciate the perspectives on Greg’s feedback and how engaging folks outside of our areas of focus can bring great insights.
 
@@ -12,4 +12,4 @@ Of the four entities that offered to back my game or license it in some way, zer
 
 Thanks again for sharing this content Jamey!
 
-[Reply](https://stonemaiergames.com/top-10-short-term-ways-to-stumble-into-long-term-success/?replytocom=26286#respond)
+Reply

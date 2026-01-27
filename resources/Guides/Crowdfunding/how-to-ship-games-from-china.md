@@ -1,14 +1,14 @@
 # How to ship games from China
 
-Source: https://thecityofkings.com/news/how-to-ship-games-from-china/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## How to ship games from China
 
-10th May 2022 [6](https://thecityofkings.com/news/how-to-ship-games-from-china/#comments)
+10th May 2022 6
 
-When it comes to shipping games we often talk about [fulfilment](https://thecityofkings.com/news/my-current-approach-to-kickstarter-fulfillment/) and how to get individual products to customers. This is certainly a critical part of the process but before fulfilment can happen, we must get our games to the fulfilment centres.
+When it comes to shipping games we often talk about fulfilment and how to get individual products to customers. This is certainly a critical part of the process but before fulfilment can happen, we must get our games to the fulfilment centres.
 
 Freight shipping is the common name given to the process of moving large shipments of physical goods from one location to another. This can be done via land, air, or sea and when it comes to board games, you’ll typically be using ships and then either trains and/or trucks to move goods from the docks to the fulfilment centre.
 
@@ -66,7 +66,7 @@ There is no right or wrong when it comes to freight shipping, the important thin
 
 Once you’ve thought about those questions, then look at your quotes and see which is best based on how much the service aligns with your needs.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

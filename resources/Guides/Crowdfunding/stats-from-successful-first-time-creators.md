@@ -1,14 +1,14 @@
 # Stats from successful first-time creators
 
-Source: https://thecityofkings.com/news/stats-from-successful-first-time-creators/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Stats from successful first-time creators
 
-22nd December 2022 [2](https://thecityofkings.com/news/stats-from-successful-first-time-creators/#comments)
+22nd December 2022 2
 
-![successful-first-time-website.jpg](https://thecityofkings.com/wp-content/uploads/2022/12/successful-first-time-website.jpg)
+!successful-first-time-website.jpg
 
 This week I have been looking over a number of Kickstarter projects by new creators and analysing their funding journeys.
 
@@ -20,24 +20,24 @@ While reviewing the stats I discovered 3 of those projects had unusual activity 
 
 **The projects were:**
 
-* [We’re Sinking!](https://www.kickstarter.com/projects/ludamusgames/were-sinking/) raising 86,371 USD from 1,406 backers
-* [Age of Inventors](https://www.kickstarter.com/projects/meeplepug/age-of-inventors/) raising 85,066 EUR from 1,525 backers
-* [Hijacked](https://www.kickstarter.com/projects/hijacked/hijacked/) raising 39,180 EUR from 863 backers
-* [Nut Hunt!](https://www.kickstarter.com/projects/pineislandgames/nut-hunt/) raising 42,818 USD from 1,232 backers
-* [Super Snipers](https://www.kickstarter.com/projects/galensgames/super-snipers/) raising 17,236 USD from 432 backers
-* [Magical Friends relaunch](https://www.kickstarter.com/projects/magicalfriends/magical-friends-and-how-to-summon-them-relaunch) raising 27,693 EUR from 431 backers
-* [The Fog relaunch](https://www.kickstarter.com/projects/xollox/the-fog-0/) raising 28,962 EUR from 618 backers
-* [Damnation relaunch](https://www.kickstarter.com/projects/blacklettergames/damnation-the-gothic-game-0/) raising 77,186 GBP from 1,507 backers
-* [Drags 2 Riches](https://www.kickstarter.com/projects/davidpettifer/drags-2-riches/) raising 9,621 GBP from 307 backers
-* [Unspoken Words](https://www.kickstarter.com/projects/unspokenwordsgame/unspoken-words-card-game) raising 8,382 USD from 180 backers
-* [H.E.R.O relaunch](https://www.kickstarter.com/projects/eelyriver/hero-the-emergency-room-board-game) raising 22,661 USD from 331 backers
-* [Outrun the Bear](https://www.kickstarter.com/projects/aroundthestumpgames/outrun-the-bear) raising 25,396 USD from 560 backers
+* We’re Sinking! raising 86,371 USD from 1,406 backers
+* Age of Inventors raising 85,066 EUR from 1,525 backers
+* Hijacked raising 39,180 EUR from 863 backers
+* Nut Hunt! raising 42,818 USD from 1,232 backers
+* Super Snipers raising 17,236 USD from 432 backers
+* Magical Friends relaunch raising 27,693 EUR from 431 backers
+* The Fog relaunch raising 28,962 EUR from 618 backers
+* Damnation relaunch raising 77,186 GBP from 1,507 backers
+* Drags 2 Riches raising 9,621 GBP from 307 backers
+* Unspoken Words raising 8,382 USD from 180 backers
+* H.E.R.O relaunch raising 22,661 USD from 331 backers
+* Outrun the Bear raising 25,396 USD from 560 backers
 
 Giving an average funding of 39,000 from 782 backers per project.
 
 ### **Funding day**
 
-It’s always best to [fund on the first day](https://thecityofkings.com/news/setting-your-kickstarter-goal/) with a Kickstarter but it isn’t always required.
+It’s always best to fund on the first day with a Kickstarter but it isn’t always required.
 
 * 7/12 projects funded in the first 24 hours
 * 1 funded on day 3.
@@ -48,7 +48,7 @@ While the 3 projects that funded in the last week were some of the lowest funded
 
 ### **Funding per phase**
 
-A typical board game Kickstarter can be broken down into [3 phases](https://thecityofkings.com/news/setting-your-kickstarter-goal/), the first 3 days, the last 3 days, and the middle (everything else). For standard projects I expect to see the funding distribution across those 3 phases to be 35%, 45%, 20%, with a variance of +/-5% per phase.
+A typical board game Kickstarter can be broken down into 3 phases, the first 3 days, the last 3 days, and the middle (everything else). For standard projects I expect to see the funding distribution across those 3 phases to be 35%, 45%, 20%, with a variance of +/-5% per phase.
 
 **These projects had:**
 
@@ -96,7 +96,7 @@ The smaller your campaign, the more of an impact your marketing activity will ha
 
 You can make the difference, Unspoken Words brought in nearly 10% of its funding on day 24 due to a big push on social media. The Damnation relaunch had a tough journey with only 15% of its funding coming from the first 3 days, but they kept at it and gained over 400% more during the middle to end on £75,000.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

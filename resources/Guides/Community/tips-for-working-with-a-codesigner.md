@@ -1,8 +1,8 @@
 # Tips for Working with a Codesigner
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=572A643A16A8420
+Source: 
 
-![](https://weirdgiraffegames.com/carla/wp-content/uploads/2020/06/Slide7.png)
+![](
 
 I’m not the best at working with a codesigner, but I’ve definitely learned some things along the way. It’s not the easiest thing in the world to do and it takes work on everyone’s part to make it work well.
 
@@ -26,10 +26,10 @@ I’m not the best at working with a codesigner, but I’ve definitely learned s
 
 ---
 
-This post was inspired after participating on the Time Management Session of Game Design Live Chats! You are welcome to participate or simply listen in whenever the time fits in your schedule. [Click here for our calendar of events.](https://weirdgiraffegames.com/carla/game-design-live-chats/)
+This post was inspired after participating on the Time Management Session of Game Design Live Chats! You are welcome to participate or simply listen in whenever the time fits in your schedule. Click here for our calendar of events.
 
 Did you enjoy this entry? Please let me know I’d love to hear what you think and what kind of things you’d like to see from this blog. Feel free to send me an [email](mailto:contact@weirdgiraffegames.com) or comment with your thoughts!
 
-Don’t forget to sign up for my mailing list, so you don’t miss a post: <https://tinyletter.com/carlakopp>
+Don’t forget to sign up for my mailing list, so you don’t miss a post: <
 
 ### *Related*

@@ -1,12 +1,12 @@
 # Where do Kickstarter backers come from?
 
-Source: https://thecityofkings.com/news/where-do-kickstarter-backers-come-from/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Where do Kickstarter backers come from?
 
-13th January 2022 [2](https://thecityofkings.com/news/where-do-kickstarter-backers-come-from/#comments)
+13th January 2022 2
 
 One of the most common questions I get asked is how valuable is having a website, using Twitter, Facebook, having a newsletter, and do they bring in backers? To help answer this I have gone through my 4 game Kickstarters and sorted the stats into the useful groups shown below.
 
@@ -17,7 +17,7 @@ Before reading the stats it’s important to keep in mind the following informat
 * Kickstarter has gotten better at providing data over the years and I have gotten better at tracking it. Just because something says 0 in the early campaigns doesn’t mean it did nothing, it just means I don’t have any tracking for it.
 * The sum of these numbers adds up to my total funding for each campaign.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/01/where-do-backers-come-from.jpg)
+![](
 
 ### **Direct and Search engines**
 
@@ -99,7 +99,7 @@ My biggest takeaway is just how important communities are for the first campaign
 
 I’m curious what stands out to you and if you have any questions I’m happy to answer them in the comments below.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

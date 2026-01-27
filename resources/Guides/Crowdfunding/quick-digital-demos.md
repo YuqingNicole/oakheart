@@ -1,16 +1,16 @@
 # Quick digital demos
 
-Source: https://thecityofkings.com/news/quick-digital-demos/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Quick digital demos
 
-25th October 2022 [1](https://thecityofkings.com/news/quick-digital-demos/#comments)
+25th October 2022 1
 
-![rttr-demo-website.jpg](https://thecityofkings.com/wp-content/uploads/2022/10/rttr-demo-website.jpg)
+!rttr-demo-website.jpg
 
-Approximately 5 weeks ago I was talking with [Wonmin](https://1minlee.com/games) about the idea of creating 5-minute digital demos to allow people to get a taste of what playing a game would feel like before they buy it.
+Approximately 5 weeks ago I was talking with Wonmin about the idea of creating 5-minute digital demos to allow people to get a taste of what playing a game would feel like before they buy it.
 
 There are plenty of digital platforms that offer full implementations of games but these require a lot of effort from the user and have a learning curve. Wonmin’s idea would be to create web based demos hosted on a website in order to reduce the effort required from the user. They just need to click a link, read a few rules, and can then immediately start playing.
 
@@ -20,15 +20,15 @@ With my latest game being a cooperative puzzle game it seemed like a great oppor
 
 I’m very intrigued to see how many people decide to give it a go, how many will complete the demo, and whether it has any noticeable impact on conversion rates.
 
-[You can take a look at the beta version of the demo here.](https://thecityofkings.com/race-to-the-raft-demo/)
+You can take a look at the beta version of the demo here.
 
 I think it’s great to try new things and look forward to seeing how this turns out.
 
 I’d also love to hear your thoughts about this, would you include a demo like this on your Kickstarter page if you could?
 
-*If you would like to explore creating your own digital demo then I recommend [reaching out to Wonmin](https://1minlee.com/games) as he is currently open to work.*
+*If you would like to explore creating your own digital demo then I recommend reaching out to Wonmin as he is currently open to work.*
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

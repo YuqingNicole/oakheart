@@ -1,16 +1,16 @@
 # Cancelled pledges are OK
 
-Source: https://thecityofkings.com/news/cancelled-pledges-are-ok/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Cancelled pledges are OK
 
-26th May 2022 [0](https://thecityofkings.com/news/cancelled-pledges-are-ok/#comments)
+26th May 2022 0
 
 One of the lesser-known parts of running a Kickstarter is just how many people cancel their pledges or decrease from one reward tier to another during the campaign. When you login to see how things are doing, it’s not uncommon to see the dreaded red labels.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/05/cancelled.jpg)
+![](
 
 This is perfectly normal and if you’re a first-time creator I want to strongly encourage you to avoid looking at it. You’re going to have people change their mind and you should stop looking at cancellations as they will only negatively impact your mental health.
 
@@ -36,7 +36,7 @@ The only time you should be concerned about cancellations or adjustments, is if 
 
 Unless there has been an issue, and typically these will become very visible very quickly, just carry on as normal and celebrate the backers who are joining!!
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

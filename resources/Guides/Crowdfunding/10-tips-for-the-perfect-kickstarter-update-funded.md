@@ -1,12 +1,12 @@
 # 10 tips for the perfect Kickstarter update (funded)
 
-Source: https://thecityofkings.com/news/10-tips-for-the-perfect-kickstarter-update-funded/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## 10 tips for the perfect Kickstarter update (funded)
 
-11th January 2022 [2](https://thecityofkings.com/news/10-tips-for-the-perfect-kickstarter-update-funded/#comments)
+11th January 2022 2
 
 Your kickstarter has just finished and your game is going to become a reality, but it’s going to take a long time to get it made and this is where many creators start to go wrong. Having spent months preparing to launch, building a community, and exciting them throughout the Kickstarter, there is a tendency to start forgetting about backers and leaving them out of the loop.
 
@@ -16,7 +16,7 @@ Here are my 10 tips for writing the perfect Kickstarter updates between your pro
 
 ### 10. Set expectations
 
-You may be familiar with how Kickstarter works, the time it takes to process cards and prepare pledge managers but not everyone is. Once your campaign has finished, send an [update explaining the process](https://www.kickstarter.com/projects/tcokgame/the-isle-of-cats-dont-forget-the-kittens/posts/3228921) and letting people know what to expect in the weeks and months to come.
+You may be familiar with how Kickstarter works, the time it takes to process cards and prepare pledge managers but not everyone is. Once your campaign has finished, send an update explaining the process and letting people know what to expect in the weeks and months to come.
 
 ### 9. Regular updates
 
@@ -40,7 +40,7 @@ I’m a big fan of fun and thematic Kickstarter update titles, but I’ve learne
 
 ### 6. Always say something, even if there’s nothing to say
 
-If everything is going great and you have no news to share, then still [send an update and say just that](https://www.kickstarter.com/projects/tcokgame/the-isle-of-cats-dont-forget-the-kittens/posts/3307662). Believe me, this type of update will often excite people much more than anything else as they want things to go well just as much as you do!
+If everything is going great and you have no news to share, then still send an update and say just that. Believe me, this type of update will often excite people much more than anything else as they want things to go well just as much as you do!
 
 ### 5. Have a conversation
 
@@ -50,7 +50,7 @@ Whenever you send an update you should respond to every comment, even if it’s 
 
 ### 4. First time backers
 
-In updates you should assume everyone is a first-time backer and [provide descriptive information and guides](https://www.kickstarter.com/projects/tcokgame/the-isle-of-cats-dont-forget-the-kittens/posts/3401458). Not everyone knows what a pledge manager is!
+In updates you should assume everyone is a first-time backer and provide descriptive information and guides. Not everyone knows what a pledge manager is!
 
 By doing this you will help reduce the amount of frustrated people, increase the amount of people who provide you with the correct details for shipping, and have a place to link to people who message you asking for help.
 
@@ -74,11 +74,11 @@ If something goes wrong, relax, work out your plan moving forward, and send an u
 
 The simplest but easiest tip here, at the top of every single update the first line should always say the current estimated delivery date.
 
-The number one piece of information people want is “when will I get it” and being able to [scroll through the updates page](https://www.kickstarter.com/projects/tcokgame/the-isle-of-cats-dont-forget-the-kittens/posts) and see this without having to search is more valuable than anything else I can suggest.
+The number one piece of information people want is “when will I get it” and being able to scroll through the updates page and see this without having to search is more valuable than anything else I can suggest.
 
 I hope this article helps you write better updates for your Kickstarter and I would love to know what other tips you have for writing updates?
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

@@ -1,12 +1,12 @@
 # Creating the perfect Kickstarter page: My wireframe
 
-Source: https://thecityofkings.com/news/creating-the-perfect-kickstarter-page-my-wireframe/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Creating the perfect Kickstarter page: My wireframe
 
-26th April 2022 [2](https://thecityofkings.com/news/creating-the-perfect-kickstarter-page-my-wireframe/#comments)
+26th April 2022 2
 
 A good Kickstarter page can be the difference between funding and failing, and all too often I see people rushing something together just before they launch. It always leaves me troubled to think a creator has spent the last 1, 2, or perhaps many more years working on a project only to rush a critical part right at the end.
 
@@ -18,7 +18,7 @@ For most of my Kickstarters I’ll spend 2 – 4 weeks of full-time work designi
 
 For this article, I’m going to focus on the building blocks of a page and the order they should be presented. I’ll give rough suggestions for the specific content of each block, but I won’t go into details as each block could be an article in itself.
 
-Equally, other topics such as [reward levels](https://thecityofkings.com/news/how-many-reward-tiers-should-you-have/), [goals](https://thecityofkings.com/news/setting-your-kickstarter-goal/), and [videos](https://thecityofkings.com/news/why-you-should-have-a-quick-3-minute-overview-video/) will be left for future articles so we can focus just on designing the page itself in this article. You can find all my [crowdfunding lessons](https://thecityofkings.com/crowdfunding-lessons/) here.
+Equally, other topics such as reward levels, goals, and videos will be left for future articles so we can focus just on designing the page itself in this article. You can find all my crowdfunding lessons here.
 
 ### **The sections you need**
 
@@ -26,7 +26,7 @@ A kickstarter page should be made up of clear sections of information, each sect
 
 With The Isle of Cats I used textures from the game to give each block a different colour background.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/1-blocks.jpg)
+![](
 
 Keep in mind, your project page is all on one long page on Kickstarter, you need to break it up to stop visitors from feeling lost and to avoid the feeling of endlessness as they scroll. Clear sections help achieve this while making the page look visually attractive.
 
@@ -48,7 +48,7 @@ Keep in mind, your project page is all on one long page on Kickstarter, you need
 14. Where to find us
 15. Shipping and taxes
 
-There are many ways to arrange a Kickstarter page but I believe the above approach to be a great standard to follow. It is based on a [community first](https://thecityofkings.com/news/community-not-customer/) approach where you want to inform visitors of what the product is and let them decide whether it is something they want. Not only will it help sell games and reduce questions, but it will help build a positive community.
+There are many ways to arrange a Kickstarter page but I believe the above approach to be a great standard to follow. It is based on a community first approach where you want to inform visitors of what the product is and let them decide whether it is something they want. Not only will it help sell games and reduce questions, but it will help build a positive community.
 
 A second approach is to push the fear of missing out (FOMO), to heavily focus on prices, discounts, the exclusives and extras you get for backing right now, and to focus on the value rather than the information. This approach may get you more sales, but often comes with you having to promise more extras than you would like and a less positive community.
 
@@ -66,11 +66,11 @@ All of the text in this section needs to be incredibly well thought out, it need
 
 Optionally, you can have 1 (longer) or 2 (shorter) quotes woven into this section. I prefer to use quotes that are both positive and descriptive rather than just “best game ever” as they help provide more information about the game while saying it’s good.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/quote.jpg)
+![](
 
 This is a perfect quote as not only does it make the game sound good, but it talks about it being enjoyable to teach which is a major hurdle for a lot of gamers.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/introduction.jpg)
+![](
 
 #### **2. Inside the box**
 
@@ -89,7 +89,7 @@ If you have multiple products, for example a game and an expansion, you should h
 
 Finally, if you only have 1 or 2 products and no addons, then you can include the individual prices on the bottom of the inside the box sections. Negating the need for sections 5 and 6 (pledge levels / addons). If you have 3 or more products and/or addons, then don’t include the prices here.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/inside-box-1-scaled.jpg)
+![](
 
 #### **3. Stretch goals / reveals**
 
@@ -97,9 +97,9 @@ If you choose to have stretch goals or use daily reveals, this is the best place
 
 As visitors scroll the page it will organically continue the “inside the box” section by showing the extra stuff that will now be in the box due to the stretch goals unlocking.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/unlocks.jpg)
+![](
 
-[*Example taken from Tidal Blades 2*](https://www.kickstarter.com/projects/druidcitygames/tidal-blades-rise-of-the-unfolders-cypher-system-rpg-book/description)
+*Example taken from Tidal Blades 2*
 
 #### **4. Photos**
 
@@ -109,29 +109,29 @@ It’s amazing how much seeing something real subconsciously changes your views 
 
 You don’t need final versions of your product either, good prototypes do a great job as shown below.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/2-prototype.jpg)
+![](
 
 #### **5. Pledge levels**
 
-You can read about my thoughts on [pledge levels here](https://thecityofkings.com/news/how-many-reward-tiers-should-you-have/)**.**
+You can read about my thoughts on pledge levels here**.**
 
 If you have multiple products and are including a pledge level section, then you should show summaries of what’s included in each reward tier by showing each product, the price, and the name given to the reward option.
 
 If you have additive pledge levels, meaning a basic one, then a deluxe, then an all-in, make sure you clearly state what extras are included in each one when compared to the last. It can be useful to included a comparison chart in these situations at the top of this section.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/3-comparative.jpg)
+![](
 
 Don’t try to make each pledge level too big as you want people to be able to scroll and easily compare them. But at the same time, do try to make sure as the price increases, the amount of stuff also visually increases alongside it.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/pledge-levels.jpg)
+![](
 
 #### **6. Addons**
 
 Addons work just like pledge levels but you want to provide a little more detail about what each addon is. Create a block with each addon available, include the price and describe what is included ideally in 1 – 2 sentences.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/lucky-duck.jpg)
+![](
 
-[*Example taken from The Dark Quarter*](https://www.kickstarter.com/projects/destinies/the-dark-quarter?ref=profile_created)
+*Example taken from The Dark Quarter*
 
 #### **7. Group pledges**
 
@@ -141,7 +141,7 @@ Group pledges are when 2 or more people get together and want to buy multiple co
 
 You should always include a statement on group pledges, either stating what your group pledge offering is, or why you don’t offer it.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/4-group.jpg)
+![](
 
 The idea here is to pre-empt frequently asked questions while showing potential backers that you have a full understanding of how Kickstarter works and the types of things people want to know.
 
@@ -149,17 +149,17 @@ While your page should look good, a big part of a successful Kickstarter is prov
 
 #### **8. Retailers**
 
-[Working with retailers](https://thecityofkings.com/news/preparing-your-kickstarter-for-retailers/) is a great way to sell more copies of your game, increase your reach, and make the industry aware of your product.
+Working with retailers is a great way to sell more copies of your game, increase your reach, and make the industry aware of your product.
 
 You should include a statement on retailer options, either stating what your retailer process is, or why you don’t have one.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/5-retailers.jpg)
+![](
 
 #### **9. Languages**
 
-Personally, I leave translations until after Kickstarter but some people like to include them. You can learn about the [translation process here](https://thecityofkings.com/news/how-to-translate-a-game/) and should always include a statement on whether or not they will be included in the campaign.
+Personally, I leave translations until after Kickstarter but some people like to include them. You can learn about the translation process here and should always include a statement on whether or not they will be included in the campaign.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/6-languages.jpg)
+![](
 
 This is very likely going to be the most commonly asked question so again, show people you already know that and have an answer prepared and on your page!
 
@@ -182,7 +182,7 @@ It is absolutely critical that you have a rulebook available to download, even i
 
 Afterall, a game should be blind playtested before going on Kickstarter so the rulebook should exist!
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/how-to-scaled.jpg)
+![](
 
 #### **11. Videos and quotes**
 
@@ -194,11 +194,11 @@ I like to wrap them with quotes taken from the creators and I’ll also link to 
 
 People like to know who they are supporting and creating a team section is a great way to help them learn. It doesn’t matter if you’re just one person or a team of people, you should include a section about who is involved in the project.
 
-You can also include any partners here such as your chosen [manufacturers](https://thecityofkings.com/news/board-game-manufacturers-how-to-choose-one/) and [fulfilment centres](https://thecityofkings.com/news/my-current-approach-to-kickstarter-fulfillment/). This can further help people have confidence that you’ve already done your research and chosen partners to work with.
+You can also include any partners here such as your chosen manufacturers and fulfilment centres. This can further help people have confidence that you’ve already done your research and chosen partners to work with.
 
 Have some fun with this section, show your personality and don’t be afraid to be creative!
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/7-team.jpg)
+![](
 
 #### **13. Avatars and media pack**
 
@@ -208,7 +208,7 @@ Likewise, your biggest fans and loyal supporters like to help in anyway possible
 
 I typically create a public folder on Google Drive and point people to it in this section, while sharing a preview of some of the images on the page so people can see what they are getting.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/8-avatars.jpg)
+![](
 
 #### **14. Where to find us**
 
@@ -218,9 +218,9 @@ Anyone who’s gotten this far on your page is going to be either really engaged
 
 It doesn’t need to be a big section, but do provide a nice list of the places you can be found along with links.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/dog-park-2.jpg)
+![](
 
-[*Example taken from Dog Park*](https://www.kickstarter.com/projects/birdwoodgames/dog-park-board-game/description)
+*Example taken from Dog Park*
 
 #### **15. Shipping and taxes**
 
@@ -238,13 +238,13 @@ It may seem strange to include this as the bottom of the page but I recommend do
 1. It’s the most off-putting part of a Kickstarter for many people, no one likes to pay for shipping or taxes! By putting it at the end, you can make sure everyone has all the information they need before they get into the less fun stuff.
 2. You can easily direct people to it by saying “at the bottom of the page”, which is much easier than saying it’s about 3/5 of the way down.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/shipping.jpg)
+![](
 
 ### **Section numbers**
 
 I’m a big fan of numbering the sections on my page and clearly showing readers the numbers.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/04/9-sections.jpg)
+![](
 
 Why?
 
@@ -266,7 +266,7 @@ Don’t be afraid to get creative and try your own things, you do need to stand 
 
 Good luck!
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

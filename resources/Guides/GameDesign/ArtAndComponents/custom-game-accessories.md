@@ -1,8 +1,8 @@
 # Custom Game Accessories
 
-Source: https://www.gamefoundry.hk/game-accessories
+Source: 
 
-![green wooden toys](https://images.unsplash.com/photo-1506954673998-b077f05b13c7?auto=format&fit=crop&w=1920)
+!green wooden toys
 
 # Custom Game Accessories
 
@@ -22,7 +22,7 @@ Source: https://www.gamefoundry.hk/game-accessories
 
 [Get A Quote Now](/contact-us)
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/YKb1E18MGyh1Qj41/pexels-cottonbro-studio-4691555-dWxeE16E6pfoKE1L.jpg)
+![](
 
 ### They are typically made from wood and are designed to be durable, tactile, and visually appealing. Some common examples of wooden game pieces include pawns, dice, cubes, discs, and meeples.
 
@@ -38,29 +38,29 @@ Source: https://www.gamefoundry.hk/game-accessories
 
 ### Metal Game Pieces
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=369,fit=crop/YKb1E18MGyh1Qj41/ae-e-aepsa-dWxeoKN1GrTkGDjB.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/YKb1E18MGyh1Qj41/ae-e-aepsa-dWxeoKN1GrTkGDjB.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=369,fit=crop/YKb1E18MGyh1Qj41/ea--ea-p-Yan6oVK02Nux57an.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=367,fit=crop/YKb1E18MGyh1Qj41/ea--ea-p-Yan6oVK02Nux57an.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=369,fit=crop/YKb1E18MGyh1Qj41/game-pawns-m5KlQ9e2OaTjMJGX.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/YKb1E18MGyh1Qj41/game-pawns-m5KlQ9e2OaTjMJGX.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/YKb1E18MGyh1Qj41/pexels-cottonbro-studio-4691555-dWxeE16E6pfoKE1L.jpg)
+![](
 
 ### Miniatures
 
-![red dragon action figure on table](https://images.unsplash.com/photo-1549056572-75914d5d5fd4?auto=format&fit=crop&w=458&h=435)
+!red dragon action figure on table
 
-![red dragon action figure on table](https://images.unsplash.com/photo-1549056572-75914d5d5fd4?auto=format&fit=crop&w=328&h=320)
+!red dragon action figure on table
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=462,fit=crop/YKb1E18MGyh1Qj41/cdegae-YyvX1VVnvWiVaMPa.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/YKb1E18MGyh1Qj41/cdegae-YyvX1VVnvWiVaMPa.jpg)
+![](
 
 ## 1. If you have 3D artwork, we will make a 3D sample in a week and ship it to you for your confirmation. Then we will open the molds (in a month) and make a pre-production sample(PPS) in 3~5 days for your confirmation. Finally, we will arrange the mass production and color them.
 
@@ -93,7 +93,7 @@ Source: https://www.gamefoundry.hk/game-accessories
 
 ## We can help customers to draw artwork and charge the corresponding fee according to the difficulty level.
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/YKb1E18MGyh1Qj41/pexels-cottonbro-studio-4691555-dWxeE16E6pfoKE1L.jpg)
+![](
 
 ## Size
 
@@ -101,9 +101,9 @@ Source: https://www.gamefoundry.hk/game-accessories
 
 ### What We Can Customize for Your Dice?
 
-![yellow and white dice with numbers](https://images.unsplash.com/photo-1615806647436-4e1e99398858?auto=format&fit=crop&w=365&h=466)
+!yellow and white dice with numbers
 
-![yellow and white dice with numbers](https://images.unsplash.com/photo-1615806647436-4e1e99398858?auto=format&fit=crop&w=328&h=320)
+!yellow and white dice with numbers
 
 ## Print Methods
 
@@ -127,13 +127,13 @@ Source: https://www.gamefoundry.hk/game-accessories
 
 * ## Accept pantone color custom make, two color mixed
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/YKb1E18MGyh1Qj41/dice-AGBMgk733etR3Dzj.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/YKb1E18MGyh1Qj41/acrylic-cubes-mxBjKn0l4gipLpGw.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/YKb1E18MGyh1Qj41/12950154854_526115550-mP4PK2W81Nu3bME2.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/YKb1E18MGyh1Qj41/1-mxBjVM2GgxIeO3BX.jpg)
+![](
 
 ### Acrylic Dice
 
@@ -143,7 +143,7 @@ Source: https://www.gamefoundry.hk/game-accessories
 
 ### Wooden Dice
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/YKb1E18MGyh1Qj41/pexels-cottonbro-studio-4691555-dWxeE16E6pfoKE1L.jpg)
+![](
 
 ### The most affordable game token, made from thick cardboard and come in a variety of customized colors, thickness, shapes and sizes.
 
@@ -163,35 +163,35 @@ Source: https://www.gamefoundry.hk/game-accessories
 
 ### Often used as an alternative to cardboard or metal tokens. They are lighter and cheaper than metal tokens, and more durable than cardboard tokens.
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=379,fit=crop/YKb1E18MGyh1Qj41/o1cn012zrwfe27caj6guaec_-3467357761-0-cib-AMqao1zlGKHpgaBq.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/YKb1E18MGyh1Qj41/o1cn012zrwfe27caj6guaec_-3467357761-0-cib-AMqao1zlGKHpgaBq.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=379,fit=crop/YKb1E18MGyh1Qj41/2-AzGjVXng65uZoDgK.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/YKb1E18MGyh1Qj41/2-AzGjVXng65uZoDgK.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=379,fit=crop/YKb1E18MGyh1Qj41/il_fullxfull.2655940020_1e8b-mp83VW0vaNH0jJo9.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/YKb1E18MGyh1Qj41/il_fullxfull.2655940020_1e8b-mp83VW0vaNH0jJo9.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=379,fit=crop/YKb1E18MGyh1Qj41/o1cn012zrwfe27caj6guaec_-3467357761-0-cib-mp83VW04BwhGaxxW.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/YKb1E18MGyh1Qj41/o1cn012zrwfe27caj6guaec_-3467357761-0-cib-mp83VW04BwhGaxxW.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/YKb1E18MGyh1Qj41/pexels-cottonbro-studio-4691555-dWxeE16E6pfoKE1L.jpg)
+![](
 
 ### Wood is the most popular material for making meeples with a unique texture and appearance. Meeples with lists such as animal houses can be customized to your needs
 
 ### Another accessory
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=229,fit=crop/YKb1E18MGyh1Qj41/1-2-A0xe6pKgRDcWynPZ.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=275,fit=crop/YKb1E18MGyh1Qj41/1-2-A0xe6pKgRDcWynPZ.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=229,fit=crop/YKb1E18MGyh1Qj41/o1cn01awk0lz26ugn6pbjcy_-3037477721-0-cib-Yg2LoowzJxUBxgVQ.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=293,fit=crop/YKb1E18MGyh1Qj41/o1cn01awk0lz26ugn6pbjcy_-3037477721-0-cib-Yg2LoowzJxUBxgVQ.jpg)
+![](
 
 ### Meeple
 
@@ -199,17 +199,17 @@ Source: https://www.gamefoundry.hk/game-accessories
 
 ### You can choose our existing chips to buy, you can also customize your own logo, or even completely customize the appearance of the entire chip
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=229,fit=crop/YKb1E18MGyh1Qj41/ae-a-ALpBNQkGPVcM0r11.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=301,fit=crop/YKb1E18MGyh1Qj41/ae-a-ALpBNQkGPVcM0r11.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=229,fit=crop/YKb1E18MGyh1Qj41/sand-timers-Y4LOXQ3pLNCJ9WRR.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=276,fit=crop/YKb1E18MGyh1Qj41/sand-timers-Y4LOXQ3pLNCJ9WRR.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=229,fit=crop/YKb1E18MGyh1Qj41/play-money-AQE8nr01p2Tw2zXE.jpg)
+![](
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=257,fit=crop/YKb1E18MGyh1Qj41/play-money-AQE8nr01p2Tw2zXE.jpg)
+![](
 
 ### Plastic house
 
@@ -217,7 +217,7 @@ Source: https://www.gamefoundry.hk/game-accessories
 
 ### Game money
 
-![](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/YKb1E18MGyh1Qj41/pexels-cottonbro-studio-4691555-dWxeE16E6pfoKE1L.jpg)
+![](
 
 ## Contact Us
 

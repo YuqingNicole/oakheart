@@ -1,14 +1,14 @@
 # Case study: League of the Lexicon
 
-Source: https://thecityofkings.com/news/case-study-league-of-the-lexicon/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Case study: League of the Lexicon
 
-2nd August 2022 [0](https://thecityofkings.com/news/case-study-league-of-the-lexicon/#comments)
+2nd August 2022 0
 
-![breaking-the-mould-website.jpg](https://thecityofkings.com/wp-content/uploads/2022/08/breaking-the-mould-website.jpg)
+!breaking-the-mould-website.jpg
 
 Late last year I received an email from Joshua, the founder of Two Brothers Games. They were looking for some advice and I was happy to help, we had a brief chat and life went on. Over time there was the odd follow up question to the matter at hand but our interactions were very limited and focused around one point.
 
@@ -22,7 +22,7 @@ I’m always honest and upfront when chatting to people about campaigns and I re
 
 Despite the warnings Joshua proceeded, he decided to launch without review videos (something I wouldn’t recommend) and despite only having 102 backers on his last campaign he was confident he would get the backing.
 
-[The campaign page](https://www.kickstarter.com/projects/treattrumps/league-of-the-lexicon) itself ticks a lot of the usual boxes and is well designed, but where it differs is the quotes.
+The campaign page itself ticks a lot of the usual boxes and is well designed, but where it differs is the quotes.
 
 Rather than having familiar board game names talking about how good the game is, Joshua has well known people from the market his game is targeting.
 
@@ -38,13 +38,13 @@ Watching the project has been a joy as it shows that despite all the trends and 
 
 With most projects I would expect to see about 1/3 of the money raised in the first 3 days, another 1/3 in the last 2 days and the remaining 1/3 over the rest of the time. With this project it’s been near continual growth and I can only imagine having countless influencers who aren’t as familiar with Kickstarter as board game content creators are, helps with keeping the game in front of people who wouldn’t otherwise see it.
 
-![League of the Lexicon Kicktraq](https://thecityofkings.com/wp-content/uploads/2022/08/lexicon.png)
+!League of the Lexicon Kicktraq
 
-*[Image captured on Kicktraq.](https://kicktraq.com/projects/treattrumps/league-of-the-lexicon/#chart-daily)*
+*Image captured on Kicktraq.*
 
 I think this is also a good lesson that tackling a specific subject with a game, connecting yourself with that subjects community, and focusing on audiences outside of the typical board game marketplace can be incredibly effective, if you can do it right.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

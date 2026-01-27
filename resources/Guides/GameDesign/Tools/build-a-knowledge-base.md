@@ -1,8 +1,8 @@
 # Build a Knowledge Base
 
-Source: https://lawofgamedesign.com/2016/06/08/theory-build-a-knowledge-base/
+Source: 
 
-[This article](http://www.albinodragon.com/genegrafter-kickstarter-case-study/) is interesting, for two reasons. First, it has some Kickstarter-related advice that might be of interest. Second, and perhaps more importantly, it has this to say about good design:
+This article is interesting, for two reasons. First, it has some Kickstarter-related advice that might be of interest. Second, and perhaps more importantly, it has this to say about good design:
 
 “**Pro Tip:** Play a f\*\*\* ton of games before you try to design one.”
 
@@ -30,10 +30,10 @@ There are warnings to be found in the digital realm as well. Online multiplayer,
 
 **On the Shoulders of Giants**
 
-Playing lots of games doesn’t mean that one has to go back over old ground endlessly. Nor does it mean the accepted ways of doing things become constraints. Rather, knowing what’s out there makes innovation easier, by enabling one to know which design approaches are actually innovative–and which are well-trod paths, or worse, are rife with land mines. [Don’t use play-for-research as a substitute for progress on your own work](https://lawofgamedesign.com/2015/05/29/theory-playing-isnt-working/), but recognize the importance of that research, and make time for it.
+Playing lots of games doesn’t mean that one has to go back over old ground endlessly. Nor does it mean the accepted ways of doing things become constraints. Rather, knowing what’s out there makes innovation easier, by enabling one to know which design approaches are actually innovative–and which are well-trod paths, or worse, are rife with land mines. Don’t use play-for-research as a substitute for progress on your own work, but recognize the importance of that research, and make time for it.
 
 \*I’m not sure if the pattern originated there, but it may well have.
 
 ### *Related*
 
-Posted on [June 8, 2016](https://lawofgamedesign.com/2016/06/08/theory-build-a-knowledge-base/) Posted in [Game design theory](https://lawofgamedesign.com/category/game-design-theory/)Tagged [7 wonders](https://lawofgamedesign.com/tag/7-wonders/), [game design](https://lawofgamedesign.com/tag/game-design/), [magic: the gathering](https://lawofgamedesign.com/tag/magic-the-gathering/)
+Posted on June 8, 2016 Posted in Game design theoryTagged 7 wonders, game design, magic: the gathering

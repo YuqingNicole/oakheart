@@ -1,14 +1,14 @@
 # Who is using Kickstarter and why?
 
-Source: https://thecityofkings.com/news/who-is-using-kickstarter-and-why/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Who is using Kickstarter and why?
 
-1st November 2022 [1](https://thecityofkings.com/news/who-is-using-kickstarter-and-why/#comments)
+1st November 2022 1
 
-![who-why-website.jpg](https://thecityofkings.com/wp-content/uploads/2022/11/who-why-website.jpg)
+!who-why-website.jpg
 
 I often see people asking who is using Kickstarter these days and thought it would be a good time to discuss both who is using the platform and also why they are using the platform.
 
@@ -18,12 +18,12 @@ While it is perhaps considered less common than it was 5 years ago, there are st
 
 Examples of this would include:
 
-* [Welcome to Sysifus Corp](https://www.kickstarter.com/projects/pegasusgamesnyc/welcome-to-sysifus-corp-a-cut-throat-corporate-board-game)
-* [Carrooka!](https://www.kickstarter.com/projects/carrooka/carrooka)
-* [Dog Park](https://www.kickstarter.com/projects/birdwoodgames/dog-park-board-game)
-* [Steam Up: A Feast of Dim Sum](https://www.kickstarter.com/projects/steam-up/steam-up-a-feast-of-dim-sum)
-* [Damnation: The Gothic Game](https://www.kickstarter.com/projects/blacklettergames/damnation-the-gothic-game-0)
-* [CoraQuest](https://www.kickstarter.com/projects/cabbagedan/coraquest)
+* Welcome to Sysifus Corp
+* Carrooka!
+* Dog Park
+* Steam Up: A Feast of Dim Sum
+* Damnation: The Gothic Game
+* CoraQuest
 
 There are plenty of them each year, they just often get overshadowed by the larger projects.
 
@@ -50,7 +50,7 @@ You then have the larger publishers who perhaps have the money to print the hi
 
 There are a lot more things to consider and this is really just my first thoughts on this matter, but hopefully it helps you view this topic from a different perspective.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

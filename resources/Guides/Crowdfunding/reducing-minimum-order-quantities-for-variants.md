@@ -1,16 +1,16 @@
 # Reducing minimum order quantities for variants
 
-Source: https://thecityofkings.com/news/reducing-minimum-order-quantities-for-variants/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## Reducing minimum order quantities for variants
 
-9th February 2023 [2](https://thecityofkings.com/news/reducing-minimum-order-quantities-for-variants/#comments)
+9th February 2023 2
 
-![reduced-moqs-website.jpg](https://thecityofkings.com/wp-content/uploads/2023/02/reduced-moqs-website.jpg)
+!reduced-moqs-website.jpg
 
-All [manufacturers](https://thecityofkings.com/news/board-game-manufacturers-how-to-choose-one/) have minimum order quantities (MOQs) and usually they’ll either be 1,000 or 1,500 units. If you want to work with a specific manufacturer you will need to produce at least their MOQ for them to be willing to work with you.
+All manufacturers have minimum order quantities (MOQs) and usually they’ll either be 1,000 or 1,500 units. If you want to work with a specific manufacturer you will need to produce at least their MOQ for them to be willing to work with you.
 
 *For the purposes of this article, let’s assume your chosen manufacturer has a MOQ of 1,000.*
 
@@ -47,7 +47,7 @@ The result of this is you are producing 1,350 of one product and 1,000 of anothe
 
 If you want to offer multiple versions of your game then I recommend each version offers upgrades to the retail version rather than changes, allowing you to stack MOQs using the method above. This will help bring your costs down and make printing multiple versions much more affordable.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

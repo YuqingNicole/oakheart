@@ -1,12 +1,12 @@
 # An Introduction to Spreadsheets for Game Designers
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=572A643A16A8421
+Source: 
 
 # The Ultimate Guide to Spreadsheets for Board Game Designers
 
-[![Chris Backe's avatar](https://substackcdn.com/image/fetch/$s_!AcVW!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F98eeac72-423b-4773-a21a-798773686c9f_3872x2592.jpeg)](https://substack.com/@entrogames)
+![Chris Backe's avatar](
 
-[Chris Backe](https://substack.com/@entrogames)
+Chris Backe
 
 Jan 20, 2022
 
@@ -18,9 +18,9 @@ I was a Business major in college, and it was a class on entrepreneurship where 
 
 ## Dangit, Jim, I'm a game designer not a number cruncher!
 
-[![](https://substackcdn.com/image/fetch/$s_!13K6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc81b863a-52f5-4515-9329-78a6174c3790_160x160.gif)](https://substackcdn.com/image/fetch/$s_!13K6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc81b863a-52f5-4515-9329-78a6174c3790_160x160.gif)
+![](
 
-[via GIFER](https://gifer.com)
+via GIFER
 
 It's all good. By the time we're done with this article, you will learn:
 
@@ -39,19 +39,19 @@ As they're most commonly used by designers, spreadsheets do four major things:
 * Organize data
 * Help with balance
 * Make it easy to share data with collaborators, publishers, graphic designers, etc.
-* Make it possible to import data into services like [Component.studio](https://Component.studio) or [Nandeck](https://www.nandeck.com/)
+* Make it possible to import data into services like Component.studio or Nandeck
 
 Getting good at spreadsheets means being able to wrangle the data in your game into a thing you can show someone else, do math to predict how things will turn out, and check for balancing issues before printing up more cards.
 
 Spreadsheets can look really intimidating, especially if you get introduced to some of the more fanciful formulas too early ('*no, literally, I just changed one number and half the spreadsheet broke - GAHHH!).*I'm here to tell you that a spreadsheet is the easiest way to track, edit, and balance your game.
 
-(One semi-important note: it doesn't matter whether you prefer Microsoft Excel, Open Office, Google Sheets or some other spreadsheet solution. These are tools and terms used in all of them. These screenshots were all taken in Google Sheets, which is free, online, backs up automatically, and lets you roll back to a previous version of a file easily. It's what I do 99% of my spreadsheet stuff in. Start at <https://docs.google.com/spreadsheets>.)
+(One semi-important note: it doesn't matter whether you prefer Microsoft Excel, Open Office, Google Sheets or some other spreadsheet solution. These are tools and terms used in all of them. These screenshots were all taken in Google Sheets, which is free, online, backs up automatically, and lets you roll back to a previous version of a file easily. It's what I do 99% of my spreadsheet stuff in. Start at <
 
 ### The Basic Terms of a Spreadsheet
 
 Just so we're all on the same sheet... or is that a *tab*...?
 
-[![](https://substackcdn.com/image/fetch/$s_!eChX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a1e25bd-81fe-4440-99e6-db42f0059974_885x529.jpeg)](https://substackcdn.com/image/fetch/$s_!eChX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a1e25bd-81fe-4440-99e6-db42f0059974_885x529.jpeg)
+![](
 
 * **Row**: stretch west to east. Click the gray box with the number on the left to select the entire row.
 * **Column**: stretch north to south. Click the gray box with the letter at the top to select the entire column.
@@ -72,7 +72,7 @@ Finally, I've put the names of functions in ALL CAPS so they stand out a bit. Th
 
 Here's a screenshot of one of my games, Pirate Grannies:
 
-[![](https://substackcdn.com/image/fetch/$s_!FNbR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce95d360-5890-4896-b1ff-4a9120ed605d_929x446.jpeg)](https://substackcdn.com/image/fetch/$s_!FNbR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce95d360-5890-4896-b1ff-4a9120ed605d_929x446.jpeg)
+![](
 
 Without even explaining what the game is about, you can probably begin noting the important details:
 
@@ -88,7 +88,7 @@ This is where you may end up, but for now, let's back up.
 
 Scrolling around the spreadsheet is obvious enough — what I'm talking about here is to help make light work of the formulas you'll want to use more than once.
 
-[![](https://substackcdn.com/image/fetch/$s_!Q9ez!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb6a42ed-c384-45d5-8cba-ac835bf500bb_494x383.jpeg)](https://substackcdn.com/image/fetch/$s_!Q9ez!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb6a42ed-c384-45d5-8cba-ac835bf500bb_494x383.jpeg)
+![](
 
 See that tiny box in the lower-right corner of the cell? If you hover your mouse over that little box, then click and drag it, the spreadsheet will take whatever's in that cell and copy it into the cells you drag into.
 
@@ -104,17 +104,17 @@ In this example, I want to group the locations I'm using.
 
 In Sheets, select all of  the columns you want to sort, then click Data > Sort Range:
 
-[![](https://substackcdn.com/image/fetch/$s_!GEaG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd6e854c-57cd-4f15-8912-1c56bca4ba13_539x330.jpeg)](https://substackcdn.com/image/fetch/$s_!GEaG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd6e854c-57cd-4f15-8912-1c56bca4ba13_539x330.jpeg)
+![](
 
 Check the 'Data has header row' to tell the spreadsheet to use that top row instead of 'Column A', 'Column B', etc.. Don't be intimidated by that A1 to I1000 — that's a spreadsheet's way of saying you chose all of the rows in columns A through I. Again, whatever range you select should all the data for all the cards you want to sort. It's also fine to copy this into another sheet — sort things one way in one sheet and another way in a second sheet.
 
 Give that 'Add another sort column' button a click:
 
-[![](https://substackcdn.com/image/fetch/$s_!2Uq5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29a799d5-011a-4154-9625-8515a976e792_542x407.jpeg)](https://substackcdn.com/image/fetch/$s_!2Uq5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29a799d5-011a-4154-9625-8515a976e792_542x407.jpeg)
+![](
 
 Whatever the first 'Sort by' column is, Sheets will continue to the right by default. Setting it up this way will group all the rows with the same resource, then sort by the 'Where?'...
 
-[![](https://substackcdn.com/image/fetch/$s_!n-v3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F487e679c-666e-417d-bf13-19afd6330078_931x397.jpeg)](https://substackcdn.com/image/fetch/$s_!n-v3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F487e679c-666e-417d-bf13-19afd6330078_931x397.jpeg)
+![](
 
 Bam. Done. I can see I give out Energy at the Cannon and Officer's quarters twice, and most other places only once. If I'm trying to use each place the same number of times, I now know what I need to work on.
 
@@ -126,13 +126,13 @@ Use the SUM function, and reference the cells or range you want to total up.
 
 For example, =sum(B1:B3) will total up the three numbers in B1, B2, and B3...
 
-[![](https://substackcdn.com/image/fetch/$s_!UGHa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f5cd6ac-e249-4e48-b744-372980134093_486x170.jpeg)](https://substackcdn.com/image/fetch/$s_!UGHa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f5cd6ac-e249-4e48-b744-372980134093_486x170.jpeg)
+![](
 
 Note that in Google Sheets, you should also see the result of your formula just above the equal sign.
 
 You can also add each number and use standard mathematical symbols like +,-,\*, or . For example, =sum(B1+B2+B3)...
 
-[![](https://substackcdn.com/image/fetch/$s_!7BwB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46a21c60-841e-46a2-b868-d0a123ce2be2_492x171.jpeg)](https://substackcdn.com/image/fetch/$s_!7BwB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46a21c60-841e-46a2-b868-d0a123ce2be2_492x171.jpeg)
+![](
 
 This is also the easiest sort of formula to see the magic of spreadsheets — change one of the numbers in column B, and the sum in A2 will automagically update.
 
@@ -142,17 +142,17 @@ Sure, you could count these and then type a number into a cell... but that count
 
 Let's look at the screenshot I shared earlier:
 
-[![](https://substackcdn.com/image/fetch/$s_!ukxN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64d58e37-3b30-4779-8448-ea464a7a003e_929x446.jpeg)](https://substackcdn.com/image/fetch/$s_!ukxN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64d58e37-3b30-4779-8448-ea464a7a003e_929x446.jpeg)
+![](
 
 Let's say I wanted to count the number of times I used 'Energy' as a resource in column B.
 
 Elsewhere on the sheet, I'd have something like this (it's a few columns to the right of the screenshot above):
 
-[![](https://substackcdn.com/image/fetch/$s_!j7e1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46eb2c24-cf09-4296-b446-dd40c0fe3e90_265x155.jpeg)](https://substackcdn.com/image/fetch/$s_!j7e1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46eb2c24-cf09-4296-b446-dd40c0fe3e90_265x155.jpeg)
+![](
 
 On the left here, I have the five things I'm looking to count. On the right is my goal — how many times I want each resource to be used. This 'goal' number is just typed in. The 'count' column is where the magic happens:
 
-[![](https://substackcdn.com/image/fetch/$s_!Rx4x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd94070a0-9138-4570-b804-db7270569189_266x69.jpeg)](https://substackcdn.com/image/fetch/$s_!Rx4x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd94070a0-9138-4570-b804-db7270569189_266x69.jpeg)
+![](
 
 =COUNTIF(B:B,L38) is the formula here. Let's break this down.
 
@@ -201,13 +201,13 @@ Believe it or not, this may be all you need to do to keep things organized. If t
 
 Once the game's data is all in the spreadsheet, it's time for the fun to begin.
 
-[Open this template worksheet now to follow along.](https://docs.google.com/spreadsheets/d/1Xag3NmEtqWoTaMEIbf_xvF8iTadQBeJEKdoByEQD8W4/edit?usp=sharing) (Start in the 'without cost' tab.)
+Open this template worksheet now to follow along. (Start in the 'without cost' tab.)
 
 For this post I'm going to be in Google Sheets, mainly because it's free and online. By all means feel free to use Microsoft Excel, OpenOffice Calc, or whichever program floats your boat. They all work basically the same way.
 
 ## Behold, the spreadsheet:
 
-[![](https://substackcdn.com/image/fetch/$s_!vmmp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb86911e-fc71-4a87-be96-662bba6689b7_1024x522.jpeg)](https://substackcdn.com/image/fetch/$s_!vmmp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb86911e-fc71-4a87-be96-662bba6689b7_1024x522.jpeg)
+![](
 
 For this example, I have a set of 20 cards, each with a Attack, a Defense, and some sort of Special effect. This isn't created with any specific game in mind, but it follows the same patterns I follow in a real-world game. The rest of the stuff is just here for tracking / internal use (like the ID number) or balancing.
 
@@ -245,7 +245,7 @@ Why would I use triangular scoring here? Perhaps some of these special effects m
 
 One big reason to create values like this is to establish a fair cost for a card. Have a look at column E, Total Value:
 
-[![](https://substackcdn.com/image/fetch/$s_!ogvn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60de5a96-06d4-4aa4-a7ac-40bf572e098a_453x597.jpeg)](https://substackcdn.com/image/fetch/$s_!ogvn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60de5a96-06d4-4aa4-a7ac-40bf572e098a_453x597.jpeg)
+![](
 
 This total value takes into account the Attack, Defense, and Special effects of the card, and this value can now be compared to other values generated the same way. All other things being equal, card #2 is about twice as a good as card #1, and card #20 is about 6.5 times better than card #1.
 
@@ -255,7 +255,7 @@ So let's say I make the weakest card cost 1 and see where that takes me. To do t
 
 Yeah, exactly. 3.5:
 
-[![](https://substackcdn.com/image/fetch/$s_!9DeR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F369c8921-83d7-4c09-b5df-12c028cc660e_496x599.jpeg)](https://substackcdn.com/image/fetch/$s_!9DeR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F369c8921-83d7-4c09-b5df-12c028cc660e_496x599.jpeg)
+![](
 
 Hmm. That didn't go as planned. It's going to be really hard to ask someone to pay 6.428571429 of something...
 
@@ -265,7 +265,7 @@ Rounding, baby!
 
 In a spreadsheet, the easiest way to do this is to decrease the decimal places to automatically round those results:
 
-[![](https://substackcdn.com/image/fetch/$s_!Y736!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dd79662-329d-4a1d-bfbc-48adf5580d23_353x662.jpeg)](https://substackcdn.com/image/fetch/$s_!Y736!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dd79662-329d-4a1d-bfbc-48adf5580d23_353x662.jpeg)
+![](
 
 Alright - this is better. You can round all the way down to 0 decimals if you just want to see the whole number.
 
@@ -277,7 +277,7 @@ Being perfectly balanced isn't (usually) my goal. Fun is why we play. This is a 
 
 To finish out the example, let's manually type some numbers in column C ***based on***the data thus far (compare the calculated cost in column D to the typed cost in column C):
 
-[![](https://substackcdn.com/image/fetch/$s_!PgPQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F983645ed-5c7b-48c4-9b3f-57b1b0398e39_914x600.jpeg)](https://substackcdn.com/image/fetch/$s_!PgPQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F983645ed-5c7b-48c4-9b3f-57b1b0398e39_914x600.jpeg)
+![](
 
 Lots to look at here, I know. Balancing is an art, it's a work-in-progress, and it's rarely if ever perfect. It doesn't replace playtesting, but spending some time on balancing can make a lot of other things fall into place.
 
@@ -296,7 +296,7 @@ Alright, so within this group of 20 cards, I'd be prepared to call this reasonab
 
 Look towards the right of the spreadsheet, columns N, O, and P:
 
-[![](https://substackcdn.com/image/fetch/$s_!uvWP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8570ce2e-7d6d-4b6d-ad07-850a6844c90d_404x594.jpeg)](https://substackcdn.com/image/fetch/$s_!uvWP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8570ce2e-7d6d-4b6d-ad07-850a6844c90d_404x594.jpeg)
+![](
 
 Call this a force of habit. As part of balancing, I want to know at a glance whether the various amounts are being used the 'correct' number of times. What's 'correct' may vary according to your interests - maybe you want a bell curve, or a long tail. Maybe you want each amount to be used the same amount of times. The 'COUNT' column is counted automatically using the COUNTIF function - tell the spreadsheet where to look (RANGE) and what you want to count (CRITERION). As you update the spreadsheet, this function counts matching things in the background.
 
@@ -306,9 +306,9 @@ I often add a 'GOAL' column just right of the 'COUNT' column, and the goal is ju
 
 Whether you've building your first spreadsheet or want to get into some advanced topics, you can book a consultation to make it work for you and your game:
 
-[Let's chat one-on-one](https://entrogames.com/consulting)
+Let's chat one-on-one
 
-[Share](https://entrogames.substack.com/p/the-ultimate-guide-to-spreadsheets-for-board-game-designers?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+Share
 
 Share
 

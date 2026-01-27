@@ -1,9 +1,9 @@
 # Building the Game
 
-Source: http://www.buildingthegamepodcast.com/
+Source: 
 
-[![](https://www.buildingthegamepodcast.com/wp-content/themes/onepress/assets/images/placholder2.png)](https://www.buildingthegamepodcast.com/episode-712-a-lot-of-random-pitches/)
+![](
 
-[Show Notes](https://www.buildingthegamepodcast.com/category/show-notes/)
+Show Notes
 
 Jason Chats with Emily Vincent.

@@ -1,6 +1,6 @@
 # So You Want to Make a Game…
 
-Source: http://www.leagueofgamemakers.com/so-you-want-to-make-a-game/
+Source: 
 
 ![Make a Game](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MjAiIGhlaWdodD0iMzQyIiB2aWV3Qm94PSIwIDAgNjIwIDM0MiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 

@@ -1,6 +1,6 @@
 # Maintaining Enthusiasm on a Design
 
-Source: http://mvpboardgames.blogspot.com/2014/12/design-tip-of-week-26-maintaining.html
+Source: 
 
 ## Sunday, December 28, 2014
 
@@ -14,7 +14,7 @@ This is one of the hardest parts of design.  When you have a new project it is 
   
 The easiest thing to do is move on to a new design.  There is no rule saying that you can only work on one project at a time.  Sometimes working on different projects will give you inspiration for your first design.  Even if you don't find a solution, it will give you renewed energy and a fresh perspective when you do go back.  
   
-If fact, I wrote a whole article about it in DToW #13.  Here is a link: <http://mvpboardgames.blogspot.com/2014/07/dtow-13-if-you-love-your-design-let-it.html>  
+If fact, I wrote a whole article about it in DToW #13.  Here is a link: <  
   
 **What if I have a time limit?**  
   
@@ -57,23 +57,20 @@ Consider playtesting elements of your game.  Not every playtest session has to 
 
 Posted by
 
-[Unknown](https://www.blogger.com/profile/15460402989924657253 "author profile")
+[Unknown]( "author profile")
 
 at
-[12:20 PM](http://mvpboardgames.blogspot.com/2014/12/design-tip-of-week-26-maintaining.html "permanent link")
+[12:20 PM]( "permanent link")
 
+![]( "Edit Post")
 
-
-
-[![](https://resources.blogblog.com/img/icon18_edit_allbkg.gif)](https://www.blogger.com/post-edit.g?blogID=8579989746206614268&postID=8771989176161676089&from=pencil "Edit Post")
-
-[Email This](https://www.blogger.com/share-post.g?blogID=8579989746206614268&postID=8771989176161676089&target=email "Email This")[BlogThis!](https://www.blogger.com/share-post.g?blogID=8579989746206614268&postID=8771989176161676089&target=blog "BlogThis!")[Share to X](https://www.blogger.com/share-post.g?blogID=8579989746206614268&postID=8771989176161676089&target=twitter "Share to X")[Share to Facebook](https://www.blogger.com/share-post.g?blogID=8579989746206614268&postID=8771989176161676089&target=facebook "Share to Facebook")[Share to Pinterest](https://www.blogger.com/share-post.g?blogID=8579989746206614268&postID=8771989176161676089&target=pinterest "Share to Pinterest")
+[Email This]( "Email This")[BlogThis!]( "BlogThis!")[Share to X]( "Share to X")[Share to Facebook]( "Share to Facebook")[Share to Pinterest]( "Share to Pinterest")
 
 #### 2 comments:
 
 1. ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
-   [bakakyo](https://www.blogger.com/profile/10861167307098541054)[December 30, 2014 at 2:23 AM](http://mvpboardgames.blogspot.com/2014/12/design-tip-of-week-26-maintaining.html?showComment=1419934998735#c1950722223910578241)
+   bakakyoDecember 30, 2014 at 2:23 AM
 
    Nice article as always, Peter.  
      
@@ -81,21 +78,19 @@ at
      
    The way I see, playing other games is the greatest source of inspiration. I do know some people on game design (not board games, but digital ones) that don't play much... I think that's a waste! Imagine a musician or writer that don't consume much of his medium, that's impossible! And I think it's the same on game design. You need to play as much as possible, not only for the fun, but also for comparing ideas, inspiration and just game knowledge in general. Sorry for the bad english and keep it up this great work!
 
-   Reply[Delete](https://www.blogger.com/comment/delete/8579989746206614268/1950722223910578241)
+   ReplyDelete
 
    Replies
 
-
    - ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
-     [Unknown](https://www.blogger.com/profile/15460402989924657253)[December 30, 2014 at 5:36 AM](http://mvpboardgames.blogspot.com/2014/12/design-tip-of-week-26-maintaining.html?showComment=1419946598241#c1475155421404455052)
+     UnknownDecember 30, 2014 at 5:36 AM
 
      If you have anything you are stuck on feel free to send me an email at MVPBoardgames@gmail.com. Certainly not as good as playtesting in person, but we have broken through a lot of barriers that way.
 
-     [Delete](https://www.blogger.com/comment/delete/8579989746206614268/1475155421404455052)
+     Delete
 
      Replies
-
 
      Reply
 
@@ -105,61 +100,61 @@ Add comment
 
 Load more...
 
-[Newer Post](http://mvpboardgames.blogspot.com/2015/01/design-tip-of-week-27-theme-choice-in.html "Newer Post")
+[Newer Post]( "Newer Post")
 
-[Older Post](http://mvpboardgames.blogspot.com/2014/12/design-tip-of-week-25-why-not-to-have.html "Older Post")
-[Home](http://mvpboardgames.blogspot.com/)
+[Older Post]( "Older Post")
+Home
 
 Subscribe to:
-[Post Comments (Atom)](http://mvpboardgames.blogspot.com/feeds/8771989176161676089/comments/default)
+Post Comments (Atom)
 
 ## About Me
 
-[Unknown](https://www.blogger.com/profile/15460402989924657253)
+Unknown
 
-[View my complete profile](https://www.blogger.com/profile/15460402989924657253)
+View my complete profile
 
 ## Blog Archive
 
 * [►](javascript:void(0))
-  [2015](http://mvpboardgames.blogspot.com/2015/)
+  2015
   (3)
   + [►](javascript:void(0))
-    [May](http://mvpboardgames.blogspot.com/2015/05/)
+    May
     (1)
   + [►](javascript:void(0))
-    [March](http://mvpboardgames.blogspot.com/2015/03/)
+    March
     (1)
   + [►](javascript:void(0))
-    [January](http://mvpboardgames.blogspot.com/2015/01/)
+    January
     (1)
 
 * [▼](javascript:void(0))
-  [2014](http://mvpboardgames.blogspot.com/2014/)
+  2014
   (30)
   + [▼](javascript:void(0))
-    [December](http://mvpboardgames.blogspot.com/2014/12/)
+    December
     (2)
-    - [Design Tip of the Week #26 (Maintaining Enthusiasm...](http://mvpboardgames.blogspot.com/2014/12/design-tip-of-week-26-maintaining.html)
-    - [Design Tip of the Week #25 (Why Not to Have Custom...](http://mvpboardgames.blogspot.com/2014/12/design-tip-of-week-25-why-not-to-have.html)
+    - Design Tip of the Week #26 (Maintaining Enthusiasm...
+    - Design Tip of the Week #25 (Why Not to Have Custom...
   + [►](javascript:void(0))
-    [November](http://mvpboardgames.blogspot.com/2014/11/)
+    November
     (4)
   + [►](javascript:void(0))
-    [October](http://mvpboardgames.blogspot.com/2014/10/)
+    October
     (1)
   + [►](javascript:void(0))
-    [September](http://mvpboardgames.blogspot.com/2014/09/)
+    September
     (4)
   + [►](javascript:void(0))
-    [August](http://mvpboardgames.blogspot.com/2014/08/)
+    August
     (3)
   + [►](javascript:void(0))
-    [July](http://mvpboardgames.blogspot.com/2014/07/)
+    July
     (4)
   + [►](javascript:void(0))
-    [June](http://mvpboardgames.blogspot.com/2014/06/)
+    June
     (6)
   + [►](javascript:void(0))
-    [May](http://mvpboardgames.blogspot.com/2014/05/)
+    May
     (6)

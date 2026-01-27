@@ -1,6 +1,6 @@
 # How to Teach a Game
 
-Source: http://www.leagueofgamemakers.com/teaching-a-game/
+Source: 
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3NjgiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNzY4IDM2MCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
@@ -57,7 +57,7 @@ Since I just said when describing the theme of *Asking for Trobils* that playe
 
 People learn best when things are presented to them in their perspective. Tell them what they’ll be doing on their turn. Most games have player mats or cards you can even hand out at this point so that they can follow along.
 
-This usually makes it easy to tie in things that you’ve held on to, such as how to get points, get to the middle of the board, close gates, etc. In some cases, turns are a little harder to explain. In [*Evil Intent*](https://www.boardgamegeek.com/boardgame/131006/evil-intent) for example, players take their turns almost simultaneously. In that instance you describe what everyone is doing.
+This usually makes it easy to tie in things that you’ve held on to, such as how to get points, get to the middle of the board, close gates, etc. In some cases, turns are a little harder to explain. In *Evil Intent* for example, players take their turns almost simultaneously. In that instance you describe what everyone is doing.
 
 When you get to a certain component, such as, “At the start of your turn, draw a card from this deck”, this is when you describe what that deck is and what to do with the cards. There shouldn’t be any more holding back on information. Always try to stick close to what they do on their turn though. If you start talking about how cards work, make sure to explain it from their perspective.
 
@@ -88,4 +88,4 @@ In some cases, playing a dummy round would be a good idea. You start first and s
 
 Remember to look people in the eyes and engage them. I like to stand up when teaching at larger tables so that I can reach over to others. Just like the game, try and keep the teaching fun and enjoy yourself.
 
-[**If you’re interested in Asking for Trobils, check out our Kickstarter page!**](https://tinyurl.com/lxhvxgl)
+**If you’re interested in Asking for Trobils, check out our Kickstarter page!**

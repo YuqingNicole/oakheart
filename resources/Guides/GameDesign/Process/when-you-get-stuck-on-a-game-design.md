@@ -1,8 +1,8 @@
 # When You Get Stuck on a Game Design
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=569A640A16A8400
+Source: 
 
-![](https://weirdgiraffegames.com/carla/wp-content/uploads/2020/06/Slide8.png)
+![](
 
 Sometimes you won’t know exactly what to do next on a game. You could use your game design time to think on what to do and it’s good to do so, but you don’t want to do so for an excessive amount of time. Here’s a variety of things that you can do to try to figure out where to go next with one of your designs.
 
@@ -34,6 +34,6 @@ Remember, no game is a failure! As long as you learned something by creating a g
 
 Did you enjoy this entry? Please let me know I’d love to hear what you think and what kind of things you’d like to see from this blog. Feel free to send me an [email](mailto:contact@weirdgiraffegames.com) or comment with your thoughts!
 
-Don’t forget to sign up for my mailing list, so you don’t miss a post: <https://tinyletter.com/carlakopp>
+Don’t forget to sign up for my mailing list, so you don’t miss a post: <
 
 ### *Related*

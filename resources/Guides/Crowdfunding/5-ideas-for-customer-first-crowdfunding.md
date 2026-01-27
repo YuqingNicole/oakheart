@@ -1,14 +1,14 @@
 # 5 ideas for customer first crowdfunding
 
-Source: https://thecityofkings.com/news/5-ideas-for-customer-first-crowdfunding/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## 5 ideas for customer first crowdfunding
 
-20th October 2022 [0](https://thecityofkings.com/news/5-ideas-for-customer-first-crowdfunding/#comments)
+20th October 2022 0
 
-![customer-first-website.jpg](https://thecityofkings.com/wp-content/uploads/2022/10/customer-first-website.jpg)
+!customer-first-website.jpg
 
 Earlier this week I launched my sixth Kickstarter where I continued to focus on how I can put the backer first during my campaigns.
 
@@ -38,7 +38,7 @@ I’ve selected quotes to put at the top of the page that help provide further i
 
 Here are the 2 quotes I used at the top of the page:
 
-![](https://thecityofkings.com/wp-content/uploads/2022/10/quotes.jpg)
+![](
 
 The first helps reassure people the game is accessible to anyone while offering something to people looking for a bigger game.
 
@@ -60,7 +60,7 @@ Over the years crowdfunding videos have become more impressive, some cost a smal
 
 While a pretty video is beneficial (and I need to work on improving my 3d animation skills), I wanted to create a more personal video that answered questions.
 
-[You can see the video here.](https://www.kickstarter.com/projects/tcokgame/race-to-the-raft?ref=a744yq)
+You can see the video here.
 
 I grabbed my camera and focussed on the following topics:
 
@@ -76,9 +76,9 @@ The video is just over 2-minutes long and provides all the critical information 
 
 The above list is only a small group of things I did differently with this campaign and I may talk about some of the other things in a future article. I certainly don’t think this is the best way to get the most backers, but I do think it’s a great way to have a successful and healthy campaign.
 
-These approaches follow my [community not customer](https://thecityofkings.com/news/community-not-customer/) philosophy and I’m really glad to see they are working so well.
+These approaches follow my community not customer philosophy and I’m really glad to see they are working so well.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

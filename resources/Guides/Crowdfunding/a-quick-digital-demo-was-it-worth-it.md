@@ -1,20 +1,20 @@
 # A quick digital demo – Was it worth it?
 
-Source: https://thecityofkings.com/news/a-quick-digital-demo-was-it-worth-it/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## A quick digital demo – Was it worth it?
 
-24th November 2022 [2](https://thecityofkings.com/news/a-quick-digital-demo-was-it-worth-it/#comments)
+24th November 2022 2
 
-![demo-stats-website.jpg](https://thecityofkings.com/wp-content/uploads/2022/11/demo-stats-website.jpg)
+!demo-stats-website.jpg
 
-Last month [I discussed the quick digital demo](https://thecityofkings.com/news/quick-digital-demos/) that I had just released for Race to the Raft, with the idea of letting people get a taste of the game before having to make a purchase decision.
+Last month I discussed the quick digital demo that I had just released for Race to the Raft, with the idea of letting people get a taste of the game before having to make a purchase decision.
 
 It has now been live for a month, and I thought I would review the data so far.
 
-* The [puzzle page](https://thecityofkings.com/race-to-the-raft-demo/) has been visited 3,531 times.
+* The puzzle page has been visited 3,531 times.
 * There were 2,291 first-time visitors and 1,240 return visitors.
 
 For the purposes of the following stats, I will be referring to unique visitors.
@@ -37,7 +37,7 @@ There has been a lot to learn from testing this puzzle and my key takeaways are:
 
 All-in-all I think it has been a success, I am interested to see how the stats will change in the months to come, and how much use the demo will have when the retail release happens in 2023.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

@@ -1,12 +1,12 @@
 # What to do if you fail?
 
-Source: https://thecityofkings.com/news/what-to-do-if-you-fail/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## What to do if you fail?
 
-3rd March 2022 [0](https://thecityofkings.com/news/what-to-do-if-you-fail/#comments)
+3rd March 2022 0
 
 Failure is a word that none of us want to hear, especially when we’ve dedicated a big part of our life to trying to create something. Over the last 20 years there have been many times where I have failed, but you probably don’t know about them because you didn’t find me until I was lucky enough to be successful.
 
@@ -40,7 +40,7 @@ Kris was great at listening, taking feedback, and deciding how to incorporate it
 * Kris reached out to more third party content creators to create videos covering the game.
 * Throughout all the time of implementing these changes, Kris continued marketing and reaching a wider audience.
 
-If you compare the [new Kickstarter page](https://www.kickstarter.com/projects/blacklettergames/damnation-the-gothic-game-0/description) to the [old Kickstarter page](https://www.kickstarter.com/projects/blacklettergames/damnation-the-gothic-game/description), I think you’ll agree they are completely different.
+If you compare the new Kickstarter page to the old Kickstarter page, I think you’ll agree they are completely different.
 
 At this point, I also want to be very clear that Kris and I met for coffee and had a few chats where I offered suggestions. All the final decisions were made by Kris and he alone was responsible for the updates that came from it.
 
@@ -56,7 +56,7 @@ If your first Kickstarter fails then don’t be afraid to try again. Take the ti
 
 I can’t wait to get my copy of Damnation: The Gothic Game soon!
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

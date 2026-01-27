@@ -1,20 +1,20 @@
 # Get to Know Other Designers
 
-Source: https://inspirationtopublication.wordpress.com/2011/10/13/step-31-get-to-know-other-designers/
+Source: 
 
 <caveat – this probably should be somewhere near Step 12, and will be ret-conned in later!>
 
 As a game designer, I have found it extremely helpful to surround myself not only with great playtesters, but also other game designers. Initially many people think that you might not want to talk to other game designers about your unpublished games because they could steal your ideas. I have never thought this was an issue, mostly because everyone and their brother has a dozen ideas for their own board games. The ideas aren’t what’s lacking. What’s lacking is the ability, and often the experience and knowledge of how to get a game to market. This is where fellow game designers can be a big boon to you.
 
-[![](https://inspirationtopublication.wordpress.com/wp-content/uploads/2011/10/logo-game-artisans-of-canada.png?w=300&h=300 "LOGO - Game Artisans of Canada")](https://inspirationtopublication.wordpress.com/wp-content/uploads/2011/10/logo-game-artisans-of-canada.png)I belong to a group called the Game Artisans of Canada. This group was founded in 2008 by a few game designers with an interest in sharing stories and experiences in an effort to help each other get their games to the market. Many of the GAC members have games published already, including Rob Bartel with Two by Two, Sean Ross with Haggis and Matt Tolman with Undermining – to name but a few. There are different chapters across Canada which each meet up on a regular basis for play testing. In addition to this, they have an online forum which everyone across Canada can ask questions, share playtest sessions or debate game design philosophies. There’s a whole process to become a Game Artisan, which involves a trial period as a Journeyman and a lot of mentorship from your local chapter.
+[![]( "LOGO - Game Artisans of Canada")]( belong to a group called the Game Artisans of Canada. This group was founded in 2008 by a few game designers with an interest in sharing stories and experiences in an effort to help each other get their games to the market. Many of the GAC members have games published already, including Rob Bartel with Two by Two, Sean Ross with Haggis and Matt Tolman with Undermining – to name but a few. There are different chapters across Canada which each meet up on a regular basis for play testing. In addition to this, they have an online forum which everyone across Canada can ask questions, share playtest sessions or debate game design philosophies. There’s a whole process to become a Game Artisan, which involves a trial period as a Journeyman and a lot of mentorship from your local chapter.
 
-[![](https://inspirationtopublication.wordpress.com/wp-content/uploads/2011/10/cardstock.jpg?w=584 "cardstock")](https://inspirationtopublication.wordpress.com/wp-content/uploads/2011/10/cardstock.jpg)
+[![]( "cardstock")](
 
 Attendees of Cardstock 2011! Look at all that brainpower!
 
 In addition to our chapter meet ups and the online forum, GAC has an annual get together called Cardstock. This is heaven for game designers. 20 or so designers meet up and playtest each other’s’ prototypes over a long weekend! This year it was in Calgary and many of us flew in to take part in this experience. I was flabbergasted at all the creativity and brainpower that was at Cardstock. Every game that Sen and I brought to Cardstock left a much better game. Talk about invigorating!
 
-The Game Artisans even have their own newsletter called Meeple Syrup that is dedicated to celebrating the organization’s successes. Issue 3 was just released and is available [here](http://www.gameartisans.ca/community/viewtopic.php?f=21&t=2727).
+The Game Artisans even have their own newsletter called Meeple Syrup that is dedicated to celebrating the organization’s successes. Issue 3 was just released and is available here.
 
 Sen and I joined them in 2010 and have had numerous examples of how they have helped us become better designers and probably published more often.
 
@@ -37,9 +37,9 @@ So while you may or may not be able to be a part of something like the Game Arti
 
 ~ Jay Cormier
 
-[![](https://inspirationtopublication.wordpress.com/wp-content/uploads/2011/02/sens-turn.jpg?w=300&h=31 "Sens-Turn")](https://inspirationtopublication.wordpress.com/wp-content/uploads/2011/02/sens-turn.jpg)
+[![]( "Sens-Turn")](
 
-Online, there’s the Boardgame Design Forum – [http://www.bgdf.com](http://www.bgdf.com/) – where like-minded people post about their designs. You could also use [http://www.boardgamegeek.com](http://www.boardgamegeek.com/) and post in your local forum to try to find a design group or start up your own. An online group is a great place to bounce ideas off of people and a local group is excellent for playtesting.
+Online, there’s the Boardgame Design Forum –  – where like-minded people post about their designs. You could also use  and post in your local forum to try to find a design group or start up your own. An online group is a great place to bounce ideas off of people and a local group is excellent for playtesting.
 
 Another thing that a group gives us access to is a huge collective boardgaming experience. Jay and I have played a ton of games, but there’s only so many hours in a day! With the difference in tastes and personal collections, we can draw on the gaming knowledge of many instead of just the two of us. So when we propose an idea, we’ll often get the reply of “Have you played yet? It sounds pretty similar.” While you might think this is discouraging, it isn’t – either we take a look at Game X and decide that it’s similar and we’ve saved ourselves the time of re-inventing the wheel and potential embarassment of pitching it to a publisher; or we find out that our game is different and, hopefully, better!
 
@@ -51,13 +51,13 @@ Help can be as simple as amking a suggestion. Why, even tonight, I suggested tha
 
 In fact, both Jay and I are even working in collaboration with other GAC designers on separate games. Jay is working with Graeme Jahns, Ryley Tolman, and Gavan Brown on a party game tentatively called “Like It” while I’m involved in co-designing Yves Tourigny’s brainchild “Midnight Men” with him.
 
-[![Like It logo](https://inspirationtopublication.wordpress.com/wp-content/uploads/2011/10/screen-shot-2011-10-13-at-8-43-12-pm.png?w=300&h=128 "Screen shot 2011-10-13 at 8.43.12 PM")](https://inspirationtopublication.wordpress.com/wp-content/uploads/2011/10/screen-shot-2011-10-13-at-8-43-12-pm.png)
+[![Like It logo]( "Screen shot 2011-10-13 at 8.43.12 PM")](
 
 Like a boss.
 
 “Like It” was sparked at a late-night session at Cardstock 2011 after the group had played “Clunatics” and Gavan seeded an idea. The next morning, Jay, Ryley and Graeme were eagerly discussing it and a quick prototype was mocked up in short order. There’s some really great mechanics in this game that have been great to watch develop over time on the GAC forums. That’s the beauty of the internet – connecting people in Vancouver, Calgary, and Lethbridge in order to create something new.
 
-[![The Nightwatchman, from "Midnight Men"](https://inspirationtopublication.wordpress.com/wp-content/uploads/2011/10/screen-shot-2011-10-13-at-8-44-23-pm.png?w=217&h=300 "Screen shot 2011-10-13 at 8.44.23 PM")](https://inspirationtopublication.wordpress.com/wp-content/uploads/2011/10/screen-shot-2011-10-13-at-8-44-23-pm.png)
+[![The Nightwatchman, from "Midnight Men"]( "Screen shot 2011-10-13 at 8.44.23 PM")](
 
 The iconic Nightwatchman, bane of evildoers everywhere, brings justice to the streets of Cosmo City in Yves Tourignay's "Midnight Men"
 
@@ -70,17 +70,17 @@ This year has been a banner year for Jay and I as designers and it’s in no sma
 ### Other people should read this! Share this using...
 
 * [Click to share on Facebook (Opens in new window)
-  Facebook](https://inspirationtopublication.wordpress.com/2011/10/13/step-31-get-to-know-other-designers/?share=facebook)
+  Facebook](
 * [Click to share on X (Opens in new window)
-  X](https://inspirationtopublication.wordpress.com/2011/10/13/step-31-get-to-know-other-designers/?share=twitter)
+  X](
 * [Click to email a link to a friend (Opens in new window)
   Email](mailto:?subject=%5BShared%20Post%5D%20Step%2031%3A%20Get%20to%20Know%20Other%20Designers&body=https%3A%2F%2Finspirationtopublication.wordpress.com%2F2011%2F10%2F13%2Fstep-31-get-to-know-other-designers%2F&share=email)
 * [Click to print (Opens in new window)
-  Print](https://inspirationtopublication.wordpress.com/2011/10/13/step-31-get-to-know-other-designers/#print?share=print)
+  Print](
 * [More](#)
 
 * [Click to share on Reddit (Opens in new window)
-  Reddit](https://inspirationtopublication.wordpress.com/2011/10/13/step-31-get-to-know-other-designers/?share=reddit)
+  Reddit](
 
 Like Loading...
 

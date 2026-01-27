@@ -1,14 +1,14 @@
 # An industry in crisis: What can we do?
 
-Source: https://thecityofkings.com/news/an-industry-in-crisis-what-can-we-do/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## An industry in crisis: What can we do?
 
-3rd April 2025 [9](https://thecityofkings.com/news/an-industry-in-crisis-what-can-we-do/#comments)
+3rd April 2025 9
 
-![industry-crisis-website.jpg](https://thecityofkings.com/wp-content/uploads/2025/04/industry-crisis-website.jpg)
+!industry-crisis-website.jpg
 
 I love making games.
 
@@ -118,4 +118,4 @@ Because if we don’t evolve, we’ll be left behind.
 
 If you’re going through this and want someone to talk to, feel free to leave a comment or drop me an email—you’ll find it in the contact section above. I’d love to hear your thoughts, and how you’re approaching these new challenges.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](

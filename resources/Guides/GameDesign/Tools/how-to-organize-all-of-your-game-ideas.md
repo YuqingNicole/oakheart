@@ -1,8 +1,8 @@
 # How to Organize All of Your Game Ideas
 
-Source: https://oakleafgames.wordpress.com/2016/02/24/organizing-my-designs/
+Source: 
 
-[February 24, 2016June 16, 2016](https://oakleafgames.wordpress.com/2016/02/24/organizing-my-designs/) [Oakleaf Games](https://oakleafgames.wordpress.com/author/sivilized1/)
+February 24, 2016June 16, 2016 Oakleaf Games
 
 # Organizing my Designs
 
@@ -14,7 +14,7 @@ I am a list-maker. I sometime make too many notes. But I changed from paper note
 
 Enter the spreadsheet, which is the real subject of this post.
 
-![SpreadsheetOverview2](https://oakleafgames.wordpress.com/wp-content/uploads/2016/02/spreadsheetoverview21.png?w=1060)
+!SpreadsheetOverview2
 
 Names have been hidden to protect the innocent
 
@@ -25,7 +25,7 @@ I’ve got the basic information shown here:
 * Difficulty: Estimate based on BGG rating spread. Roughly the following scale: 1.5 = Lost Cities; 2 = Carcassonne; 2.5 = Catan, 3 = El Grande; and 3.5 = Agricola. Above 4 seems to be almost exclusively sprawling day-long 4x civilization games and war games.
 * Players: Max player count. Min is easy, because I’ll do 2 if at all possible, which is driven by the main mechanics.
 * Length: In minutes. An estimate based on dividing the amount of time it takes me to play by 2.
-* Win Condition: This is the first really distinctive column. [The picture above is already out of date, since I’ve changed [how I identify win conditions](https://oakleafgames.wordpress.com/2016/02/18/how-to-win/).]
+* Win Condition: This is the first really distinctive column. The picture above is already out of date, since I’ve changed [how I identify win conditions.]
 * Mechanics: Main/important mechanics in broad brush strokes. Mostly so I can make sure I’m not pigeonholing myself.
 * Progress: (DropDown) Concept ► Design ► Prototype ► Develop ► Testing ► Finalize. [Probably worth writing a whole post on this.]
 
@@ -47,18 +47,18 @@ Beyond the chart columns are even more important columns that deal with pitching
 
 Those last 5 columns basically write your elevator pitch. What’s the setting, who are players, what are they doing, and why is it different and interesting?
 
-This spreadsheet has really helped me focus on what games I need to be working on, and what I need to do. I’ve experienced the joy of marking things complete, and the disappointment of making cancelled designs disappear. If it looks helpful, [here’s a blank version](https://docs.google.com/spreadsheets/d/1R94PRs2ypGiB3c08mhUgJmpr-4uOTubn-5xDe2KpvyM/edit?usp=sharing) you can download and copy to your own Google drive and use.
+This spreadsheet has really helped me focus on what games I need to be working on, and what I need to do. I’ve experienced the joy of marking things complete, and the disappointment of making cancelled designs disappear. If it looks helpful, here’s a blank version you can download and copy to your own Google drive and use.
 
-And, in case all of this this doesn’t quite give you enough information to organize your games also take a look at [this great rubric](http://nerdstable.blogspot.com/2016/02/a-rubric-for-game-design.html) assembled by designer Doug Levandowski over on The Nerds Table.
+And, in case all of this this doesn’t quite give you enough information to organize your games also take a look at this great rubric assembled by designer Doug Levandowski over on The Nerds Table.
 
 Happy organizing and good luck!.
 
 ### Share this:
 
 * [Share on X (Opens in new window)
-  X](https://oakleafgames.wordpress.com/2016/02/24/organizing-my-designs/?share=twitter)
+  X](
 * [Share on Facebook (Opens in new window)
-  Facebook](https://oakleafgames.wordpress.com/2016/02/24/organizing-my-designs/?share=facebook)
+  Facebook](
 
 Like Loading...
 

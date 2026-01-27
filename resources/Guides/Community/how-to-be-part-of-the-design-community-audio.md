@@ -1,6 +1,6 @@
 # How to Be Part of the Design Community (Audio)
 
-Source: http://thegamecrafter.libsyn.com/how-to-be-a-part-of-a-community-with-the-game-crafter-episode-36
+Source: 
 
 **Jeff King**
 

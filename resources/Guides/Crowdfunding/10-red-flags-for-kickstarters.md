@@ -1,12 +1,12 @@
 # 10 red flags for Kickstarters
 
-Source: https://thecityofkings.com/news/10-red-flags-for-kickstarters/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## 10 red flags for Kickstarters
 
-19th May 2022 [0](https://thecityofkings.com/news/10-red-flags-for-kickstarters/#comments)
+19th May 2022 0
 
 In many ways launching a crowdfunding campaign is a tick box exercise and there are long lists of things you need to do and things you need to avoid. You still need to have a good game, but no matter how good it is or how big your audience is, if you tick the wrong boxes you’re going to struggle.
 
@@ -14,7 +14,7 @@ Let’s take a look at 7 red flags that will harm your Kickstarter and then 3 bi
 
 ### **No clear short description of the game**
 
-You should always include a short description (2 – 3 sentences) that gives the reader an idea of what your game is, [high up on your page](https://thecityofkings.com/news/creating-the-perfect-kickstarter-page-my-wireframe/).
+You should always include a short description (2 – 3 sentences) that gives the reader an idea of what your game is, high up on your page.
 
 Despite this being such an easy thing, many campaigns forget to include it and potential backers can often find themselves not knowing what the game actually is.
 
@@ -28,7 +28,7 @@ You must find a good balance between informative text and beautiful images.
 
 ### **No mention of VAT**
 
-VAT has the potential to bankrupt a company, not mentioning it and how you are handling it on your campaign is very concerning. Backers may think you haven’t [planned for VAT](https://thecityofkings.com/news/a-beginners-guide-to-vat/) and as such the project may fail.
+VAT has the potential to bankrupt a company, not mentioning it and how you are handling it on your campaign is very concerning. Backers may think you haven’t planned for VAT and as such the project may fail.
 
 ### **Unrealistic timelines**
 
@@ -44,7 +44,7 @@ Always proof read everything on your kickstarter page!
 
 ### **Lack of communication**
 
-You should always respond to every comment on your Kickstarter page as quickly as possible and [have an update plan](https://thecityofkings.com/news/midcampaign-updates/).
+You should always respond to every comment on your Kickstarter page as quickly as possible and have an update plan.
 
 The more comments you ignore, the longer you go without answering questions, and the less active you look, the more people will worry you will just disappear after the campaign completes.
 
@@ -60,7 +60,7 @@ While all of the red flags in this article are important, the following 3 have b
 
 You must have videos on your Kickstarter page, and I’m not talking about the project video. You need to have a video of your game being played, whether this is by yourself or other people it doesn’t matter, just make sure people can see the game in action.
 
-How to play and [overview videos](https://thecityofkings.com/news/why-you-should-have-a-quick-3-minute-overview-video/) are also very beneficial to include!
+How to play and overview videos are also very beneficial to include!
 
 ### **No rulebook**
 
@@ -76,7 +76,7 @@ Having 0 backed projects on your Kickstarter account is a quick way to putting p
 
 There is no exact amount that is correct, but I’d suggest 10 – 20 projects spread over the last 18 months is a very solid place to be.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

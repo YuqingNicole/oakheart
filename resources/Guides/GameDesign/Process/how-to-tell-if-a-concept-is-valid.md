@@ -1,6 +1,6 @@
 # How to Tell if a Concept Is “Valid”
 
-Source: https://lawofgamedesign.com/2014/09/26/theory-how-to-tell-if-a-concept-is-valid/
+Source: 
 
 When I first became seriously interested in game design a little less than a decade ago, I often struggled with the question of whether a concept was a “valid game.” I wasn’t trying to figure out whether the concept was good–I knew that most ideas wouldn’t pan out–but whether it had the potential for fun play. Now, all these years later, trying to figure out why the prototype in the previous post wasn’t as much fun as I had expected gave me the way to analyze that question. To decide whether your concept can produce a valid game, you need to determine *what kind of decision the player will make* and *why that decision will be interesting*.
 
@@ -14,4 +14,4 @@ What kind of decision will the player make? Why will that decision be interestin
 
 ### *Related*
 
-Posted on [September 26, 2014September 26, 2014](https://lawofgamedesign.com/2014/09/26/theory-how-to-tell-if-a-concept-is-valid/) Posted in [Game design theory](https://lawofgamedesign.com/category/game-design-theory/)Tagged [game design](https://lawofgamedesign.com/tag/game-design/)
+Posted on September 26, 2014September 26, 2014 Posted in Game design theoryTagged game design

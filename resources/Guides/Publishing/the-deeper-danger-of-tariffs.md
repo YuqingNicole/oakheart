@@ -1,16 +1,16 @@
 # The deeper danger of tariffs
 
-Source: https://thecityofkings.com/news/the-deeper-danger-of-tariffs/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## The deeper danger of tariffs
 
-9th April 2025 [8](https://thecityofkings.com/news/the-deeper-danger-of-tariffs/#comments)
+9th April 2025 8
 
-![deeper-danger-website.jpg](https://thecityofkings.com/wp-content/uploads/2025/04/deeper-danger-website.jpg)
+!deeper-danger-website.jpg
 
-Last week, new tariffs were announced, and I asked [what can we do](https://thecityofkings.com/news/an-industry-in-crisis-what-can-we-do/), introduced [new ways to calculate MSRP](https://thecityofkings.com/news/pricing-games-with-tariffs/), and urged people to [support each other](https://thecityofkings.com/news/be-someones-light-this-weekend/). But today, I want to talk about something bigger—something more complex than just rising prices.
+Last week, new tariffs were announced, and I asked what can we do, introduced new ways to calculate MSRP, and urged people to support each other. But today, I want to talk about something bigger—something more complex than just rising prices.
 
 Because while tariffs are a financial blow, the real risk lies not in what they cost, but the destruction they may bring.
 
@@ -139,7 +139,7 @@ Because board games aren’t about borders.
 
 They’re about bringing people together.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

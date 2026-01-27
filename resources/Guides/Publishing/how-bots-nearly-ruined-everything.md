@@ -1,16 +1,16 @@
 # How bots nearly ruined everything
 
-Source: https://thecityofkings.com/news/how-bots-nearly-ruined-everything/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## How bots nearly ruined everything
 
-12th August 2024 [6](https://thecityofkings.com/news/how-bots-nearly-ruined-everything/#comments)
+12th August 2024 6
 
-![attack-bots-website.jpg](https://thecityofkings.com/wp-content/uploads/2024/08/attack-bots-website.jpg)
+!attack-bots-website.jpg
 
-Last week, I announced my brand-new game, [Emberleaf](https://boardgamegeek.com/boardgame/426513/emberleaf), and, as always, I sent out a newsletter to let the community know about the upcoming announcement in advance. Usually, I just send it out, confident that it’ll reach everyone without a hitch. But this time, disaster struck. I noticed that almost no one was opening it…
+Last week, I announced my brand-new game, Emberleaf, and, as always, I sent out a newsletter to let the community know about the upcoming announcement in advance. Usually, I just send it out, confident that it’ll reach everyone without a hitch. But this time, disaster struck. I noticed that almost no one was opening it…
 
 ## Uncovering the issue
 
@@ -43,7 +43,7 @@ I’ve now put systems in place to ensure this problem doesn’t persist, but it
 
 I also recommend using blacklist tools like MX Toolbox, which will notify you if your email address ever ends up on a blacklist, meaning your emails could go straight to spam. Luckily, the problem is now solved, and I hope you never have to deal with something like this yourself.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

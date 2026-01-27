@@ -1,14 +1,14 @@
 # 3 not-so-cheap tools I love
 
-Source: https://thecityofkings.com/news/3-not-so-cheap-tools-i-love/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## 3 not-so-cheap tools I love
 
-19th June 2024 [0](https://thecityofkings.com/news/3-not-so-cheap-tools-i-love/#comments)
+19th June 2024 0
 
-![3-tools-website-1.jpg](https://thecityofkings.com/wp-content/uploads/2024/06/3-tools-website-1.jpg)
+!3-tools-website-1.jpg
 
 When I first started making board games as a hobby, I had to save money wherever I could. Spending a few extra hours cutting out a prototype to save £50 was worth it. These days, while I still aim to be cost-effective, I’ve realised that my time is valuable too. Balancing spending money and time has become crucial.
 
@@ -44,4 +44,4 @@ With Project Leaf, I needed 75 hexagons of an exact size made out of 2mm cardboa
 
 While these tools aren’t strictly necessary, they’ve saved me hundreds of hours and thousands of pounds over the years. I’m very grateful to have them, especially the Cricut, which has significantly streamlined my prototyping process. I’d love to hear if you’ve used any of these devices yourself or if you have other tools you prefer.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](

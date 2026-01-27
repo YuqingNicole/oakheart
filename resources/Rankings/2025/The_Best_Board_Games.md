@@ -1,6 +1,6 @@
 # The Best Board Games of 2025
 
-Source: https://gameinformer.com/tabletop/2025/12/16/the-best-board-games-of-2025
+Source: 
 
 News
 

@@ -1,14 +1,14 @@
 # Announcing announcements
 
-Source: https://thecityofkings.com/news/announcing-announcements/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## Announcing announcements
 
-5th August 2024 [0](https://thecityofkings.com/news/announcing-announcements/#comments)
+5th August 2024 0
 
-![announcements-website.jpg](https://thecityofkings.com/wp-content/uploads/2024/08/announcements-website.jpg)
+!announcements-website.jpg
 
 Announcing a new game or expansion might seem straightforward—just post on Facebook, tweet it out, and send a newsletter, right? Then you can sit back and watch the buzz build as people discover, discuss, and share your news. How I wish it were that simple!
 
@@ -24,9 +24,9 @@ During the live stream, I get to do more than just drop a one-liner about a new 
 
 I’d love to hear how you prefer to make or hear about announcements. Do you keep it simple with a newsletter and social media posts, do you prefer live events, or something else? Let me know in the comments what your preferred technique is.
 
-As for my next big announcement, it’s coming up this Thursday and you can find the events on [Facebook](https://www.facebook.com/events/1677983236349938/) and [YouTube](https://www.youtube.com/watch?v=WVS1py7WIW4). I’m currently seeing about 60% of people click through to YouTube and 40% through to Facebook. I’ll be interested to see the final split on the day.
+As for my next big announcement, it’s coming up this Thursday and you can find the events on Facebook and YouTube. I’m currently seeing about 60% of people click through to YouTube and 40% through to Facebook. I’ll be interested to see the final split on the day.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

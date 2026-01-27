@@ -1,18 +1,18 @@
 # 10 Elements of Good Game Design
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=552A623A16A8281
+Source: 
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20532'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='
 
-When I was a neophyte game developer, I found an excellent article by Wizards of the Coast, *creators of Magic: the Gathering*, called [Ten Things Every Game Needs](http://magic.wizards.com/en/articles/archive/making-magic/ten-things-every-game-needs-part-1-part-2-2011-12-19). It was written almost five years ago, but the wisdom within the article is still very relevant. This two-part article was so influential in my initial design of [*War Co.*](http://warcothegame.com/) that I actually quoted it in my business plan. No matter what type of game you’re making, these 10 elements are critical to making a good game.
+When I was a neophyte game developer, I found an excellent article by Wizards of the Coast, *creators of Magic: the Gathering*, called Ten Things Every Game Needs. It was written almost five years ago, but the wisdom within the article is still very relevant. This two-part article was so influential in my initial design of *War Co.* that I actually quoted it in my business plan. No matter what type of game you’re making, these 10 elements are critical to making a good game.
 
 Looking for more resources to help you on your board game design journey?  
-[Here you go: no email required](https://brandonthegamedev.com/resources)!  
+Here you go: no email required!  
   
 Like this writing style?  
-[Check out my latest blog on marketing here](https://brandonrollins.com/).
+Check out my latest blog on marketing here.
 
-I have taken and slightly modified the ten success factors listed in their article and made them into one easy-to-read list. I’ve added my own commentary so I can give concrete, personal examples of why this framework worked for me when developing *War Co*. and then eventually *[Tasty Humans](https://tastyhumans.boardgame.com)*.
+I have taken and slightly modified the ten success factors listed in their article and made them into one easy-to-read list. I’ve added my own commentary so I can give concrete, personal examples of why this framework worked for me when developing *War Co*. and then eventually *Tasty Humans*.
 
 #### 1. A clear objective
 
@@ -31,7 +31,7 @@ In *War Co.*, the primary limits are the number of cards you can play and energ
 There’s a few forms of interactivity that you can find in a great game.
 
 * Constraints, expressed both through directly through rules and indirectly through strategy and tactics, must interact with the objective.
-* Game elements must interact with one another in ways that are both unique and understandable throughout the course of the game. The pieces in a game of chess have seemingly infinite ways to maneuver. The cards in [*Netrunner*](https://boardgamegeek.com/boardgame/124742/android-netrunner) can be combined in complex ways.
+* Game elements must interact with one another in ways that are both unique and understandable throughout the course of the game. The pieces in a game of chess have seemingly infinite ways to maneuver. The cards in *Netrunner* can be combined in complex ways.
 * In all games that are not solitaire games, there is some element of social interaction, even if it’s not a “party game.”
 
 In *War Co.*, interactions come from every one of the cards being unique and having a different effect. Socially, most of the interaction is friendly sparring in response to the “take that” nature of the game. Well, at least *I think* it’s friendly sparring. *Tasty Humans*, on the other hand, is much closer to being a solitaire game, but there is still a common pool of cards that all players interact with and change.
@@ -56,7 +56,7 @@ On the other hand, playing *Tasty Humans*has short turns, which helps the game 
 
 Predictability is the bane of games. Use chance and unique interactions to prevent games from having one path to victory. You don’t want your game to feel predictable. If you can use an algorithm to solve your game like a Rubik’s cube, you need more surprise.
 
-![my-trap-card](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E)
+![my-trap-card](data:image/svg+xml,%3Csvg%20xmlns='
 
 In *War Co.*, one place I’ve encouraged surprise is the facedown card mechanic. Players can play cards facedown and turn them face-up at any time – including their opponents’ turns – making their effects take place right at that moment. This creates a game of espionage and counterespionage, with a lot of bluffing thrown in, too.
 
@@ -80,7 +80,7 @@ This seems obvious, but never lose sight of it. If you hate the game you’re pl
 
 If you want your game to be great, it can’t simply be a technical masterpiece. Don’t just playtest it and refine the mechanics. Make it feel unique.
 
-![This is the art for Spectrum in War Co., drawn by James Masino.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+![This is the art for Spectrum in War Co., drawn by James Masino.](data:image/svg+xml,%3Csvg%20xmlns='
 
 This is the art for Spectrum in War Co., drawn by James Masino.
 
@@ -88,7 +88,7 @@ The best example of flavor of *War Co.* can be found in the artwork drawn by J
 
 On the other hand, with *Tasty Humans*, we kept the game by being dark by using really bright and pretty pastel colors.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20576'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='
 
 #### 10. A hook.
 
@@ -102,7 +102,7 @@ This eleventh element is something I came up with completely on my own. Nothing 
 
 ---
 
-I encourage you to read [the original article](http://magic.wizards.com/en/articles/archive/making-magic/ten-things-every-game-needs-part-1-part-2-2011-12-19) I’ve paraphrased and responded to above. By using my own work as an example, I hope you can read their original write-up with a concrete context and use their lessons to make an incredible game of your own.
+I encourage you to read the original article I’ve paraphrased and responded to above. By using my own work as an example, I hope you can read their original write-up with a concrete context and use their lessons to make an incredible game of your own.
 
 |  |  |  |  |
 | --- | --- | --- | --- |

@@ -1,14 +1,14 @@
 # Growing a community part 3
 
-Source: https://thecityofkings.com/news/growing-a-community-part-3/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Growing a community part 3
 
-14th June 2022 [0](https://thecityofkings.com/news/growing-a-community-part-3/#comments)
+14th June 2022 0
 
-[Our website is now set up](https://thecityofkings.com/news/growing-a-community-part-1/) and [our social channels are in place](https://thecityofkings.com/news/growing-a-community-part-2/), it is time to put on some shoes and look into how we can grow a community in person.
+Our website is now set up and our social channels are in place, it is time to put on some shoes and look into how we can grow a community in person.
 
 ### The basics
 
@@ -66,9 +66,9 @@ Become familiar with how to demonstrate your game at smaller shows, give people 
 
 As a final tip, don’t worry about having games to sell at your first events. While growing my community I used conventions as a way to connect with people, give people a taste of my game, and put zero emphasis on sales. In fact, I didn’t have any games to sell as I was still in pre-production and yet I still have lasting connections today that I made 5 years ago at those early shows.
 
-[*Move on to part 4 >*](https://thecityofkings.com/news/growing-a-community-part-4/)
+*Move on to part 4 >*
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

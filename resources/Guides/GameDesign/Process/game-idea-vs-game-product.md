@@ -1,6 +1,6 @@
 # Game Idea VS Game Product
 
-Source: http://www.leagueofgamemakers.com/game-idea-vs-game-product/
+Source: 
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMjAiIGhlaWdodD0iMTkxIiB2aWV3Qm94PSIwIDAgMzIwIDE5MSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
@@ -47,8 +47,8 @@ For example, you might not think to join a Kickstarter discussion community beca
 
 Seek out communities where you can feel free to ask questions about the WHOLE process instead of just tunnel-visioning on bits and pieces:
 
-* Blogs like this one are great because our contributors are designers, publishers, and artists who can answer these questions. But don’t just stop with us. Seek out other experienced designers and publishers to get a broader perspective. **[Stonemaier Games](https://stonemaiergames.com/)**, **[James Mathe](https://www.jamesmathe.com/)**, and **[Hyperbole Games](https://hyperbolegames.com/)** all have blogs with a lot of useful information to absorb.
-* **[The Game Crafter](https://www.thegamecrafter.com/)** has a good gathering of people who can make suggestions based on the component library and production process of that site. There are also other online communities where you can find good information, like the **[Board Game Designers Forum.](https://www.bgdf.com/)**
+* Blogs like this one are great because our contributors are designers, publishers, and artists who can answer these questions. But don’t just stop with us. Seek out other experienced designers and publishers to get a broader perspective. **Stonemaier Games**, **James Mathe**, and **Hyperbole Games** all have blogs with a lot of useful information to absorb.
+* **The Game Crafter** has a good gathering of people who can make suggestions based on the component library and production process of that site. There are also other online communities where you can find good information, like the **Board Game Designers Forum.**
 * Show your game to a publisher or printer and ask “what are the production issues you see in my game?” and write down their feedback. (Do be respectful of their time, though!)
 * Connect with people in the industry with social media, particularly Twitter, and pay attention to what they have to say about their own experiences.
 

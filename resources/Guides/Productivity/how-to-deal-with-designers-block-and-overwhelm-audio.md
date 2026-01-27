@@ -1,6 +1,6 @@
 # How to Deal with Designer’s Block and Overwhelm (Audio)
 
-Source: http://thegamecrafter.libsyn.com/coping-mechanisms-for-getting-oerwhelmed-with-the-game-crafter-episode-85
+Source: 
 
 ×
 

@@ -1,14 +1,14 @@
 # The week after a Kickstarter
 
-Source: https://thecityofkings.com/news/the-week-after-a-kickstarter/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## The week after a Kickstarter
 
-22nd November 2022 [0](https://thecityofkings.com/news/the-week-after-a-kickstarter/#comments)
+22nd November 2022 0
 
-![week-after-website.jpg](https://thecityofkings.com/wp-content/uploads/2022/11/week-after-website.jpg)
+!week-after-website.jpg
 
 Running a Kickstarter can be a thrill, between social media, emails, direct messages, and the Kickstarter page itself, it can be easy to get wrapped up in the buzz. Then suddenly it stops, the notifications die down and you return to the before times.
 
@@ -16,7 +16,7 @@ It took me a couple of Kickstarters to get used to the sudden shift in engagemen
 
 While the number of notifications will decrease you will still get some messages that you must keep on top of, specifically:
 
-* **People who missed your Kickstarter.** I like to create a [pre-order notification page](https://thecityofkings.com/games/race-to-the-raft/pre-order/) so I have somewhere to point them and collect their details.
+* **People who missed your Kickstarter.** I like to create a pre-order notification page so I have somewhere to point them and collect their details.
 * **People who have payment issues.** My default response here is to ask them to work with Kickstarter as I don’t have access to the payment tools. However, I do like to confirm that if they can’t fix their payment in time that I’ll be happy to help them afterwards via the pledge manager.
 * **People who want to cancel.** It’s easy to get caught up in the hype of a campaign so don’t be alarmed if a few people suddenly want to cancel.
 * **People who want to know about the pledge manager.** I always write a detailed update about pledge managers straight after my campaigns end so I can point people to the information.
@@ -25,7 +25,7 @@ With your Kickstarter finished, take some time to celebrate with friends and fam
 
 Once you are back into your normal flow it is time to make sure your pledge manager is ready and to start getting all your files ready to send to your manufacturer.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

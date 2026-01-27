@@ -1,16 +1,16 @@
 # Designer vs Developer vs Publisher
 
-Source: http://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=385A442A16A6995
+Source: 
 
-Creating board games takes an enormous amount of time and effort. The simple fact is that there are *a lot*of distinct tasks that have to be handled to turn a game from an idea into reality. This is why [I urge each new board game designer to share the workload](https://brandonthegamedev.com/6-reasons-you-shouldnt-make-board-games-alone/), delegating tasks to a team instead of doing them all alone. When it comes to delegation, it helps to define some roles. Let’s start with three roles: board game designer, developer, and publisher.
+Creating board games takes an enormous amount of time and effort. The simple fact is that there are *a lot*of distinct tasks that have to be handled to turn a game from an idea into reality. This is why I urge each new board game designer to share the workload, delegating tasks to a team instead of doing them all alone. When it comes to delegation, it helps to define some roles. Let’s start with three roles: board game designer, developer, and publisher.
 
-![teamwork - like board game designer, developer, and publisher](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20490'%3E%3C/svg%3E)
+![teamwork - like board game designer, developer, and publisher](data:image/svg+xml,%3Csvg%20xmlns='
 
 Looking for more resources to help you on your board game design journey?  
-[Here you go: no email required](https://brandonthegamedev.com/resources)!  
+Here you go: no email required!  
   
 Like this writing style?  
-[Check out my latest blog on marketing here](https://brandonrollins.com/).
+Check out my latest blog on marketing here.
 
 The first thing you need to know about designer, developer, and publisher roles is simple. *The lines are blurry.* The definitions I am about to give you are simply for your convenience. They are to be tweaked, twisted, torn up, or thrown out at your convenience.
 
@@ -26,7 +26,7 @@ Designers can develop, publishers can develop, designers can publish, publishers
 
 ##### A sample timeline for a board game designer, developer, and publisher team
 
-What does this look like in practice? I’ll demonstrate below with the sample timeline I created for [Kickstarter Math: How to Deliver Your Board Game On-Time and Within Your Budget](https://brandonthegamedev.com/kickstarter-math-how-to-deliver-your-board-game-on-time-and-within-your-budget/).
+What does this look like in practice? I’ll demonstrate below with the sample timeline I created for Kickstarter Math: How to Deliver Your Board Game On-Time and Within Your Budget.
 
 |  |  |  |
 | --- | --- | --- |
@@ -79,7 +79,7 @@ Developers can get involved early on too! If the publisher and designer have a c
 
 ---
 
-The most important takeaway here is to come up with a coherent way to split up labor. The board game designer, developer, publisher paradigm is the simplest way I know of doing that. This is a method I’ve been using on my own games, *[Yesterday’s War](http://yesterdayswar.com/)*and [*Tasty Humans*](http://tastyhumansboardgame.com/), and I’ve found it extraordinarily effective.
+The most important takeaway here is to come up with a coherent way to split up labor. The board game designer, developer, publisher paradigm is the simplest way I know of doing that. This is a method I’ve been using on my own games, *Yesterday’s War*and *Tasty Humans*, and I’ve found it extraordinarily effective.
 
 I’ll leave you with a question: are you more of a designer, developer, or a publisher? Let me know in the comments below, I’d love to hear from you 🙂
 

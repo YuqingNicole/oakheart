@@ -1,8 +1,8 @@
 # When to Walk Away from a Game Design
 
-Source: https://oakleafgames.wordpress.com/2016/05/05/give-up-on-your-games/
+Source: 
 
-[May 5, 2016March 5, 2018](https://oakleafgames.wordpress.com/2016/05/05/give-up-on-your-games/) [Oakleaf Games](https://oakleafgames.wordpress.com/author/sivilized1/)
+May 5, 2016March 5, 2018 Oakleaf Games
 
 # Give Up on Your Games
 
@@ -24,14 +24,14 @@ Giving up on these old games isn’t really giving up. It’s learning to identi
 
 > I think maturing as a game designer is when you can recognize that one of your own prototypes is no longer worth pursuing.
 >
-> *Byron Collins via [Cardboard Edison](http://cardboardedison.tumblr.com/post/142787201426/i-think-maturing-as-a-game-designer-is-when-you#_=_)*
+> *Byron Collins via Cardboard Edison*
 
 ### Share this:
 
 * [Share on X (Opens in new window)
-  X](https://oakleafgames.wordpress.com/2016/05/05/give-up-on-your-games/?share=twitter)
+  X](
 * [Share on Facebook (Opens in new window)
-  Facebook](https://oakleafgames.wordpress.com/2016/05/05/give-up-on-your-games/?share=facebook)
+  Facebook](
 
 Like Loading...
 

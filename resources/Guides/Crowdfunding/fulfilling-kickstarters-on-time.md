@@ -1,16 +1,16 @@
 # Fulfilling Kickstarters on Time
 
-Source: https://thecityofkings.com/news/fulfilling-kickstarters-on-time/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## Fulfilling Kickstarters on Time
 
-3rd June 2025 [0](https://thecityofkings.com/news/fulfilling-kickstarters-on-time/#comments)
+3rd June 2025 0
 
-![fulfilling-website.jpg](https://thecityofkings.com/wp-content/uploads/2025/06/fulfilling-website.jpg)
+!fulfilling-website.jpg
 
-This week, my latest game [Emberleaf](https://thecityofkings.com/games/emberleaf/) started shipping all around the world — two months ahead of the fulfilment date I announced during the [campaign](https://www.kickstarter.com/projects/tcokgame/emberleaf).
+This week, my latest game Emberleaf started shipping all around the world — two months ahead of the fulfilment date I announced during the campaign.
 
 Today, I want to talk a little about how I got here, and share my best tips for delivering your crowdfunding campaign on time — if not early.
 
@@ -85,7 +85,7 @@ Choose the most realistic one.
 Plan carefully. Build in contingency.  
 And aim to deliver efficiently — with confidence, not risk.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

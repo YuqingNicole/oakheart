@@ -1,12 +1,12 @@
 # When to launch and end a Kickstarter
 
-Source: https://thecityofkings.com/news/when-to-launch-and-end-a-kickstarter/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## When to launch and end a Kickstarter
 
-21st April 2022 [2](https://thecityofkings.com/news/when-to-launch-and-end-a-kickstarter/#comments)
+21st April 2022 2
 
 There are 2 dates that need to be decided when running a crowdfunding campaign, the launch date and the end date. Both of these dates are incredibly important and if you want to have the best chance of success, I strongly recommend using the suggestions below.
 
@@ -14,7 +14,7 @@ There are 2 dates that need to be decided when running a crowdfunding campaign, 
 
 You should always launch a Kickstarter on a Tuesday.
 
-There are a number of reasons for this, but it comes down to [the first 72 hours of a Kickstarter](https://thecityofkings.com/news/setting-your-kickstarter-goal/) being the most important period.
+There are a number of reasons for this, but it comes down to the first 72 hours of a Kickstarter being the most important period.
 
 You do not want any of your first 72 hours to include the weekend and this leaves only Monday and Tuesday as valid options. For a large portion of the world Monday is the start of the week which means catching up with work, getting back to school runs, and the end of the weekend. It presents more distractions in the day and Tuesdays typically offer more chances for casual browsing.
 
@@ -38,7 +38,7 @@ The time of day is just as important as the day itself and I recommend the follo
 
 ##### **Launch at 08:00 Pacific time | 11:00 Eastern time | 16:00 British time**
 
-The UK, EU, and USA are [your biggest audiences](https://thecityofkings.com/news/a-breakdown-of-shipping-locations-for-crowdfunding-projects/) and by launching at these times you will catch the UK as they are in their last hours of work and commuting home. Most of the EU will be the same or just settling in at home for the night. While in the US half the country will be checking their phones as they wake up in the morning and the other half will be ready to start their lunch.
+The UK, EU, and USA are your biggest audiences and by launching at these times you will catch the UK as they are in their last hours of work and commuting home. Most of the EU will be the same or just settling in at home for the night. While in the US half the country will be checking their phones as they wake up in the morning and the other half will be ready to start their lunch.
 
 This time period provides all your core audiences with an opportunity to back, whether it’s while relaxing over a meal, commuting, or wasting time at work. They’ll also be up for a good few hours meaning they have time to see the hype growing on social media before logging off for the night.
 
@@ -48,7 +48,7 @@ This end time allows all your core audiences to be active for the last 5 hours o
 
 People love to be there at the end and count down the last few minutes!
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

@@ -1,12 +1,12 @@
 # How many reward tiers should you have?
 
-Source: https://thecityofkings.com/news/how-many-reward-tiers-should-you-have/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## How many reward tiers should you have?
 
-22nd February 2022 [0](https://thecityofkings.com/news/how-many-reward-tiers-should-you-have/#comments)
+22nd February 2022 0
 
 When it comes to crowdfunding, I am a firm believer that a campaign should have two reward levels, with a third only in rare cases.
 
@@ -56,7 +56,7 @@ By adding the New Arrival Starter Kit I could also point newcomers to a starting
 
 Despite the naming system and all the effort I put in to clearly explaining what everything was, the rewards were too much and people were getting confused. A few hours into the campaign launch I knew I had to do something to help and created the “How to choose your reward” graphic below, placing it high up on the Kickstarter page.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/02/6270ce10d5c7f71682e93c88db723d36_original-scaled.jpg)
+![](
 
 I can’t express enough how valuable this image was, it turned a complex decision back into a simple process where people had choice. Rather than being overwhelmed, many backers felt grateful I was giving them the freedom to choose and guiding them through the process.
 
@@ -81,7 +81,7 @@ In an ideal world you should try your best to keep your campaign to just 2 rewar
 
 In the real world however, this might not always be possible and in these situations it is on you to make it as simple as possible for your backers. Don’t think they will read the page, don’t rely on naming conventions or descriptions, provide tools and don’t be afraid to adapt them throughout the first 48 hours of your campaign.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

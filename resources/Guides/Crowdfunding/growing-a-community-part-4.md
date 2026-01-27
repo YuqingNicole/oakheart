@@ -1,18 +1,18 @@
 # Growing a community part 4
 
-Source: https://thecityofkings.com/news/growing-a-community-part-4/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Growing a community part 4
 
-16th June 2022 [2](https://thecityofkings.com/news/growing-a-community-part-4/#comments)
+16th June 2022 2
 
-Up until now this guide ([part 1](https://thecityofkings.com/news/growing-a-community-part-1/), [part 2](https://thecityofkings.com/news/growing-a-community-part-2/), and [part 3](https://thecityofkings.com/news/growing-a-community-part-3/)) has focussed on easily actionable things that you can start doing today to grow a community. They will all take time and effort but have a measurable impact on your community.
+Up until now this guide (part 1, part 2, and part 3) has focussed on easily actionable things that you can start doing today to grow a community. They will all take time and effort but have a measurable impact on your community.
 
 For example, we can see how many visitors your website is getting, the number of followers you have on twitter, and how many newsletter signups you get at an event.
 
-For part 4. I want to focus on unmeasurable activities that will improve your [passive followers](https://thecityofkings.com/news/growing-a-community-part-1/) and is what I believe to be the most powerful form of marketing.
+For part 4. I want to focus on unmeasurable activities that will improve your passive followers and is what I believe to be the most powerful form of marketing.
 
 ### A warning
 
@@ -30,13 +30,13 @@ This doesn’t mean posting about your game, it doesn’t mean advertising, it s
 
 The goal here isn’t to tell any of these people about your game, but for people to learn about you, so when they do hear about your game and realise you’re the person who made it, they have an immediate positive reaction. They come to you and say “I didn’t realise you were working on this” is the exact response you’re looking for.
 
-There are many groups available to join, [here are a few I recommend](https://thecityofkings.com/news/a-list-of-facebook-groups-to-join/)**,** and I’d suggest you find the one that is right for you and become a genuine member.
+There are many groups available to join, here are a few I recommend**,** and I’d suggest you find the one that is right for you and become a genuine member.
 
 ### **Reddit**
 
-If you’re not familiar with [Reddit](https://www.reddit.com), then it describes itself as a network of communities where people can dive into their interests, hobbies, and passions.
+If you’re not familiar with Reddit, then it describes itself as a network of communities where people can dive into their interests, hobbies, and passions.
 
-It’s one of the biggest websites in the world with tens of millions of daily users with a [board game community](https://www.reddit.com/r/boardgames/) of over 3.5 million users.
+It’s one of the biggest websites in the world with tens of millions of daily users with a board game community of over 3.5 million users.
 
 Just like with Facebook communities, this is not a place to go and start talking about your games and posting adverts. In fact, with Reddit that’s the quickest way to get yourself banned and removed from the platform.
 
@@ -51,7 +51,7 @@ There are 2 positive outcomes from this when it comes to community growing:
 
 ### **Local communities**
 
-I touched on board game stores, cafes, and gaming groups in [part 3](https://thecityofkings.com/news/growing-a-community-part-3/) but with a focus point of building an immediate community.
+I touched on board game stores, cafes, and gaming groups in part 3 but with a focus point of building an immediate community.
 
 At this point I’d like to circle back to these topics and expand upon them by adding local communities as another approach for getting your name out there and gaining passive followers.
 
@@ -69,9 +69,9 @@ I recommend searching the platforms you frequently use and looking for any hobby
 
 The more you put your name out there, the more you’ll gain in the long run.
 
-[*Move on to part 5 >*](https://thecityofkings.com/news/growing-a-community-part-5/)
+*Move on to part 5 >*
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

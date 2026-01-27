@@ -1,12 +1,12 @@
 # Growing a community part 1
 
-Source: https://thecityofkings.com/news/growing-a-community-part-1/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Growing a community part 1
 
-31st May 2022 [2](https://thecityofkings.com/news/growing-a-community-part-1/#comments)
+31st May 2022 2
 
 If you want to run a successful crowdfunding campaign or build a successful business, then you are going to need 2 things:
 
@@ -17,7 +17,7 @@ It is important to start working on both things from day 1.
 
 I see many creators who only start growing a community once their product is finished and this will make your life harder. If you only start building a following once your game is ready, then you will need to wait months before you can launch.
 
-I recently estimated that [Kickstarter will double your backer number](https://thecityofkings.com/news/where-do-kickstarter-backers-come-from/), meaning you need to bring half your backers yourself, and a good starting point is to [get 1,000 followers](https://thecityofkings.com/news/how-many-followers-do-you-need-to-fund-a-kickstarter/) on your campaign page before you launch.
+I recently estimated that Kickstarter will double your backer number, meaning you need to bring half your backers yourself, and a good starting point is to get 1,000 followers on your campaign page before you launch.
 
 ### **Finding what works for you**
 
@@ -45,7 +45,7 @@ As you think about each of the recommendations below, think about how you can us
 
 Websites come in all shapes and sizes but having one can give you a central place to send people regardless of how they find you.
 
-If you have never made a website before, services such as [SquareSpace](https://www.squarespace.com/) offer an easy and reliable service which will be enough to get you started.
+If you have never made a website before, services such as SquareSpace offer an easy and reliable service which will be enough to get you started.
 
 At a minimum, I would recommend the following pages:
 
@@ -73,11 +73,11 @@ Blogs can cover many things and my recommendation is to find something that you 
 
 Why not take a look at some of my first posts for inspiration:
 
-* [Just do it](https://thecityofkings.com/news/just-do-it/)
-* [Prototype development part 1](https://thecityofkings.com/news/prototype-development-part-1/)
-* [The prototype becomes a game](https://thecityofkings.com/news/the-prototype-becomes-a-game/)
-* [The first public play test](https://thecityofkings.com/news/the-first-public-play-test/)
-* [Creating Vyliria Ellion](https://thecityofkings.com/news/creating-vyliria-ellion/)
+* Just do it
+* Prototype development part 1
+* The prototype becomes a game
+* The first public play test
+* Creating Vyliria Ellion
 
 Other relevant blogs I’ve read include tips and tricks for game design, experiences getting into publishing, thoughts on games, and generally just sharing interesting information around board games.
 
@@ -85,13 +85,13 @@ If you don’t already, I recommend you start using a calendar on your phone and
 
 ### **Newsletter**
 
-Over the past 5 years I have tried hard to fill [my newsletter](https://thecityofkings.com/news/newsletter/) with genuine followers. I don’t promote my newsletter much, but it’s always there floating around on my website for people who have clicked around looking for information.
+Over the past 5 years I have tried hard to fill my newsletter with genuine followers. I don’t promote my newsletter much, but it’s always there floating around on my website for people who have clicked around looking for information.
 
 It’s great for in-person events when people ask for more information, and for people wanting to be notified when your game will be available.
 
 When I launched my first Kickstarter I had 465 subscribers on my newsletter, a 91% open rate and 62% of people clicked through. These were very high percentages and much more than you’d expect to get if your newsletter was filled with incentivised followers.
 
-I opt to use [Mailchimp](https://mailchimp.com/) which has a free option for when your subscription count is under 1,500, so it’s a great platform to get started on and their tools for creating newsletters and sign-up forms on your website are very easy to use.
+I opt to use Mailchimp which has a free option for when your subscription count is under 1,500, so it’s a great platform to get started on and their tools for creating newsletters and sign-up forms on your website are very easy to use.
 
 ###### **Getting subscribers**
 
@@ -104,9 +104,9 @@ Outside of this, take note of different situations you find yourself in and cons
 
 With your website setup, bi-weekly articles being posted, and a newsletter slowly gathering genuine followers, your foundations will be set and we can move on to more specific ways of growing an audience.
 
-[*Move on to part 2 >*](https://thecityofkings.com/news/growing-a-community-part-2/)
+*Move on to part 2 >*
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

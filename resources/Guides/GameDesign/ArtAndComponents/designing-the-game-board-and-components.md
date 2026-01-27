@@ -1,6 +1,6 @@
 # Designing the game board and components
 
-Source: https://www.gamefoundry.hk/designing-the-game-board-and-components
+Source: 
 
 # Designing the game board and components
 

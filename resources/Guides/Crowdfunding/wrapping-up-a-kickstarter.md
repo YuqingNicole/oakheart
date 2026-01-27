@@ -1,14 +1,14 @@
 # Wrapping up a Kickstarter
 
-Source: https://thecityofkings.com/news/wrapping-up-a-kickstarter/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Wrapping up a Kickstarter
 
-5th April 2022 [0](https://thecityofkings.com/news/wrapping-up-a-kickstarter/#comments)
+5th April 2022 0
 
-Today I wrapped up [The Isle of Cats: Don’t forget the Kittens! Kickstarter](https://www.kickstarter.com/projects/tcokgame/the-isle-of-cats-dont-forget-the-kittens/posts/3473466) and it’s a strange feeling. Having spent over a year of my life dedicated to planning, launching, and managing the campaign it has all come to an end.
+Today I wrapped up The Isle of Cats: Don’t forget the Kittens! Kickstarter and it’s a strange feeling. Having spent over a year of my life dedicated to planning, launching, and managing the campaign it has all come to an end.
 
 I picked today to be the end date as fulfilment has completed and the vast majority of backers will no longer need any support or information. There will be a few people who still haven’t received their items but at this point that is best addressed directly as the issue will need to be reviewed on a one-by-one basis.
 
@@ -38,7 +38,7 @@ At which point I will reduce my checks of the page from daily to weekly and even
 
 When you come to wrapping up your Kickstarter, remember to leave a good impression and include everything a future visitor might need.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

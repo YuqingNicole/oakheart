@@ -1,14 +1,14 @@
 # A Crash Course in Board Game Development
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=491A559A16A7872
+Source: 
 
-Last week, I posted [A Crash Course in Games](https://brandonthegamedev.com/a-crash-course-in-games/), where I acted as a tour guide to the board game industry, covering much of the contextual information you’ll need to make games. Let’s pick up from there and talk about what specifically goes into making a game. What is board game development all about?
+Last week, I posted A Crash Course in Games, where I acted as a tour guide to the board game industry, covering much of the contextual information you’ll need to make games. Let’s pick up from there and talk about what specifically goes into making a game. What is board game development all about?
 
 Looking for more resources to help you on your board game design journey?  
-[Here you go: no email required](https://brandonthegamedev.com/resources)!  
+Here you go: no email required!  
   
 Like this writing style?  
-[Check out my latest blog on marketing here](https://brandonrollins.com/).
+Check out my latest blog on marketing here.
 
 I tend to use the word game development as a catch-all term for everything that is associated with making a game – that includes game design, product development, marketing, promotion, Kickstarter/crowdfunding, fulfillment, and selling. I use “game development” to describe “the entire creative process of creating a game from start to finish” the same way people say “the White House” to refer to “the United States government.”
 
@@ -18,9 +18,9 @@ So what goes into game development? Let’s break it down…
 
 When people think of board game development, they’re probably thinking of board game design. The processes associated with creating the actual game itself – the way it plays and feels – fall under the purview of game design. Game design involves creating a game with a core engine that drives the gameplay at a fundamental level. It involves creating mechanics that determine how players interact with the game. It involves creating rules which define objectives and constraints that keep the player focused on certain goals and make it difficult for them to reach them.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20453'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='
 
-One of my games, [Tasty Humans](https://tastyhumansboardgame.com/), on Tabletop Simulator.
+One of my games, Tasty Humans, on Tabletop Simulator.
 
 Game design also involves a lot of play-testing. Throughout the game design process, you’ll be playing versions of your game, most of which will be horribly broken. You’ll start out playing your game by yourself, simulating other players. Then you’ll start play-testing within a close circle of associates. Once you confirm that your game is reasonably well polished, you’ll be able to play with disinterested strangers. When it’s almost ready to go, you’ll give your game to people who have never played it before and who do not have any help from you. That’s called blind play-testing.
 
@@ -28,12 +28,12 @@ This whole time, you’ll be making tweaks, improving your game here and there. 
 
 ##### Related articles:
 
-* [How to Design the Core Engine of Your Board Game](https://brandonthegamedev.com/how-to-design-the-core-engine-of-your-board-game/)
-* [How to Play-Test the Core Engine of Your Board Game](https://brandonthegamedev.com/how-to-play-test-the-core-engine-of-your-board-game/)
-* [How to Design the Mechanics of Your Board Game](https://brandonthegamedev.com/how-to-design-the-mechanics-of-your-board-game/)
-* [How to Play-Test the Mechanics of Your Board Game](https://brandonthegamedev.com/how-to-play-test-the-mechanics-of-your-board-game/)
-* [How To Design the Rules of Your Board Game](https://brandonthegamedev.com/how-to-design-the-rules-of-your-board-game/)
-* [How To Play-Test the Rules of Your Board Game](https://brandonthegamedev.com/how-to-play-test-the-rules-of-your-board-game/)
+* How to Design the Core Engine of Your Board Game
+* How to Play-Test the Core Engine of Your Board Game
+* How to Design the Mechanics of Your Board Game
+* How to Play-Test the Mechanics of Your Board Game
+* How To Design the Rules of Your Board Game
+* How To Play-Test the Rules of Your Board Game
 
 #### **Board Game Development:** **Game Production**
 
@@ -41,12 +41,12 @@ Game production is the process of making sure that your freshly designed game be
 
 ##### Related articles:
 
-* [How to Create Board Game Specs and Files for Your Printer](https://brandonthegamedev.com/how-to-create-board-game-specs-and-files-for-your-printer/)
-* [How to Create Specs for Your Board Game Artist](https://brandonthegamedev.com/how-to-create-specs-for-your-board-game-artist/)
-* [How to Find Artists for Your Board Game](https://brandonthegamedev.com/how-to-find-artists-for-your-board-game/)
-* [How to Manage Artists on a Board Game Project](https://brandonthegamedev.com/how-to-manage-artists-graphic-designers-on-a-board-game-project/)
-* [How to Find a Board Game Printer](https://brandonthegamedev.com/how-to-find-a-board-game-printer/)
-* [How to Order and Test Samples of Your Board Game](https://brandonthegamedev.com/how-to-order-and-test-samples-of-your-board-game/)
+* How to Create Board Game Specs and Files for Your Printer
+* How to Create Specs for Your Board Game Artist
+* How to Find Artists for Your Board Game
+* How to Manage Artists on a Board Game Project
+* How to Find a Board Game Printer
+* How to Order and Test Samples of Your Board Game
 
 #### **Board Game Development:** **Game Marketing & Promotion**
 
@@ -56,16 +56,16 @@ Marketing and promotion is hard work, and you’ll want to start laying the grou
 
 ##### Related articles:
 
-* [How to Choose & Use a Board Game Marketing Strategy that Works](https://brandonthegamedev.com/how-to-choose-use-a-board-game-marketing-strategy-that-works/)
-* [How to Use Content Marketing to Sell Board Games](https://brandonthegamedev.com/how-to-use-content-marketing-to-sell-board-games/)
-* [How to Rise Above the Noise of the Internet & Get Noticed](https://brandonthegamedev.com/how-to-rise-above-the-noise-of-the-internet-get-noticed/)
-* [How to Generate Traffic for Your Board Game Website](https://brandonthegamedev.com/how-to-generate-traffic-for-your-board-game-website/)
+* How to Choose & Use a Board Game Marketing Strategy that Works
+* How to Use Content Marketing to Sell Board Games
+* How to Rise Above the Noise of the Internet & Get Noticed
+* How to Generate Traffic for Your Board Game Website
 
 #### **Board Game Development:** **Kickstarter**
 
 A lot of board game developers choose to go through Kickstarter for funding these days. Considering that you have a roughly 50/50 shot of success on the platform, that’s a pretty good idea. Kickstarter has become a de facto testing ground for new board game ideas. If you choose to use Kickstarter for board game development, there’s a lot that comes with that territory as well.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='
 
 This is about HALF of the War Co. packages shipped in the USA. It was a small campaign.
 
@@ -75,12 +75,12 @@ Of course, you need to put on your vanity glasses to deal with some preparation 
 
 ##### Related articles:
 
-* [Your Board Game Kickstarter: Why & How to Spread the Word Early](https://brandonthegamedev.com/your-board-game-kickstarter-why-how-to-spread-the-word-early/)
-* [Kickstarter Math: How to Deliver Your Board Game On-Time and Within Your Budget](https://brandonthegamedev.com/kickstarter-math-how-to-deliver-your-board-game-on-time-and-within-your-budget/)
-* [5 Things I Wish I Knew About Law & Tax Before Kickstarting My Board Game](https://brandonthegamedev.com/5-things-i-wish-i-knew-about-law-tax-before-kickstarting-my-board-game/)
-* [How to Create the Perfect Board Game Kickstarter Campaign Page](https://brandonthegamedev.com/how-to-create-the-perfect-board-game-kickstarter-campaign-page/)
-* [How to Order a Print Run for Your Board Game Kickstarter](https://brandonthegamedev.com/how-to-order-a-print-run-for-your-board-game-kickstarter/)
-* [Fulfill Your Board Game Kickstarter: Sending Products Within the USA](https://brandonthegamedev.com/fulfill-your-board-game-kickstarter-sending-products-within-the-usa/)
+* Your Board Game Kickstarter: Why & How to Spread the Word Early
+* Kickstarter Math: How to Deliver Your Board Game On-Time and Within Your Budget
+* 5 Things I Wish I Knew About Law & Tax Before Kickstarting My Board Game
+* How to Create the Perfect Board Game Kickstarter Campaign Page
+* How to Order a Print Run for Your Board Game Kickstarter
+* Fulfill Your Board Game Kickstarter: Sending Products Within the USA
 
 #### **Board Game Development:** **Selling**
 
@@ -90,11 +90,11 @@ Then there is, of course, the matter of keeping momentum after your game’s rel
 
 ##### Related articles:
 
-* [How to Make a Beautiful Board Game Box](https://brandonthegamedev.com/how-to-make-a-beautiful-board-game-box/)
-* [How to Price Your Board Game](https://brandonthegamedev.com/how-to-price-your-board-game/)
-* [How to Keep the Hype Train Going After a Board Game Kickstarter](https://brandonthegamedev.com/how-to-keep-the-hype-train-going-after-a-board-game-kickstarter/)
-* [How to Advertise Board Games Online](https://brandonthegamedev.com/how-to-advertise-board-games-online/)
-* [How to Sell Your Board Game Outside of Kickstarter](https://brandonthegamedev.com/how-to-sell-your-board-game-outside-of-kickstarter/)
+* How to Make a Beautiful Board Game Box
+* How to Price Your Board Game
+* How to Keep the Hype Train Going After a Board Game Kickstarter
+* How to Advertise Board Games Online
+* How to Sell Your Board Game Outside of Kickstarter
 
 #### Final Thoughts
 

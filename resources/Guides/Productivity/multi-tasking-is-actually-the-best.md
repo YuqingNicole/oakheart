@@ -1,6 +1,6 @@
 # Multi-Tasking Is Actually the Best
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=550A621A16A8263
+Source: 
 
 This year, I’m a mentor in Mike Belsole’s Mentorship program (if you don’t know it, go check it out, it’s pretty sweet). I don’t consider myself accomplished enough for that title, but I thought that if I think myself smart enough to write about game design, I guess I should be smart enough to mentor game designers, right?
 
@@ -8,7 +8,7 @@ I met with my mentees, and there’s one piece of advice I repeated often, and s
 
 “You should work on more than one game at a time.”
 
-![](https://subsurfacegames.ca/wp-content/uploads/2024/05/tumblr_mfzpuxnzgd1ql86bho1_500.gif?w=500)
+![](
 
 *Ron is so, so wrong. You just shouldn’t use your ass to design games.*
 
@@ -53,8 +53,8 @@ It might seem illogical, but I swear: I’ve been there, and I’ve been part of
 ### Share this:
 
 * [Share on X (Opens in new window)
-  X](https://subsurfacegames.ca/2020/02/11/multi-tasking-is-actually-the-best/?share=twitter)
+  X](
 * [Share on Facebook (Opens in new window)
-  Facebook](https://subsurfacegames.ca/2020/02/11/multi-tasking-is-actually-the-best/?share=facebook)
+  Facebook](
 
 Like Loading...

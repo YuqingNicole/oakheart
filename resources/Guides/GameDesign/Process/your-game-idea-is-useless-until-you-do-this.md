@@ -1,10 +1,10 @@
 # Your Game Idea Is Useless until You Do This
 
-Source: http://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=402A462A16A7162
+Source: 
 
-![](https://secure.gravatar.com/avatar/e070efd3c53ce98a45d5d03823e6ea2935aae446756057f7663e9f67820e21de?s=48&d=mm&r=g)
+![](
 
-## [Emily](http://pluckoffgame.com)
+## Emily
 
 6th February 2019, [9:56 am](#comment-25)
 [Reply](#comment-25)

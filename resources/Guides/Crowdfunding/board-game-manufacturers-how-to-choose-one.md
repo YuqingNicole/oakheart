@@ -1,12 +1,12 @@
 # Board game manufacturers – How to choose one?
 
-Source: https://thecityofkings.com/news/board-game-manufacturers-how-to-choose-one/
+Source: 
 
-[Partners](https://thecityofkings.com/news/category/partners/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+PartnersPublishing Lessons
 
 ## Board game manufacturers – How to choose one?
 
-20th January 2022 [45](https://thecityofkings.com/news/board-game-manufacturers-how-to-choose-one/#comments)
+20th January 2022 45
 
 When I first started making board games there was always a part of me that was worried, how can I find a factory to make my games, are they going to do a good job, or will I lose all my money? It doesn’t matter how well a game plays or how pretty it looks, if the physical game is full of errors, cheap materials, and doesn’t meet my customers standards, all my hard work could be for nothing.
 
@@ -40,13 +40,13 @@ With one of their games in your hands you can truly measure the component qualit
 
 ### **A list of manufacturers in China**
 
-While researching manufacturers and going through the above steps, I ended up choosing [Whatz Games](http://www.whatzgames.com/). I have worked with them now for 5 years and highly recommend them as a quality manufacturer who have produced over 500,000 products for me.
+While researching manufacturers and going through the above steps, I ended up choosing Whatz Games. I have worked with them now for 5 years and highly recommend them as a quality manufacturer who have produced over 500,000 products for me.
 
 #### **My top 3 manufacturers are as follows:**
 
-* [Whatz Games (made The Isle of Cats)](http://www.whatzgames.com/)
-* [LongPack Games (made Everdell)](https://www.longpackgames.com/)
-* [Panda Game Manufacturing (made Wingspan)](https://pandagm.com/)
+* Whatz Games (made The Isle of Cats)
+* LongPack Games (made Everdell)
+* Panda Game Manufacturing (made Wingspan)
 
 #### **Other options**
 
@@ -54,25 +54,25 @@ There are plenty of manufacturers out there who have great reputations and your 
 
 Here are a few more options:
 
-* [Boda Games](https://bodagames.com/)
-* [Do Fine Games](http://www.dofinegames.com/)
-* [Eastar Game Manufacturing](https://www.eastarboardgame.com/)
-* [Gameland](https://www.gamelandcn.com/)
-* [magicraft manufacturing](https://www.magicraft.cn/)
-* [Ninox Games](https://www.ninoxgames.com/)
-* [Starry Games](https://www.starrygames.com/)
-* [WinGo](https://wingogames.com/)
+* Boda Games
+* Do Fine Games
+* Eastar Game Manufacturing
+* Gameland
+* magicraft manufacturing
+* Ninox Games
+* Starry Games
+* WinGo
 
 Have you worked with any of these manufacturers, or do you have another company who you would recommend?
 
 ### **You may also be interested in:**
 
-* [How to ship games from China](https://thecityofkings.com/news/how-to-ship-games-from-china/)
-* [How to price your game](https://thecityofkings.com/news/how-to-price-your-game/)
-* [Choosing components for your game](https://thecityofkings.com/news/choosing-components-for-your-game/)
-* [How to build an audience](https://thecityofkings.com/news/growing-a-community-part-1/)
+* How to ship games from China
+* How to price your game
+* Choosing components for your game
+* How to build an audience
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

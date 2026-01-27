@@ -1,6 +1,6 @@
 # The Last 10% of Your Game’s Design
 
-Source: http://mvpboardgames.blogspot.com/2014/07/dtow-12-last-10.html
+Source: 
 
 ## Monday, July 21, 2014
 
@@ -42,79 +42,76 @@ That's it for this week, next week I am going to talk about time off (We just go
 
 Posted by
 
-[Unknown](https://www.blogger.com/profile/15460402989924657253 "author profile")
+[Unknown]( "author profile")
 
 at
-[5:28 AM](http://mvpboardgames.blogspot.com/2014/07/dtow-12-last-10.html "permanent link")
+[5:28 AM]( "permanent link")
 
+![]( "Edit Post")
 
-
-
-[![](https://resources.blogblog.com/img/icon18_edit_allbkg.gif)](https://www.blogger.com/post-edit.g?blogID=8579989746206614268&postID=720026910798176175&from=pencil "Edit Post")
-
-[Email This](https://www.blogger.com/share-post.g?blogID=8579989746206614268&postID=720026910798176175&target=email "Email This")[BlogThis!](https://www.blogger.com/share-post.g?blogID=8579989746206614268&postID=720026910798176175&target=blog "BlogThis!")[Share to X](https://www.blogger.com/share-post.g?blogID=8579989746206614268&postID=720026910798176175&target=twitter "Share to X")[Share to Facebook](https://www.blogger.com/share-post.g?blogID=8579989746206614268&postID=720026910798176175&target=facebook "Share to Facebook")[Share to Pinterest](https://www.blogger.com/share-post.g?blogID=8579989746206614268&postID=720026910798176175&target=pinterest "Share to Pinterest")
+[Email This]( "Email This")[BlogThis!]( "BlogThis!")[Share to X]( "Share to X")[Share to Facebook]( "Share to Facebook")[Share to Pinterest]( "Share to Pinterest")
 
 #### No comments:
 
 #### Post a Comment
 
-[Newer Post](http://mvpboardgames.blogspot.com/2014/07/dtow-13-if-you-love-your-design-let-it.html "Newer Post")
+[Newer Post]( "Newer Post")
 
-[Older Post](http://mvpboardgames.blogspot.com/2014/07/dtow-11-prototyping-game-boards.html "Older Post")
-[Home](http://mvpboardgames.blogspot.com/)
+[Older Post]( "Older Post")
+Home
 
 Subscribe to:
-[Post Comments (Atom)](http://mvpboardgames.blogspot.com/feeds/720026910798176175/comments/default)
+Post Comments (Atom)
 
 ## About Me
 
-[Unknown](https://www.blogger.com/profile/15460402989924657253)
+Unknown
 
-[View my complete profile](https://www.blogger.com/profile/15460402989924657253)
+View my complete profile
 
 ## Blog Archive
 
 * [►](javascript:void(0))
-  [2015](http://mvpboardgames.blogspot.com/2015/)
+  2015
   (3)
   + [►](javascript:void(0))
-    [May](http://mvpboardgames.blogspot.com/2015/05/)
+    May
     (1)
   + [►](javascript:void(0))
-    [March](http://mvpboardgames.blogspot.com/2015/03/)
+    March
     (1)
   + [►](javascript:void(0))
-    [January](http://mvpboardgames.blogspot.com/2015/01/)
+    January
     (1)
 
 * [▼](javascript:void(0))
-  [2014](http://mvpboardgames.blogspot.com/2014/)
+  2014
   (30)
   + [►](javascript:void(0))
-    [December](http://mvpboardgames.blogspot.com/2014/12/)
+    December
     (2)
   + [►](javascript:void(0))
-    [November](http://mvpboardgames.blogspot.com/2014/11/)
+    November
     (4)
   + [►](javascript:void(0))
-    [October](http://mvpboardgames.blogspot.com/2014/10/)
+    October
     (1)
   + [►](javascript:void(0))
-    [September](http://mvpboardgames.blogspot.com/2014/09/)
+    September
     (4)
   + [►](javascript:void(0))
-    [August](http://mvpboardgames.blogspot.com/2014/08/)
+    August
     (3)
   + [▼](javascript:void(0))
-    [July](http://mvpboardgames.blogspot.com/2014/07/)
+    July
     (4)
-    - [DToW #13 (If you love your Design, Let it Go)](http://mvpboardgames.blogspot.com/2014/07/dtow-13-if-you-love-your-design-let-it.html)
-    - [DToW #12 (The Last 10%)](http://mvpboardgames.blogspot.com/2014/07/dtow-12-last-10.html)
-    - [DToW #11 (Prototyping Game Boards)](http://mvpboardgames.blogspot.com/2014/07/dtow-11-prototyping-game-boards.html)
-    - [DToW #10 (Play Testing)](http://mvpboardgames.blogspot.com/2014/07/dtow-10-play-testing.html)
+    - DToW #13 (If you love your Design, Let it Go)
+    - DToW #12 (The Last 10%)
+    - DToW #11 (Prototyping Game Boards)
+    - DToW #10 (Play Testing)
   + [►](javascript:void(0))
-    [June](http://mvpboardgames.blogspot.com/2014/06/)
+    June
     (6)
   + [►](javascript:void(0))
-    [May](http://mvpboardgames.blogspot.com/2014/05/)
+    May
     (6)

@@ -1,14 +1,14 @@
 # Tips to make shipping cheaper
 
-Source: https://thecityofkings.com/news/tips-to-make-shipping-cheaper/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## Tips to make shipping cheaper
 
-22nd September 2022 [4](https://thecityofkings.com/news/tips-to-make-shipping-cheaper/#comments)
+22nd September 2022 4
 
-![cheaper-shipping-website.jpg](https://thecityofkings.com/wp-content/uploads/2022/09/cheaper-shipping-website.jpg)
+!cheaper-shipping-website.jpg
 
 Sometimes things become so normalised that we forget to measure the impact they have and don’t realise they are hindering us from the shadows.
 
@@ -52,10 +52,10 @@ Keep in mind, the goal here is to save money but not at the expense of the produ
 
 ### You may also be interested in:
 
-* [2 tips to help keep your costs down](https://thecityofkings.com/news/2-simple-tips-for-saving-money/)
-* [How much shipping has increased](https://thecityofkings.com/news/how-much-more-expensive-is-it-to-ship-a-game-today/).
+* 2 tips to help keep your costs down
+* How much shipping has increased.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

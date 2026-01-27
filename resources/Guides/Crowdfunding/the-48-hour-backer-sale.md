@@ -1,14 +1,14 @@
 # The 48-hour backer sale
 
-Source: https://thecityofkings.com/news/the-48-hour-backer-sale/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## The 48-hour backer sale
 
-29th November 2022 [0](https://thecityofkings.com/news/the-48-hour-backer-sale/#comments)
+29th November 2022 0
 
-![48-hour-backer-sale-website.jpg](https://thecityofkings.com/wp-content/uploads/2022/11/48-hour-backer-sale-website.jpg)
+!48-hour-backer-sale-website.jpg
 
 A common question I get asked during Kickstarters is whether or not backers will be able to buy my previous games in addition to getting the new one.
 
@@ -62,7 +62,7 @@ Overall, this was much more successful than I had expected, keeping in mind that
 
 I’m very glad I tried this approach and think the results were fantastic. There is certainly room for improvement next time around with some of the decisions I made, but I think this is something I would do again in the future.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

@@ -1,10 +1,10 @@
 # Maximizing Your Game Design Time
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=576A647A16A8459
+Source: 
 
-![](https://weirdgiraffegames.com/carla/wp-content/uploads/2020/06/Slide5.png)
+![](
 
-Here’s the second part of how to really take advantage of your game design time! If you missed part 1, you can read it here: <https://weirdgiraffegames.com/carla/2020/04/16/maximizing-your-game-design-time-part-1/>
+Here’s the second part of how to really take advantage of your game design time! If you missed part 1, you can read it here: <
 
 Working with Others:
 
@@ -43,10 +43,10 @@ Focus on the Positives:
 
 ---
 
-I host Game Design Live Chats every Sunday and Thursday! You are welcome to participate or simply listen in whenever the time fits in your schedule. [Click here for our calendar of events.](https://weirdgiraffegames.com/carla/game-design-live-chats/)
+I host Game Design Live Chats every Sunday and Thursday! You are welcome to participate or simply listen in whenever the time fits in your schedule. Click here for our calendar of events.
 
 Did you enjoy this entry? Please let me know I’d love to hear what you think and what kind of things you’d like to see from this blog. Feel free to send me an [email](mailto:contact@weirdgiraffegames.com) or comment with your thoughts!
 
-Don’t forget to sign up for my mailing list, so you don’t miss a post: <https://tinyletter.com/carlakopp>
+Don’t forget to sign up for my mailing list, so you don’t miss a post: <
 
 ### *Related*

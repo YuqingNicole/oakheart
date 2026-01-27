@@ -1,12 +1,12 @@
 # How many followers do you need to fund a Kickstarter?
 
-Source: https://thecityofkings.com/news/how-many-followers-do-you-need-to-fund-a-kickstarter/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## How many followers do you need to fund a Kickstarter?
 
-12th May 2022 [8](https://thecityofkings.com/news/how-many-followers-do-you-need-to-fund-a-kickstarter/#comments)
+12th May 2022 8
 
 A couple of years ago Kickstarter released a new feature allowing creators to set up a pre-launch page for their Kickstarter. This page is very simple and only has a title, short description, and image, yet it is very powerful for building a following and measuring how much interest your project has.
 
@@ -30,7 +30,7 @@ Finally, all these stats are manually recorded by me during my campaigns. I love
 * **Total backers** – The number of people backing the project.
 * **% of backers** – What % of backers were followers.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/05/Follower-conversion.jpg)
+![](
 
 ### **The prediction**
 
@@ -53,11 +53,11 @@ These numbers alone are a little deceptive and there are many other factors to c
 * The quality of third-party content (videos) releasing on launch, I didn’t have any and these can bring in backers.
 * The general momentum of the project, my campaign funded very quickly which can encourage others to join earlier.
 
-My suggestion would be for 300 backers, you should aim for a minimum of 1,000 high quality followers prior to launching if you want to fund in the first 24 hours. Alone this wont bring you success, you need a good product, Kickstarter page, pricing, and to follow [all the other lessons on this blog](https://thecityofkings.com/crowdfunding-lessons/), but it’s a rough benchmark that I follow.
+My suggestion would be for 300 backers, you should aim for a minimum of 1,000 high quality followers prior to launching if you want to fund in the first 24 hours. Alone this wont bring you success, you need a good product, Kickstarter page, pricing, and to follow all the other lessons on this blog, but it’s a rough benchmark that I follow.
 
 I’ve included the full breakdown of my follower conversions throughout the campaign for your reference so you can use this to make your own predictions based on different funding timelines.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

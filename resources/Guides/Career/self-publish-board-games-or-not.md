@@ -1,16 +1,16 @@
 # Self-Publish Board Games or Not?
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=564A635A16A8362
+Source: 
 
-![Self-Publishing](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20830%20829'%3E%3C/svg%3E)
+![Self-Publishing](data:image/svg+xml,%3Csvg%20xmlns='
 
-To get the [Start to Finish](https://brandonthegamedev.com/start-to-finish-publish-and-sell-your-first-board-game/) series going, I’ve spent some time discussing games, game development, and the amount of careful messaging that is needed to create and sell a great game. At this point, you may be beginning to have some healthy doubts about the benefits and drawbacks of self-publishing a game. After all, if you self-publish, you are responsible all these decisions and their results!
+To get the Start to Finish series going, I’ve spent some time discussing games, game development, and the amount of careful messaging that is needed to create and sell a great game. At this point, you may be beginning to have some healthy doubts about the benefits and drawbacks of self-publishing a game. After all, if you self-publish, you are responsible all these decisions and their results!
 
 Looking for more resources to help you on your board game design journey?  
-[Here you go: no email required](https://brandonthegamedev.com/resources)!  
+Here you go: no email required!  
   
 Like this writing style?  
-[Check out my latest blog on marketing here](https://brandonrollins.com/).
+Check out my latest blog on marketing here.
 
 The Start to Finish series is intended to help you self-publish a game for the first time. Yet that’s not the right decision for everybody because there are so many factors to consider. Self-publishing could totally kill the magic of game development for you, depending on what drew you to it in the first place. My guide will be handy whether you self-publish or go through a publisher. But it’s time for you to ask yourself a big question:
 
@@ -20,7 +20,7 @@ Let’s pro/con both options…
 
 ---
 
-*The following excerpt was originally from [Is self-publishing your board game a good idea?](https://brandonthegamedev.com/is-self-publishing-your-board-game-a-good-idea)*
+*The following excerpt was originally from Is self-publishing your board game a good idea?*
 
 ##### **Why Self-Publishing is Great**
 
@@ -66,9 +66,9 @@ There is a silver lining to this. Board games are showing up in all sorts of une
 
 Traditional publishers have been more heavily using crowdfunding in the last several years. I expect this trend to continue. This is because crowdfunding feels a lot more legitimate than it did ten years ago. Backers practically treat Kickstarter like a store.
 
-Traditional publishers are a lot more capable of handling the ever-increasing production values of hobby board games. However, this comes at a cost: [eliminating bad ideas](https://brandonthegamedev.com/4-ways-to-vet-your-board-game-before-launching-a-kickstarter/). That means publishers, who are already selective, are likely to be more selective in the future. That means they’ll have increased leverage, and may offer even less favorable terms to designers.
+Traditional publishers are a lot more capable of handling the ever-increasing production values of hobby board games. However, this comes at a cost: eliminating bad ideas. That means publishers, who are already selective, are likely to be more selective in the future. That means they’ll have increased leverage, and may offer even less favorable terms to designers.
 
-That may sound icky, but don’t simply write off the traditional publishing route. [Running a business is hard work](https://brandonthegamedev.com/dont-just-build-a-board-game-build-a-business/), and it’s not something you should do lightly, no matter what the current trends.
+That may sound icky, but don’t simply write off the traditional publishing route. Running a business is hard work, and it’s not something you should do lightly, no matter what the current trends.
 
 ##### **Bringing it All Together**
 

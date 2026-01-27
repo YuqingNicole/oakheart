@@ -1,12 +1,12 @@
 # Why you should have a quick 3-minute overview video
 
-Source: https://thecityofkings.com/news/why-you-should-have-a-quick-3-minute-overview-video/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Why you should have a quick 3-minute overview video
 
-31st March 2022 [0](https://thecityofkings.com/news/why-you-should-have-a-quick-3-minute-overview-video/#comments)
+31st March 2022 0
 
 Videos have been a big part of the board game industry for a while now, and if you plan to release a game you’re going to need to have some.
 
@@ -68,7 +68,7 @@ In my experience, these videos on average have received 2 – 3 times more views
 
 I’m still experimenting with the exact formula and I think it will always vary a little bit depending on the size of the game. If you have made a quick overview video for your own game then feel free to share it in the comments, I’d love to see it!
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

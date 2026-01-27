@@ -1,6 +1,6 @@
 # What to Do with Your Brilliant Board Game Idea
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=536A607A16A8174
+Source: 
 
 # What to do with your brilliant board game
 
@@ -8,21 +8,21 @@ Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda918
 
 ![What to do with your brilliant board game](//bigpotato.com/cdn/shop/articles/tris-header1.jpg?v=1613037371&width=15)
 
-![](https://cdn.shopify.com/s/files/1/0525/4565/0856/articles/tris-header1.jpg?v=1613037371)
+![](
 
-![](https://cdn.shopify.com/s/files/1/0525/4565/0856/files/first_480x480.jpg?v=1616087361)
+![](
 
  There has never been a better time to be a board game inventor than now. Board games are smarter, more inventive, more entertaining, more beautiful and more popular than ever before.
 
-**Love our games? [Visit our board game shop](https://bigpotato.co.uk/collections/all)**
+**Love our games? Visit our board game shop**
 
 ### The Golden Age of Board Games
 
-The old guard of classic games are still selling well, Monopoly always shifts by the bucket-load but people are increasingly turning to a new wave of games that bend and break the old rules. Think of it a bit like wine. In the 70s and 80s there was limited choice. It was pretty much Matteus Rose or Black Tower. Then in the 90s, wines from all corners of the world began to appear on supermarket shelves. Albarinos from Spain could be seen rubbing shoulders with Tarrangos from Australia, Malbecs from Argentina started sharing a basket with Rieslings from New Zealand. It was now possible to find the perfect wine for you — the perfect wine for any occasion.![](https://bigpotato.com/files/)
+The old guard of classic games are still selling well, Monopoly always shifts by the bucket-load but people are increasingly turning to a new wave of games that bend and break the old rules. Think of it a bit like wine. In the 70s and 80s there was limited choice. It was pretty much Matteus Rose or Black Tower. Then in the 90s, wines from all corners of the world began to appear on supermarket shelves. Albarinos from Spain could be seen rubbing shoulders with Tarrangos from Australia, Malbecs from Argentina started sharing a basket with Rieslings from New Zealand. It was now possible to find the perfect wine for you — the perfect wine for any occasion.![](
 
-The same is now true for games. The choice is incredible and varied. There are co-op games were everyone works together to beat the game. Legacy games which take a while to play but once you’ve completed it you’re done. Games that merge with tech, have multiple ways to play, are X-rated, make you think in ways you never have before…and so on.![](https://bigpotato.com/files/)
+The same is now true for games. The choice is incredible and varied. There are co-op games were everyone works together to beat the game. Legacy games which take a while to play but once you’ve completed it you’re done. Games that merge with tech, have multiple ways to play, are X-rated, make you think in ways you never have before…and so on.![](
 
-We really are living through the golden age of board games. And the good news, is it’s now easier to get a game off the ground than ever before too. Amazon, Ebay, YouTube, crowdfunding sites, board game cafes, meet-up clubs and databases and forums like [boardgamegeek](https://boardgamegeek.com/) all make it possible for a one-man-band inventor to publish, market and sell their masterpiece without help from the big boys. But even here the world has shifted spectacularly and the major toy and game companies are making themselves more accessible to the lone inventor as they look for that next big hit.![](https://bigpotato.com/files/)
+We really are living through the golden age of board games. And the good news, is it’s now easier to get a game off the ground than ever before too. Amazon, Ebay, YouTube, crowdfunding sites, board game cafes, meet-up clubs and databases and forums like boardgamegeek all make it possible for a one-man-band inventor to publish, market and sell their masterpiece without help from the big boys. But even here the world has shifted spectacularly and the major toy and game companies are making themselves more accessible to the lone inventor as they look for that next big hit.![](
 
 So, if you’ve got a good idea for a game in your bottom drawer, now is the time to dust it off and see how far you can take it. You never know, you might be sitting on the next Catan, Codenames, Cards Against Humanity or Linkee.  
 In this article, I’ll do my best to help guide you and your game through the strange world of toys and games and out the other side, with a game on the shelf and some royalties in the bank.
@@ -33,7 +33,7 @@ Here goes…
 
 I’m not going to tell you what makes a good game. That’s for you to figure out for yourself. What I can tell you is that it doesn’t matter if you think your game is the best thing since sliced bread, it’s what everyone else thinks about it that counts. They’re the ones that will be investing in it, selling it in their shops and buying it for their friends. Your game will have to survive the lion’s den of public opinion if it’s to make it so you might as well throw it in the deep end early doors.
 
-![](https://cdn.shopify.com/s/files/1/0525/4565/0856/files/1546602493_screenshot-2019-01-03-at-16.45.38_240x240.jpg?v=1616087402)
+![](
 
 **STOP!** Before you go to the effort of making a demo, go on the Internet right now and make sure that someone else hasn’t rudely invented your game before you. Look on Google, search BGG, do as much digging as you can. If there is something similar out there, consider abandoning your idea and working on a new game. Later on down the line if anyone says to you, “This game is just like blah blah blah”, what will be your response? If it’s not a convincing one then your game will be shot down in flame – and all that hard work wasted. It’s better to be ruthless now and put all your time and energy into a game that has the best chance of succeeding.
 
@@ -43,9 +43,9 @@ If the coast is clear online, then make a playable demo of your game and test it
 
 Your playable demo doesn’t have to look good, just work well enough so people can play it and give you feedback. You can work on the name and design later on, at this stage you’re just perfecting the gameplay and testing to see if people genuinely enjoy it and want to play it again.
 
-![](https://cdn.shopify.com/s/files/1/0525/4565/0856/files/demo_240x240.jpg?v=1616087408)
+![](
 
-When we test our games they always need refining. Sometimes a very average game turns into a great one with a clever rule change or novel twist. Sometimes we have to admit, painfully, that a game just isn’t good enough and off to the game graveyard it goes. (Our game graveyard is quite full.)![](https://bigpotato.com/files/)
+When we test our games they always need refining. Sometimes a very average game turns into a great one with a clever rule change or novel twist. Sometimes we have to admit, painfully, that a game just isn’t good enough and off to the game graveyard it goes. (Our game graveyard is quite full.)![](
 
 If your game idea is difficult to make, maybe it needs electronics, plastic moulding or a special mechanism, then you can skip this step and approach game’s companies with your idea on a concept board. You could draw it, knock it up on a Mac if you’ve got the skills or even better, cheat a mock-up. The inventors of Bop-it demoed it using some cardboard and a person making the sound effects off camera — it was enough to get them a deal. Do whatever it takes to get your idea across. Making a video of your idea is a great place to start.
 
@@ -53,11 +53,11 @@ If your game idea is difficult to make, maybe it needs electronics, plastic moul
 
 You’ve play-tested your game to death and everyone loves it. You’ve checked there are no direct competitors out there. You now have a few decisions to make. Do you license (or sell) your game to a publisher, do you look for a distributor or do you go it alone?
 
-![](https://cdn.shopify.com/s/files/1/0525/4565/0856/files/1546602650_screenshot-2019-01-03-at-16.43.01_480x480.jpg?v=1615546477)
+![](
 
 Finding a publisher
 
-OK, you don’t want to go it alone. It involves a lot of hard work, money, time and risk. You want to find someone who will adopt your baby and do it proud. Fine. Start emailing as many publishers as you can and ask how you can submit your idea – or even better, get a face-to-face meeting. The truth is that all game publishers want the next great game so they’ll be willing to look at it, it’s just getting through to them.![](https://bigpotato.com/files/)
+OK, you don’t want to go it alone. It involves a lot of hard work, money, time and risk. You want to find someone who will adopt your baby and do it proud. Fine. Start emailing as many publishers as you can and ask how you can submit your idea – or even better, get a face-to-face meeting. The truth is that all game publishers want the next great game so they’ll be willing to look at it, it’s just getting through to them.![](
 
 Plan of attack 1
 
@@ -67,7 +67,7 @@ Find out who receives submissions at each company and email them a short descrip
 
 Plan of attack 2
 
-Follow up you email a few weeks later when no one has replied to your first.![](https://bigpotato.com/files/)
+Follow up you email a few weeks later when no one has replied to your first.![](
 
 Plan of attack 2
 
@@ -77,9 +77,9 @@ Plan of attack 4
 
 If you’re finding it tough to get a response from the publishers directly, you can attract their attention in other ways. You could find out where they live and stand outside their house in your pants. Or you could look up when they are have any inventor events and workshops, or make appointments to see them at toy fairs, inventor workshops or game expos. You’ll need a playable demo (or cheats demo, as mentioned above), lots of passion and a good game. Here is a list of events to consider:
 
-Game Expos:  [Essen](https://www.spiel-messe.com/en/)  [UK Games Expo](https://www.ukgamesexpo.co.uk/)  [Gen Con](https://www.gencon.com/)  [Mojo Nation](https://mojo-nation.com/)
+Game Expos:  Essen  UK Games Expo  Gen Con  Mojo Nation
 
-Trade Fairs:  [London, Olympia](https://www.toyfair.co.uk/)  [New York](https://www.toyfairny.com/)  [Nuremberg](https://www.spielwarenmesse.de/worldwide/great-britain/toy-fair-nuremberg/language/1/)  [Hong Kong](https://event.hktdc.com/fair/hktoyfair-en/HKTDC-Hong-Kong-Toys-and-Games-Fair/)![](https://bigpotato.com/files/)
+Trade Fairs:  London, Olympia  New York  Nuremberg  Hong Kong![](
 
 Rewards
 
@@ -95,7 +95,7 @@ Going it alone
 
 OK, you’re going to go for it. You’re up for the hard graft because you want to control the way your game enters the market and reckon you can do a good job at it.
 
-Before you plunge into the world of self-publishing, or crowdfunding, it’s worth bearing in mind what you’re getting yourself into. Firstly, the skills you’ll need to go it alone are not the skills you need to be a great game inventor. You’ll have to turn your hand to marketing, design, production, sales, shipping and the mundane tasks of running a business.![](https://bigpotato.com/files/)
+Before you plunge into the world of self-publishing, or crowdfunding, it’s worth bearing in mind what you’re getting yourself into. Firstly, the skills you’ll need to go it alone are not the skills you need to be a great game inventor. You’ll have to turn your hand to marketing, design, production, sales, shipping and the mundane tasks of running a business.![](
 
 Crowdfunding
 
@@ -113,7 +113,7 @@ If you don’t want to license your game – or maybe you haven’t been offered
 
 We took this harder option but then there were three of us and we had many of the skills needed already. We were trained in creativity, marketing, sales and running businesses. The bits we had to learn — and lots of lovely people helped us along the way — were the manufacturing process, shipping, distribution and the vagaries and rules of the toy and game business.
 
-![](https://cdn.shopify.com/s/files/1/0525/4565/0856/files/big-potato-games-1_480x480.jpg?v=1615546510)
+![](
 
 Where to start
 
@@ -127,7 +127,7 @@ You’re going to need to hone your social media skills if they’re not already
 
 You’re trying to get your game noticed and anyway you do this is a good thing. We were lucky and ended up Dragon’s Den which was seen by over 5 million people – for free!
 
-![](https://cdn.shopify.com/s/files/1/0525/4565/0856/files/1546603316_dd-linkee-1_480x480.jpg?v=1615546541)
+![](
 
 Amazon
 
@@ -137,7 +137,7 @@ It might take you a while to crack the bricks and mortar retailers making Amazon
 
 ### Good Luck
 
-![](https://cdn.shopify.com/s/files/1/0525/4565/0856/files/trade-page-group_480x480.jpg?v=1615546575)
+![](
 
 ## Comments Comments
 

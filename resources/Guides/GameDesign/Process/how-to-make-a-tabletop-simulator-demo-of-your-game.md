@@ -1,16 +1,16 @@
 # How to Make a Tabletop Simulator Demo of Your Game
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=558A629A16A8323
+Source: 
 
-Many of you know that I’m in love with [Tabletop Simulator](http://store.steampowered.com/app/286160/Tabletop_Simulator/) as a testing tool. It’s a simple app on the Steam store, it costs $19.99, and it’s been an extraordinary resource for me during the development of *War Co.*, *Highways & Byways,*and *Tasty Humans*.
+Many of you know that I’m in love with Tabletop Simulator as a testing tool. It’s a simple app on the Steam store, it costs $19.99, and it’s been an extraordinary resource for me during the development of *War Co.*, *Highways & Byways,*and *Tasty Humans*.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20453'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='
 
 Looking for more resources to help you on your board game design journey?  
-[Here you go: no email required](https://brandonthegamedev.com/resources)!  
+Here you go: no email required!  
   
 Like this writing style?  
-[Check out my latest blog on marketing here](https://brandonrollins.com/).
+Check out my latest blog on marketing here.
 
 #### The 5 Benefits of Using Tabletop Simulator
 
@@ -40,17 +40,17 @@ This goes hand in hand with benefit #4 but bears mention on its own. Until you h
 
 ##### Step One: Create Images of Your Board, Cards, and Components
 
-For the purposes of this guide, let’s assume your game involves a board, some cards, and some two-dimensional pieces. If it involves 3D models or other complex pieces, see [the knowledge base that the development studio put together](http://berserk-games.com/knowledgebase_category/custom-content/).
+For the purposes of this guide, let’s assume your game involves a board, some cards, and some two-dimensional pieces. If it involves 3D models or other complex pieces, see the knowledge base that the development studio put together.
 
 First, you’ll want to create JPG images of your board and each unique component. If you have duplicates of components, just create a single JPG – you can copy and paste the piece multiple times once you’ve loaded into Tabletop Simulator. This is pretty straightforward – all you need are some files that show what they actually look like. The Tabletop Simulator software will automatically size the board and pieces around your images.
 
-Cards are more complicated. You’ll need to use [this template](http://i.imgur.com/q6J6Qif.png) or one similar to it. You’ll need to place the front of each card on one of these numbered slots, starting with 1 and working your way up from there. If you have 50 cards, you’ll fill up the first 50 slots and no others. If you have more than 69 cards, you’ll need to make multiple decks. Once you have all cards placed, save the whole grid as a JPG.
+Cards are more complicated. You’ll need to use this template or one similar to it. You’ll need to place the front of each card on one of these numbered slots, starting with 1 and working your way up from there. If you have 50 cards, you’ll fill up the first 50 slots and no others. If you have more than 69 cards, you’ll need to make multiple decks. Once you have all cards placed, save the whole grid as a JPG.
 
 If your cards are a different dimension than the template linked above, you’ll need to create a template that is 10 times the width of a card and 7 times its height. Then you’ll place several gridlines so you get a similar template with different dimensions.
 
 As for the card back, you’ll just need to save that as a JPG. If you have multiple card backs per deck, you’ll need to make another grid based on the template. Card back 1 needs to correspond to card front 1, card back 2 needs to correspond to card front 2, and so on.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20640'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='
 
 ##### Step Two: Upload Your Images to the Internet
 
@@ -65,7 +65,7 @@ Once you have your board, cards, and other pieces ready as JPG files, you need t
 * Click *Table* on the menu.
 * You should now see a screen similar to the one below where it shows a list of tabletops. Pick one you like.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20645'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='
 
 Now that you have a table, let’s get a board on it.
 
@@ -75,7 +75,7 @@ Now that you have a table, let’s get a board on it.
 * You should see a screen similar to the one below. Copy and paste the URL of your board’s image.
 * Click *Import*.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20596'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='
 
 Next, let’s add some cards.
 
@@ -91,7 +91,7 @@ Next, let’s add some cards.
   + Back is Hidden – check
 * Click *Import.*
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20849'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='
 
 To add a custom component, follow these instructions.
 
@@ -106,11 +106,11 @@ To add a custom component, follow these instructions.
   + Stretch to Aspect Ratio – (checked)
 * Click *Import.*
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201020%20671'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='
 
 At this point, you can hover over any individual piece and press the plus or minus key to increase or decrease its size. You can also highlight any pieces you wish to copy and use CTRL+C and CTRL+V to make copies.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20605'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='
 
 Well, let’s not go overboard with copy-paste…
 
@@ -118,7 +118,7 @@ Well, let’s not go overboard with copy-paste…
 
 Once you’re done, click *Upload* > *Workshop Upload*. Fill out all the information, and click *Upload*. It will upload it to Steam and then give you a Workshop ID. Any time you want to update your workshop item, pull up this same window and click the *Update Workshop* tab. Then type in the Workshop ID, fill out the information, and click *Update*.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20533%20632'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='
 
 ##### Step Five: Get Noticed
 
@@ -128,7 +128,7 @@ If you plan on using Tabletop Simulator for anything other than rapid prototypin
 
 As you can imagine, with software as sophisticated as Tabletop Simulator, I’ve only been able to scratch the surface of its true abilities in this article. You can create incredibly complex board games with 3D models and Lua scripting. The possibilities are immense.
 
-For that reason, if you need help with Tabletop Simulator, I recommend you [check out Overboard Games](https://overboardgames.co.uk/). The guy behind this company runs the Pangea Games social media, and he’s become really, really talented with Tabletop Simulator. He and his team have even made demos for big publishers such as Stronghold Games, Garphill Games, and Portal Games. He’s worth your time!
+For that reason, if you need help with Tabletop Simulator, I recommend you check out Overboard Games. The guy behind this company runs the Pangea Games social media, and he’s become really, really talented with Tabletop Simulator. He and his team have even made demos for big publishers such as Stronghold Games, Garphill Games, and Portal Games. He’s worth your time!
 
 #### Final Thoughts
 

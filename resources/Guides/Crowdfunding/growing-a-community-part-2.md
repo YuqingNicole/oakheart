@@ -1,14 +1,14 @@
 # Growing a community part 2
 
-Source: https://thecityofkings.com/news/growing-a-community-part-2/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Growing a community part 2
 
-9th June 2022 [2](https://thecityofkings.com/news/growing-a-community-part-2/#comments)
+9th June 2022 2
 
-In [part 1 of this guide](https://thecityofkings.com/news/growing-a-community-part-1/) I discussed some of the basic elements required for growing a community and in this part I will be taking a look at social media.
+In part 1 of this guide I discussed some of the basic elements required for growing a community and in this part I will be taking a look at social media.
 
 Social media is one of the biggest tools we have but it must be handled properly, otherwise it will end up doing as much harm as good.
 
@@ -28,7 +28,7 @@ You’ll most likely want to focus on information videos, these may be reviewing
 
 You should think about whether the content will all be focussed on your own games and journey, or whether you want to widen the content to cover other games as well. Try and be consistent but also feel free to experiment until you find something that works for you.
 
-[Stonemaier Games](https://www.youtube.com/c/JameyStegmaier) is a great example of a YouTube channel done well.
+Stonemaier Games is a great example of a YouTube channel done well.
 
 ### **Twitter account**
 
@@ -49,7 +49,7 @@ It doesn’t have to be this formulaic, but it can help you get started if you�
 
 ### **Facebook page**
 
-Facebook contains many [Board Game communities](https://thecityofkings.com/news/a-list-of-facebook-groups-to-join/) and is a very powerful community growing platform if used correctly.
+Facebook contains many Board Game communities and is a very powerful community growing platform if used correctly.
 
 Just like having a website, a Facebook page is a great central hub for your brand on Facebook and a place for many people to discover you as they search for you on the platform.
 
@@ -109,11 +109,11 @@ The most successful implementations on any social media platform are those that 
 
 Whatever you decide, I recommend you register accounts on all social media platforms even if you don’t plan to use them, as having your name secured for the future is beneficial. Simply register the accounts but don’t post anything and keep them available for the future.
 
-You should also consider [thinking about your voice](https://thecityofkings.com/news/finding-your-voice/) and how you want to be seen across all your platforms, being consistent is important.
+You should also consider thinking about your voice and how you want to be seen across all your platforms, being consistent is important.
 
-[*Move on to part 3 >*](https://thecityofkings.com/news/growing-a-community-part-3/)
+*Move on to part 3 >*
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

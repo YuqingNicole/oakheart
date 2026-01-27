@@ -1,11 +1,11 @@
 # Games Are Ready When They’re Ready
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=554A625A16A8299
+Source: 
 
 24
 Feb 2020
 
-Here are Rock Manor Games, our games take quite a bit of time. Our fastest turnaround on developing a board game was probably Gothic Horrors and that was an expansion and still took over a year. Most of our new games take about 2 years to get to Kickstarter which is ~3 years to actually get in gamers’ hands. Our upcoming game, [Lawyer Up](https://www.kickstarter.com/projects/mikegnade/lawyer-up/) was originally conceived 4 Gencons ago back in 2016. I’m sure some people reading this are thinking, “What takes them so long?”… well I’ll do my best to explain our process. Whether or not you think our development time is justified is probably subjective.
+Here are Rock Manor Games, our games take quite a bit of time. Our fastest turnaround on developing a board game was probably Gothic Horrors and that was an expansion and still took over a year. Most of our new games take about 2 years to get to Kickstarter which is ~3 years to actually get in gamers’ hands. Our upcoming game, Lawyer Up was originally conceived 4 Gencons ago back in 2016. I’m sure some people reading this are thinking, “What takes them so long?”… well I’ll do my best to explain our process. Whether or not you think our development time is justified is probably subjective.
 
 #### From Concept to Prototype
 
@@ -13,7 +13,7 @@ I’ve never met a Game Designer that didn’t have a notebook full of game idea
 
 I’m not quite sure when I first had the idea for a Lawyer card game. A bunch of my friends are attorneys (like almost a dozen of them). At some point I was talking to one of them. They were asking me all about board games and I was trying to explain it all to them. During the conversation, I realized that I had never seen a game based on the courtroom before. This was surprising to me because there are SO MANY TV legal dramas. Needless to say, I started thinking about how a Lawyer game would work. It was just one of those things in the back of my head.
 
-![](https://i0.wp.com/rockmanorgames.com/wp-content/uploads/2020/02/game-tracking-progress-1.png?fit=512%2C1024)
+![](
 
 We use this graphic to track all of our ongoing projects…but the reality is that there are tons of concepts and prototypes that never even make it onto this list.
 
@@ -60,13 +60,13 @@ Making Games is a creative process and that creativity can be smothered by strin
 * [Share](#)
 
 * [Click to share on Facebook (Opens in new window)
-  Facebook](https://rockmanorgames.com/2020/02/24/games-are-ready-when-theyre-ready/?share=facebook)
+  Facebook](
 * [Click to share on X (Opens in new window)
-  X](https://rockmanorgames.com/2020/02/24/games-are-ready-when-theyre-ready/?share=twitter)
+  X](
 * [Click to share on Reddit (Opens in new window)
-  Reddit](https://rockmanorgames.com/2020/02/24/games-are-ready-when-theyre-ready/?share=reddit)
+  Reddit](
 * [Click to share on Tumblr (Opens in new window)
-  Tumblr](https://rockmanorgames.com/2020/02/24/games-are-ready-when-theyre-ready/?share=tumblr)
+  Tumblr](
 * [Click to email a link to a friend (Opens in new window)
   Email](/cdn-cgi/l/email-protection#516e2224333b3432256c746413023930233435746361013e222574641574636116303c342274636130233474636103343035287463612639343f746361253934287463662334746361033430352877726162696a333e35286c3925252122746210746317746317233e323a3c303f3e2336303c34227f323e3c746317636163617463176163746317636574631736303c34227c3023347c23343035287c2639343f7c2539342823347c233430352874631777726162696a22393023346c343c30383d)
 

@@ -1,8 +1,8 @@
 # Most Anticipated Board Games of 2026 - Bitewing Games
 
-Source: https://bitewinggames.com/most-anticipated-board-games-of-2026/
+Source: 
 
-![](https://bitewinggames.com/wp-content/uploads/2026/01/MostAnticipatedGamesof2026-1024x877.jpg)
+![](
 
 A new year is upon us, and the churn of new board game releases relentlessly tempts hobbyists one and all. You can either flee from it, or you can welcome it with open arms. I’m the open arms type, so come peruse my Most Anticipated Board Games of 2026! This list will be roughly ordered by date of release, for convenience.
 
@@ -10,9 +10,9 @@ A new year is upon us, and the churn of new board game releases relentlessly tem
 
 ---
 
-## [All In: Predictions](https://boardgamegeek.com/boardgame/457436/all-in-predictions)
+## All In: Predictions
 
-![All In: Predictions, Next Move Games, 2026 — front cover (image provided by the publisher)](https://cf.geekdo-images.com/0wh6zOPhOPCBZkYiaUwcmw__imagepage/img/X2WXiNm12ufJEJ1-FTW4GWgPBl0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic9201876.png)
+!All In: Predictions, Next Move Games, 2026 — front cover (image provided by the publisher):strip_icc()/pic9201876.png)
 
 *Expected Release Date: March 2026*
 
@@ -20,9 +20,9 @@ Thanks to The Gang (and Balatro), poker is hotter than ever! With All In: Predic
 
 ---
 
-## [Purrramid](https://boardgamegeek.com/boardgame/451297/purrramid)
+## Purrramid
 
-![Purrramid Final Box Art](https://cf.geekdo-images.com/SACYt7fVYU15ZDCC1-CJaw__imagepage/img/iKC0-La-_6dUaShs_x3T48RtaWA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic9107936.png)
+!Purrramid Final Box Art:strip_icc()/pic9107936.png)
 
 *Expected Release Date: Q2 2026*
 
@@ -30,9 +30,9 @@ Knizia’s at it again with another push-your-luck dice game, this time featurin
 
 ---
 
-## [Moytura](https://www.allplay.com/board-games/moytura)
+## Moytura
 
-![](https://bitewinggames.com/wp-content/uploads/2026/01/Moytura-Highlights-Smaller-8-683x1024.jpg)
+![](
 
 *Expected Release Date: April 2026*
 
@@ -40,16 +40,15 @@ Knizia’s at it again with another push-your-luck dice game, this time featurin
 
 Our third Mythos Collection game (2-player games of strategy and mythology) is our most ambitious yet. It’s so ambitious, that it even has to come in a thicker box than the others in this line. Moytura asks the question: what if an area majority competition could work well in a 2-player only game? It then answers that question with an innovative third faction system that competes with players for points and functions elegantly similar to spreading Pandemic diseases. It’s a semi-cooperative affair where you and the rival clan must keep the monsters of Irish mythology in check while you all compete to rule ancient Ireland. The system here is so smooth that we even included a solo and cooperative variant in the rules. Moytura also features epic artwork across generously large cards and boards thanks to Irish illustrator, Henry Conway.
 
-[Preorder Moytura Here](https://www.allplay.com/board-games/moytura)
+Preorder Moytura Here
 
-![](https://bitewinggames.com/wp-content/uploads/2025/07/Dagda-1024x597.jpeg)
-
+![](
 
 ---
 
-## [Azure](https://www.allplay.com/board-games/azure)
+## Azure
 
-![](https://bitewinggames.com/wp-content/uploads/2026/01/Azure-Main-Image-small-683x1024.jpg)
+![](
 
 *Expected Release Date: April 2026*
 
@@ -57,16 +56,15 @@ Our third Mythos Collection game (2-player games of strategy and mythology) is o
 
 While Moytura is meaty and unexpected, Azure is perhaps the cleanest and sleekest title in our Mythos Collection. Here you’ll be managing a hand of cards while you stake your claim on various spaces across the grid using go stones. What’s interesting here is that your stones offer discounts to all other spaces in their row and column, allowing you to construct a clever strategic route in your journey to 25 points. The only problem is that your opponent is playing on the same grid — stealing your precious spaces, wrestling for favor of the powerful beasts, and racing you to the end of the point track. Between the smooth stones, snowballing decisions, and gorgeous cards brought to life by Kwanchai Moriya, this game just feels good to bust out and play.
 
-[Preorder Azure Here](https://www.allplay.com/board-games/azure)
+Preorder Azure Here
 
-![](https://bitewinggames.com/wp-content/uploads/2026/01/Azure-Highlights-smaller-5-1024x683.jpg)
-
+![](
 
 ---
 
-## [Container](https://www.allplay.com/board-games/container/)
+## Container
 
-![Container, Allplay, 2026 — front cover (image provided by the publisher)](https://cf.geekdo-images.com/AXJ3ur6OZecgmPSACVm2Lw__imagepage/img/UiOHESpYCFnM86FTk9Rw-i48qsI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic9085223.jpg)
+!Container, Allplay, 2026 — front cover (image provided by the publisher):strip_icc()/pic9085223.jpg)
 
 *Expected Release Date: Q3 2026*
 
@@ -74,9 +72,9 @@ Container is that elusive economic grail game that so many of us have been dying
 
 ---
 
-## [Triangulation](https://www.allplay.com/board-games/triangulation)
+## Triangulation
 
-![Triangulation Box Cover by Kwanchai Moriya](https://cf.geekdo-images.com/SKegtiurcEH9Myx5s0vgrg__imagepage/img/5QbLvlv6Y3WqkorVomNni_DgBQI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic9085209.jpg)
+!Triangulation Box Cover by Kwanchai Moriya:strip_icc()/pic9085209.jpg)
 
 *Expected Release Date: Q3 2026*
 
@@ -84,9 +82,9 @@ Triangulation takes on the Goliath hit party game Decrypto with its own angle by
 
 ---
 
-## [GRUNTZ](https://www.allplay.com/board-games/gruntz)
+## GRUNTZ
 
-![GRUNTZ Box Cover](https://cf.geekdo-images.com/5UHlN7xHbtLyBflLo22l_A__imagepage/img/0ftQLCChRogOPK8Hb2XVJI7g5ls=/fit-in/900x600/filters:no_upscale():strip_icc()/pic9085224.jpg)
+!GRUNTZ Box Cover:strip_icc()/pic9085224.jpg)
 
 *Expected Release Date: Q3 2026*
 
@@ -94,9 +92,9 @@ Fans of War Chest should keep an eye out for GRUNTZ — an abstract strategy war
 
 ---
 
-## [Gold Country](https://www.kickstarter.com/projects/bitewinggamesnick/gold-country?ref=2hsx1z)
+## Gold Country
 
-![](https://bitewinggames.com/wp-content/uploads/2026/01/Gold-Country-Photos-Smaller-14-1024x683.jpg)
+![](
 
 *Expected Release Date: Q3 2026*
 
@@ -106,13 +104,13 @@ Gold Country was born to be the ultimate California Gold Rush board game. With s
 
 This is our only Knizia big box release of 2026, but it is primed and ready to make a huge splash with gripping gameplay and lush landscape artwork by Beth Sobel. Don’t miss the Kickstarter project (featuring low flat-rate shipping, deluxe upgrades, and a free expansion for backers) launching January 27!
 
-[Check out the Kickstarter for Gold Country](https://www.kickstarter.com/projects/bitewinggamesnick/gold-country?ref=2hsx1z)
+Check out the Kickstarter for Gold Country
 
 ---
 
-## [Totally Human](https://www.kickstarter.com/projects/bitewinggamesnick/gold-country?ref=2hsx1z)
+## Totally Human
 
-![](https://bitewinggames.com/wp-content/uploads/2026/01/Totally_Human_Cover-712x1024.jpg)
+![](
 
 *Expected Release Date: Q3 2026*
 
@@ -122,13 +120,13 @@ While Gold Country is the headline title of our upcoming Kickstarter, Totally Hu
 
 Just last Saturday I broke this one out with a group of eight tennis players (non board game hobbyists, mind you) who loved it so much that they played eight times in a row. Same thing happened a few days earlier with a church group of 10 teenagers and 3 adults (who had two tables of the game setup). It is a riot of a game.
 
-[Check out the Kickstarter for Totally Human](https://www.kickstarter.com/projects/bitewinggamesnick/gold-country?ref=2hsx1z)
+Check out the Kickstarter for Totally Human
 
 ---
 
-## [Dogs of War](https://boardgamegeek.com/boardgame/158435/dogs-of-war)
+## Dogs of War
 
-![Play to Z Edition](https://cf.geekdo-images.com/JEGCS3yjlrJ9me2AGR1FBQ__imagepage/img/Qe7gokOlBc_ZNG_9JlrUwi9iYd4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic9060891.png)
+!Play to Z Edition:strip_icc()/pic9060891.png)
 
 *Expected Release Date: Q3 2026*
 
@@ -136,9 +134,9 @@ Dogs of War has been a longtime favorite hidden gem at my table. My wife even tr
 
 ---
 
-## [The Crew: Journey to the Ends of the Earth](https://boardgamegeek.com/boardgame/462192/the-crew-journey-to-the-ends-of-the-earth)
+## The Crew: Journey to the Ends of the Earth
 
-![The Crew: Journey to the Ends of the Earth, Thames & Kosmos, 2026 — front cover (image provided by the publisher)](https://cf.geekdo-images.com/SgRVzHG2LZUVhPsdZsL6xA__imagepage/img/rWqerK8NbXvMFuKGgey36aA3qJY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic9328836.jpg)
+!The Crew: Journey to the Ends of the Earth, Thames & Kosmos, 2026 — front cover (image provided by the publisher):strip_icc()/pic9328836.jpg)
 
 *Expected Release Date: Q3 2026*
 
@@ -146,9 +144,9 @@ The original version of The Crew — the Quest for Planet Nine — was a masterp
 
 ---
 
-## [Rheinlander](https://boardgamegeek.com/boardgame/111/rheinlander)
+## Rheinlander
 
-![25th Century version box front](https://cf.geekdo-images.com/pW9fJpYKB2SN-oY5HAibGA__imagepage/img/brVArjckwmuoapeq9hL0n83ZJOI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic9261801.png)
+!25th Century version box front:strip_icc()/pic9261801.png)
 
 *Expected Release Date: September 2026*
 
@@ -156,9 +154,9 @@ This will be the year that we finally get to behold Rheinlander: Evolved. This i
 
 ---
 
-## [Oath: New Foundations](https://boardgamegeek.com/boardgameexpansion/420719/oath-new-foundations)
+## Oath: New Foundations
 
-![Oath Placeholder Cover Image](https://cf.geekdo-images.com/dIIutwuf8s2oBOkAa1Yp8Q__imagepage/img/RO1VSnMAPClO_mdpR5dm1pG9tEM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8196587.png)
+!Oath Placeholder Cover Image:strip_icc()/pic8196587.png)
 
 *Expected Release Date: Q3/Q4 2026*
 
@@ -166,9 +164,9 @@ Oath is an experience unlike any other. What if the players directed the campaig
 
 ---
 
-## [Sail Legacy](https://www.allplay.com/board-games/sail-legacy)
+## Sail Legacy
 
-![Sail Legacy Cover English First Edition](https://cf.geekdo-images.com/lRNcxndptSAF_-_pULQl5w__imagepage/img/ZHq4efqMzP7FQRKEiq1sW603qJI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8694781.jpg)
+!Sail Legacy Cover English First Edition:strip_icc()/pic8694781.jpg)
 
 *Expected Release Date: Q4 2026*
 
@@ -176,9 +174,9 @@ Sail Legacy may very well go down as one of the most ambitious legacy games ever
 
 ---
 
-## [For the Gods](https://www.kickstarter.com/projects/mightyboards/for-the-gods?ref=profile_saved_projects_prelaunch&category_id=Q2F0ZWdvcnktMzQ=)
+## For the Gods
 
-![Box art](https://cf.geekdo-images.com/b3uRj8YM62TwhJH9r6FCEA__imagepage/img/KPpbVdeBgy7PoB3tMa6W17eLXaA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic9147311.png)
+!Box art:strip_icc()/pic9147311.png)
 
 *Crowdfunding Campaign February 2026, Estimated Release Date Q4 2026*
 
@@ -186,9 +184,9 @@ The designers of our own Azure and Moytura (and Undaunted, Mandala, War Chest, a
 
 ---
 
-## [Mountain Goats: Legacy](https://www.kickstarter.com/projects/boardgametables/mountain-goats-legacy-and-enchanted-ivy?ref=user_menu)
+## Mountain Goats: Legacy
 
-![Mountain Goats: Legacy Box Cover](https://cf.geekdo-images.com/dXsu87GAJWpF5Rh0fiEkQw__imagepage/img/wfIUVCSj0HQPz8Csu357vTSzeXU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic9293080.jpg)
+!Mountain Goats: Legacy Box Cover:strip_icc()/pic9293080.jpg)
 
 *Crowdfunding Campaign Right Now, Expected Release Date: Q4 2026*
 
@@ -196,9 +194,9 @@ Never content to rest on their laurels, Allplay has taken it upon themselves to 
 
 ---
 
-## [Roma XLI](https://www.kickstarter.com/projects/facadegames/roma-xli-game?ref=profile_saved_projects_prelaunch&category_id=Q2F0ZWdvcnktMzQ=)
+## Roma XLI
 
-![Roma XLI Kickstarter Promo Image](https://cf.geekdo-images.com/reu19rPr1cREs8sXbs-Tfg__imagepage/img/FymrEGLjcUcPZcGmjLZnNuIq-jg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic9328733.png)
+!Roma XLI Kickstarter Promo Image:strip_icc()/pic9328733.png)
 
 *Crowdfunding Campaign in February, Expected Release Date: Q4 2026*
 
@@ -206,9 +204,9 @@ I’m always interested to see what my old pals over at Facade Games are up to. 
 
 ---
 
-## [Flintlock: Global Warfare in 20 Minutes](https://boardgamegeek.com/boardgame/446303/flintlock-global-warfare-in-20-minutes)
+## Flintlock: Global Warfare in 20 Minutes
 
-![Flintlock!: Global War in 20 Minutes - Box Cover](https://cf.geekdo-images.com/iUqU2WMzFgT7bUMyHXha-g__imagepage/img/N5QgXqhZBAjoqkCA0J-H61fqE8I=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8886600.jpg)
+!Flintlock!: Global War in 20 Minutes - Box Cover:strip_icc()/pic8886600.jpg)
 
 *Kickstarter coming in March, Expected Release Date: 2026*
 
@@ -216,9 +214,9 @@ Fans of Paolo Mori’s Blitzkrieg and Caesar, take note! Flintlock is the next r
 
 ---
 
-## [Regicide: Inferno](https://boardgamegeek.com/boardgame/460927/regicide-inferno) & [Regicide: Crown Duels](https://boardgamegeek.com/boardgame/460930/regicide-crown-duels)
+## Regicide: Inferno & Regicide: Crown Duels
 
-![](https://bitewinggames.com/wp-content/uploads/2026/01/eb3844049fc1e1441707cc1741dc7e50_original.png.webp)
+![](
 
 *Expected Release Date: 2026*
 
@@ -230,8 +228,8 @@ Both coming this year? You spoil us, Badgers.
 
 ---
 
-![](https://bitewinggames.com/wp-content/uploads/2021/11/IMG_9608-1-scaled-e1637433536224-715x1024.jpeg)
+![](
 
-*Article written by Nick Murray. Outside of practicing dentistry part-time, Nick has devoted his remaining work-time to collaborating with the world’s best designers, illustrators, and creators in producing classy board games that bite, including the critically acclaimed titles Trailblazers by Ryan Courtney and Zoo Vadis by Reiner Knizia. He hopes you’ll*[*join Bitewing Games*](https://bitewinggames.com/subscribe/)*in their quest to create and share classy board games with a bite.*
+*Article written by Nick Murray. Outside of practicing dentistry part-time, Nick has devoted his remaining work-time to collaborating with the world’s best designers, illustrators, and creators in producing classy board games that bite, including the critically acclaimed titles Trailblazers by Ryan Courtney and Zoo Vadis by Reiner Knizia. He hopes you’ll**join Bitewing Games**in their quest to create and share classy board games with a bite.*
 
 *Disclaimer: When Bitewing Games finds a designer or artist or publisher that we like, we sometimes try to collaborate with these creators on our own publishing projects. We work with these folks because we like their work, and it is natural and predictable that we will continue to praise and enjoy their work. Any opinions shared are subject to biases including business relationships, personal acquaintances, gaming preferences, and more. That said, our intent is to help grow the hobby, share our gaming experiences, and find folks with similar tastes. Please take any and all of our opinions with a hearty grain of salt as you partake in this tabletop hobby feast.*

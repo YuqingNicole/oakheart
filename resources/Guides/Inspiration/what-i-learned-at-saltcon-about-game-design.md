@@ -1,24 +1,24 @@
 # What I learned at SaltCON about Game Design
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=561A632A16A8345
+Source: 
 
-Posted on [March 10, 2020March 11, 2020](https://www.bgdg.games/2020/03/10/what-i-learned-at-saltcon-about-game-design/) by [Dustin Dowdle](https://www.bgdg.games/author/dustin/)
+Posted on March 10, 2020March 11, 2020 by Dustin Dowdle
 
-I recently attended [SaltCON](https://saltcon.com/), Utah’s largest board game convention. I wanted to share some of my experiences and highlight the lessons I learned from attending this year.
+I recently attended SaltCON, Utah’s largest board game convention. I wanted to share some of my experiences and highlight the lessons I learned from attending this year.
 
-![](http://www.bgdg.games/wp-content/uploads/2020/03/SaltCon-Logo.png)
+![](
 
 ### Background to the Story
 
-Some quick background before I get to the lessons I’ve learned: SaltCON is one of my highlights of the year! I’ve been attending for three years now and each year is better than the last! As a game designer, I work and plan all year long to prepare myself for this convention. Last December I felt I had a handful of designs that could be ready to show and punched things into high-gear as 2019 ended. This year was a bit unique though. A few of us from the Board Game Designers Guild of Utah (David Gonsalves , Jeff Beck, Skye Larson, Lance Grange and myself) decided to plan an event called [ProtoCON](https://www.protoconutah.com/) that would take place in January. I mention this because one of the games I was most interested in presenting to publishers was picked up by [Red Raven Games](https://redravengames.squarespace.com/) at ProtoCON. This was of course great news! Seriously, there’s really no downside to hearing Ryan Laukat say he’s going to do the art for your game, let alone publish it! Now I just had to come up with a game to take to SaltCON, as the other games I was feeling good about back in December were now on the back-burner due to some design obstacles I’d run into. Now I was two weeks from attending SaltCON and no game ready to playtest!
+Some quick background before I get to the lessons I’ve learned: SaltCON is one of my highlights of the year! I’ve been attending for three years now and each year is better than the last! As a game designer, I work and plan all year long to prepare myself for this convention. Last December I felt I had a handful of designs that could be ready to show and punched things into high-gear as 2019 ended. This year was a bit unique though. A few of us from the Board Game Designers Guild of Utah (David Gonsalves , Jeff Beck, Skye Larson, Lance Grange and myself) decided to plan an event called ProtoCON that would take place in January. I mention this because one of the games I was most interested in presenting to publishers was picked up by Red Raven Games at ProtoCON. This was of course great news! Seriously, there’s really no downside to hearing Ryan Laukat say he’s going to do the art for your game, let alone publish it! Now I just had to come up with a game to take to SaltCON, as the other games I was feeling good about back in December were now on the back-burner due to some design obstacles I’d run into. Now I was two weeks from attending SaltCON and no game ready to playtest!
 
-![](http://www.bgdg.games/wp-content/uploads/2020/03/ProtoCON-Logo.png)
+![](
 
-During a drive to Logan (3 hours away from my rural home in Erda, UT) I started to piece together an idea for *Knights of the Rectangle*, a 5-10 minute tile laying, drafting game. I knew there wasn’t much time to throw this thing together, but I thought it was worth tossing into nanDeck with images from [game-icons.net](https://game-icons.net/) and suddenly I had a game that was simple and straightforward.
+During a drive to Logan (3 hours away from my rural home in Erda, UT) I started to piece together an idea for *Knights of the Rectangle*, a 5-10 minute tile laying, drafting game. I knew there wasn’t much time to throw this thing together, but I thought it was worth tossing into nanDeck with images from game-icons.net and suddenly I had a game that was simple and straightforward.
 
 ### Thursday, March 5th – SaltCON Day 1
 
-I didn’t have many plans for day 1, since the publishers I had approached via email prior to the convention were busy judging the [Ion Award](https://saltcon.com/ion-award/) finalists. Looking back I should have taken advantage of better identifying other publishers who were not associated with the Ion Award and considered scheduling a pitch on Thursday, as it was certainly the slowest day of the weekend. I had a volunteer shift at the Hot Games area (which was a great way to practice teaching a game, especially for an introvert like myself).
+I didn’t have many plans for day 1, since the publishers I had approached via email prior to the convention were busy judging the Ion Award finalists. Looking back I should have taken advantage of better identifying other publishers who were not associated with the Ion Award and considered scheduling a pitch on Thursday, as it was certainly the slowest day of the weekend. I had a volunteer shift at the Hot Games area (which was a great way to practice teaching a game, especially for an introvert like myself).
 
 > Lesson 1: Think ahead on how to utilize your time at a convention.
 
@@ -42,7 +42,7 @@ I spent the morning with my kids, playing the games they were most interested in
 
 **Development Work with Red Raven**
 
-![](http://www.bgdg.games/wp-content/uploads/2020/03/Red-Raven-logo-1024x943.png)
+![](
 
 I had an appointment with Ryan Laukat and Alex Davis to go over the game we were working on together. Obviously, I’m not at liberty to discuss details of the development of the game at this time. I will mention that it was a very fun experience to mess around with some of the ideas they’d come up with and see them pick apart the game in a really constructive way! We had a handful of people stop by and ask about what we were working on, (we were set up at a table in front of the Red Raven booth) and it was cool to hear Ryan tell them that this was a game he was going to publish and I was the designer of it.
 
@@ -64,7 +64,7 @@ Fast forward and now I’m meeting Zev for the fist time and I’m completely un
 
 I attended a panel featuring Ryan Laukat, Tim Fowers and Brian Kelly. I was glad I took notes because there were some really great things discussed in the panel!
 
-Ryan talked about when your rules fail the players (and they will), to “let your theme speak for the rules”. He explained “if they can guess the rule then it’s probably right.” Games should be designed in such a way that it becomes intuitive to the player. This reminded me of the book “[The Design of Everyday Things”](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) by Donald A. Norman which talks about thinking in this way when designing.
+Ryan talked about when your rules fail the players (and they will), to “let your theme speak for the rules”. He explained “if they can guess the rule then it’s probably right.” Games should be designed in such a way that it becomes intuitive to the player. This reminded me of the book “The Design of Everyday Things” by Donald A. Norman which talks about thinking in this way when designing.
 
 Ryan Asked the question, “Why would someone buy this over another game like it?” He also talked about the “Wastepaper Basket method of game design”, which basically means, don’t get too attached to your game, it’s going to change and you should be ready to toss the things that need to be tossed in order to move forward with the design. Brian highlighted the idea of “the quickest prototype possible.” Which at times would be hand drawn and other times from the computer, if that would actually save time. He seemed to agree with tossing things without getting too attached. Tim added that “Publishers can squint,” so don’t worry too much about making it look pretty.
 
@@ -72,7 +72,7 @@ Tim always has such visual language and it’s fun to hear him speak. He shared 
 
 Tim talked about identifying your “Secret Victory Condition” as a designer and asked the question about designing your game: “If you could only have one, would you take all the money or all the notoriety?” He noted that neither answer was wrong, but said you aught to know your answer because that Secret Victory Condition will help you set you course when determining if you want to seek out a publisher or self publish your game.
 
-Tim discussed visual hierarchy and referred to [a paper from Project Horseshoe](https://www.projecthorseshoe.com/reports/featured/ph13r3.htm). Visual hierarchy refers to the things the eye will most likely pick up first. These may be things to consider when creating your games.
+Tim discussed visual hierarchy and referred to a paper from Project Horseshoe. Visual hierarchy refers to the things the eye will most likely pick up first. These may be things to consider when creating your games.
 
 Visual Channel Hierarchy Review
 
@@ -97,15 +97,15 @@ Knights was a hit with most people who played it and my email list continued to 
 
 **Some Non Design Highlights**
 
-My kids and I sought out [Jaron Frost](https://fridgecrisis.com/) to play his game [Villagers](https://fridgecrisis.com/games/villages/) and it was a really fun experience! My son loved it enough that he went to the Play to Win area to check it out with hopes to win it (and he did)! Jaron is a member of our guild and I had been meaning to play Villagers for quite a while now and I’m glad I did! Really simple mechanics, smooth gameplay, lot’s of options and loads of expansions for those who enjoy it. This was certainly a highlight of the convention for us!
+My kids and I sought out Jaron Frost to play his game Villagers and it was a really fun experience! My son loved it enough that he went to the Play to Win area to check it out with hopes to win it (and he did)! Jaron is a member of our guild and I had been meaning to play Villagers for quite a while now and I’m glad I did! Really simple mechanics, smooth gameplay, lot’s of options and loads of expansions for those who enjoy it. This was certainly a highlight of the convention for us!
 
-![Villages](http://www.bgdg.games/wp-content/uploads/2020/03/Villages-game-1024x384.png)
+!Villages
 
 Villages
 
-We also played [Cockroach Poker](https://boardgamegeek.com/boardgame/11971/cockroach-poker) with guild member Lyle Thatcher. This game has been one I’ve wanted to play for some time now and I was so glad Lyle offered to play it! It was a blast! This will certainly be added to my collection! I’m impressed by it’s simplicity and the tension that’s built as the game progresses. Lying is a huge part of the game but those who can’t lie very well can play that to their favor. Another highlight for us!
+We also played Cockroach Poker with guild member Lyle Thatcher. This game has been one I’ve wanted to play for some time now and I was so glad Lyle offered to play it! It was a blast! This will certainly be added to my collection! I’m impressed by it’s simplicity and the tension that’s built as the game progresses. Lying is a huge part of the game but those who can’t lie very well can play that to their favor. Another highlight for us!
 
-![](http://www.bgdg.games/wp-content/uploads/2020/03/Cockroach-Poker.jpg)
+![](
 
 Cockroach Poker
 
@@ -115,9 +115,9 @@ Cockroach Poker
 
 **Blue Beard Came to Utah**
 
-On Thursday while volunteering in the Hot Games area I had noticed a blue bearded, blue haired man playing Tapestry. I was certain it was Peter Hayward, publisher for [Jellybean Games](https://jellybean.games/) and due to being on my shift I couldn’t break away to go and introduce myself. Besides, I didn’t want to interrupt him in the middle of something. Having heard him on podcasts say that his favorite thing to do is play people’s prototypes, I thought I’d take him up on that when in a less awkward situation.
+On Thursday while volunteering in the Hot Games area I had noticed a blue bearded, blue haired man playing Tapestry. I was certain it was Peter Hayward, publisher for Jellybean Games and due to being on my shift I couldn’t break away to go and introduce myself. Besides, I didn’t want to interrupt him in the middle of something. Having heard him on podcasts say that his favorite thing to do is play people’s prototypes, I thought I’d take him up on that when in a less awkward situation.
 
-![](http://www.bgdg.games/wp-content/uploads/2020/03/Bluebeard.png)
+![](
 
 Peter Hayward aka Bluebeard
 
@@ -139,10 +139,10 @@ Congrats Brandt Brinkerhoff (BGDG Guild Member) on winning the Ion Award this ye
 
 **How to Contact Me**
 
-Feel free to join my Facebook Group, [Odd Fox Games](https://www.facebook.com/groups/366252363962221/), to stay up on the projects I’ve been working on.   
+Feel free to join my Facebook Group, Odd Fox Games, to stay up on the projects I’ve been working on.   
   
-You can also listen to [The Board Game Workshop podcast](https://theboardgameworkshop.com/podcast/) and join their [Discord](https://discord.gg/BrCKJpD) as well to learn about contests and things going on there.  
+You can also listen to The Board Game Workshop podcast and join their Discord as well to learn about contests and things going on there.  
   
-Also, we are gearing up for [ProtoCON 2021](http://www.protoconutah.com/)! Join our [Facebook group](https://www.facebook.com/groups/573568153210431/) if you are interested in attending as a Designer, Playtester, Publisher or Content Creator! We had a blast last year and hope to make the next one even better!  
+Also, we are gearing up for ProtoCON 2021! Join our Facebook group if you are interested in attending as a Designer, Playtester, Publisher or Content Creator! We had a blast last year and hope to make the next one even better!  
   
-The [Board Game Designer’s Guild of Utah](https://www.facebook.com/bgdgofutah/) also has a [Discord](https://discord.gg/9Nw89Wt) and anyone who’s interested in the guild can have access to the public parts of that, and full membership in the guild will grant you additional access. Come and join in on the discussions!
+The Board Game Designer’s Guild of Utah also has a Discord and anyone who’s interested in the guild can have access to the public parts of that, and full membership in the guild will grant you additional access. Come and join in on the discussions!

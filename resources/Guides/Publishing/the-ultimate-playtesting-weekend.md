@@ -1,14 +1,14 @@
 # The ultimate playtesting weekend
 
-Source: https://thecityofkings.com/news/the-ultimate-playtesting-weekend/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## The ultimate playtesting weekend
 
-28th June 2024 [4](https://thecityofkings.com/news/the-ultimate-playtesting-weekend/#comments)
+28th June 2024 4
 
-![playtesting-website.jpg](https://thecityofkings.com/wp-content/uploads/2024/06/playtesting-website.jpg)
+!playtesting-website.jpg
 
 When designing a complex game, traditional playtesting methods might not always provide the insights you need. Recently, I organised an intensive playtesting event to focus on my newest game’s flow, learning curve, and overall player experience. Here’s how it went and why I would recommend this approach to others.
 
@@ -61,7 +61,7 @@ For those looking to replicate this method:
 
 This approach, while demanding, can really enhance the experience of playing your game, helping to ensure it is both accessible and enjoyable. And as a bonus, it’s a great way to perfect your teaching of the game!
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

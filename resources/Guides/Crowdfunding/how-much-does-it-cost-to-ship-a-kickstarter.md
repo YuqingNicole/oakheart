@@ -1,12 +1,12 @@
 # How much does it cost to ship a Kickstarter?
 
-Source: https://thecityofkings.com/news/how-much-does-it-cost-to-ship-a-kickstarter/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## How much does it cost to ship a Kickstarter?
 
-14th April 2022 [2](https://thecityofkings.com/news/how-much-does-it-cost-to-ship-a-kickstarter/#comments)
+14th April 2022 2
 
 It’s April 2021 and I find myself looking at a spreadsheet, in a few weeks I’ll be announcing my next Kickstarter and all that’s left to do is make the numbers work.
 
@@ -22,7 +22,7 @@ I then check to see if there are any rewards that are likely to be sent using vo
 
 *When a package is physically large but doesn’t weigh much, some shipping carriers will generate a shipping weight by multiplying the dimensions of the package against a magic number, rather than using the packages actual weight. This means a very large package weighing just 1kg may end up being shipped as 3kg instead.*
 
-Next up I get [the list of every country that I’ve ever shipped to](https://thecityofkings.com/news/a-breakdown-of-shipping-locations-for-crowdfunding-projects/) and create a grid of countries against my reward levels in a spreadsheet.
+Next up I get the list of every country that I’ve ever shipped to and create a grid of countries against my reward levels in a spreadsheet.
 
 Finally, country by country, reward tier by reward tier, I go through all the spreadsheets from each of my fulfilment partners and find the best current price for each combination, plugging it into my own spreadsheet.
 
@@ -78,13 +78,13 @@ An average of just £11.29 per person, while the actual cost per person was £22
 
 ### **How much does it cost to ship a Kickstarter?**
 
-In my case, £273,025.92 or double what I charged (which [you can see here in section 26](https://www.kickstarter.com/projects/tcokgame/the-isle-of-cats-dont-forget-the-kittens/description)).
+In my case, £273,025.92 or double what I charged (which you can see here in section 26).
 
 Shipping Kickstarters is incredibly expensive and around 25% of all the money raised on The Isle of Cats don’t forget the Kittens! went into shipping from the warehouse to my backers doors.
 
 (This does not include the logistics of getting the games from China to the warehouses.)
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

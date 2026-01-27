@@ -1,8 +1,8 @@
 # Wargames Every Designer Should Play
 
-Source: https://lawofgamedesign.com/2015/05/11/theory-essential-wargames-for-designers/
+Source: 
 
-Following up on [last Wednesday’s post](https://lawofgamedesign.com/2015/05/06/theory-every-designer-should-play-a-wargame/ "Theory: Every Designer Should Play a Wargame"), here are five wargames that have something interesting to teach designers. Playing any one of these represents time and money well-spent.
+Following up on [last Wednesday’s post]( "Theory: Every Designer Should Play a Wargame"), here are five wargames that have something interesting to teach designers. Playing any one of these represents time and money well-spent.
 
 **Wargames As Exemplars of Board Game Design: Twilight Struggle**
 
@@ -26,7 +26,7 @@ Wargames have long been a hotbed of solo gaming innovation. The tradition can ea
 
 **Learning by Doing: Squad Leader**
 
-Squad Leader has a tutorial so good that it’s a worthy game unto itself. Anyone who’s designing a game complex enough to warrant an introductory mode or scenario should play it, just to see what a really good one can do. You can find more discussion about why SL’s tutorial is amazing [here](https://lawofgamedesign.com/2015/01/14/theory-the-power-of-a-fun-tutorial-r-i-p-john-hill/ "Theory: The Power of a Fun Tutorial (R.I.P. John Hill)").
+Squad Leader has a tutorial so good that it’s a worthy game unto itself. Anyone who’s designing a game complex enough to warrant an introductory mode or scenario should play it, just to see what a really good one can do. You can find more discussion about why SL’s tutorial is amazing [here]( "Theory: The Power of a Fun Tutorial (R.I.P. John Hill)").
 
 **Asymmetric Multiplayer: Fire in the Lake**
 
@@ -42,4 +42,4 @@ Nevertheless, I would urge designers to seek these games out. They all offer val
 
 ### *Related*
 
-Posted on [May 11, 2015May 11, 2015](https://lawofgamedesign.com/2015/05/11/theory-essential-wargames-for-designers/) Posted in [Game design theory](https://lawofgamedesign.com/category/game-design-theory/)Tagged [d-day at omaha beach](https://lawofgamedesign.com/tag/d-day-at-omaha-beach/), [fire in the lake](https://lawofgamedesign.com/tag/fire-in-the-lake/), [game design](https://lawofgamedesign.com/tag/game-design/), [memoir '44](https://lawofgamedesign.com/tag/memoir-44/), [squad leader](https://lawofgamedesign.com/tag/squad-leader/), [twilight struggle](https://lawofgamedesign.com/tag/twilight-struggle/)
+Posted on May 11, 2015May 11, 2015 Posted in Game design theoryTagged d-day at omaha beach, fire in the lake, game design, memoir '44, squad leader, twilight struggle

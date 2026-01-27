@@ -1,22 +1,22 @@
 # The Long Haul Project: Why Making Games Takes a Long Time
 
-Source: http://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=243A285A16A5650
+Source: 
 
-*Dev Diary posts are made to teach game development through specific examples from my latest project: [Highways & Byways](http://bywaysgame.com/).**Just here for Highway**s & Byways updates? Click [here](#handb).*
+*Dev Diary posts are made to teach game development through specific examples from my latest project: Highways & Byways.**Just here for Highway**s & Byways updates? Click [here](#handb).*
 
 ---
 
 In the frozen Canadian arctic of the Northwest Territories and Nunavut, there is a famous road known as the Tibbitt to Contwoyto Winter Road. It’s a long haul road for ice truckers that’s over 300 miles long and most of it is built on frozen lakes. Sometimes it’s hard to know which direction to go in, but by far, the hardest part is that there is a limit to how fast you can go – 16 miles per hour. When I heard about this, I said to myself sardonically “sounds like game development.”
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='
 
-This image was [originally posted to Flickr by madmack66](http://flickr.com/photos/67038581@N00/2411801620) and licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en). I modified it from its original state.
+This image was originally posted to Flickr by madmack66 and licensed under CC BY 2.0. I modified it from its original state.
 
 Looking for more resources to help you on your board game design journey?  
-[Here you go: no email required](https://brandonthegamedev.com/resources)!  
+Here you go: no email required!  
   
 Like this writing style?  
-[Check out my latest blog on marketing here](https://brandonrollins.com/).
+Check out my latest blog on marketing here.
 
 Testing, manufacturing, shipping, and building an audience all take a lot of time and there is no way to really shortcut this. Whether you work 20 hours per week or 60 hours per week, you cannot meaningfully reduce the amount of time it takes to do certain tasks. Manufacturing and shipping can’t be changed at all by extra work. Testing can be expedited, but only as fast as you can afford to bring in fresh testers or make changes to the game. With building an audience, sooner or later, you will run into some kind of constraint…
 

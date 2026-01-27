@@ -1,10 +1,10 @@
 # Balancing Family Life and Gaming Part 1
 
-Source: http://www.leagueofgamemakers.com/balancing-family-life-and-gaming-part-1/
+Source: 
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNDY4IiB2aWV3Qm94PSIwIDAgNTAwIDQ2OCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-Maintaining a balance between work, recreational activities, intellectual pursuits, and home life can be a challenge for any family. However, being a dedicated geek, gamer, and/or game designer doesn’t have to mean you must live in a van down by the river. We don’t want our favorite hobby turning people into [**gamer widows and gamer widowers**](https://www.leagueofgamemakers.com/friends-dont-let-friends-marry-gamers/ "Friends Don’t Let Friends Marry Gamers").
+Maintaining a balance between work, recreational activities, intellectual pursuits, and home life can be a challenge for any family. However, being a dedicated geek, gamer, and/or game designer doesn’t have to mean you must live in a van down by the river. We don’t want our favorite hobby turning people into [**gamer widows and gamer widowers**]( "Friends Don’t Let Friends Marry Gamers").
 
 In this open-ended series, I’ll discuss issues related to balancing family life and gaming, with a special emphasis on the challenges of being a game maker. Game makers face unique challenges as spouses and parents, but we also have fantastic opportunities to have bonding experiences with our families while enjoying our love of games.
 
@@ -38,9 +38,9 @@ Over time, I moved my gaming interests into games that I could share with my fam
 
 If you destroy yourself while chasing your dreams to win the Spiel des Jahres, you’ll be no good to yourself or your family. We all know the legends of various tortured geniuses who created great works of art, science, and literature. We idolize historical figures who had “greatness,” but were essentially unhappy jerks who created misery for everyone around them. Don’t be that kind of tortured genius. You’re no good to your family if you’re not eating right, exercising, and getting plenty of sleep; or worse still, you drop dead from a life of hard gaming.
 
-Here’s a chart of how great creative minds supposedly spent their time from **[Podio](https://podio.com/site/creative-routines "Creative Routines")**. If you hunt closely, you might find family time in there, but only for a few geniuses under “food and Leisure” or maybe “other.”
+Here’s a chart of how great creative minds supposedly spent their time from **[Podio]( "Creative Routines")**. If you hunt closely, you might find family time in there, but only for a few geniuses under “food and Leisure” or maybe “other.”
 
-[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://podio.com/site/creative-routines)
+[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](
 
 You can come up with great ideas for your games while on a treadmill, riding a bike, or cooking a nutritious meal. Staring at your computer screen and refreshing your Facebook and Kickstarter pages over and over while pondering game design can create a vicious cycle of illusory productivity. You’re doing stuff, but it isn’t necessarily what you set out to do. Hours go by, and your games are no further along, you pissed off half of the Boardgamegeek community, and you just backed three Kickstarter projects that you’ll have to explain, and you forgot why you sat down at the computer in the first place.
 
@@ -48,7 +48,7 @@ Get up, get some UV’s, make some vitamin D, churn some seratonin and endorphin
 
 #### PLAY GAMES WITH YOUR FAMILY
 
-Many families want to play together, but struggle to make it happen. The key is to play games that everyone enjoys and is able to participate in on some level. In addition, you need to take special care to make gaming a comfortable, voluntary event, not something your family does out of obligation. So don’t force the issue. Jane McGonigal discussed in her book “**[Reality is Broken](https://janemcgonigal.com/my-book/)**” that games need to be voluntary activities. A player needs to be free to say no to playing a game, but also free to leave a game at any time.
+Many families want to play together, but struggle to make it happen. The key is to play games that everyone enjoys and is able to participate in on some level. In addition, you need to take special care to make gaming a comfortable, voluntary event, not something your family does out of obligation. So don’t force the issue. Jane McGonigal discussed in her book “**Reality is Broken**” that games need to be voluntary activities. A player needs to be free to say no to playing a game, but also free to leave a game at any time.
 
 Here are a few principles to consider regarding playing games with your family:
 
@@ -69,9 +69,9 @@ With my son, we played Yu-Gi-Oh, Magic, and several computer games together sinc
 
 Depicted below are some of the games that my family has found that we all enjoy playing together from time to time. A few of them are two player games that have universal appeal, and the rest are games that we all play together. Each family is different of course.
 
-[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.boardgamegeek.com/geeklist/175880/games-play-whole-family)
+[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](
 
-I started a **[Geeklist on Boardgamegeek](https://www.boardgamegeek.com/geeklist/175880/games-play-whole-family "Games for the the Whole Family")** for games that are good for the whole family. Feel free to check it out and add your own favorite family games.
+I started a **[Geeklist on Boardgamegeek]( "Games for the the Whole Family")** for games that are good for the whole family. Feel free to check it out and add your own favorite family games.
 
 ###### GAMIFY YOUR GAMING
 
@@ -95,7 +95,7 @@ Another “gamification” we use is a game I came up with for deciding what gam
 
 My wife and I enjoy games, but I’m clearly more of the “gamer” in our house. Because I spend my time learning and exploring all manner of games, I often come to the table with an edge of experience and familiarity. My wife is an excellent player, but it takes her some time to get used to the mechanics and strategies of a given game. If every time she plays she’s having to learn a new game, gaming is far more taxing and stressful. So recently, we came up with a plan to game together in a way that would make the experience better for the two of us.
 
-We picked out a game with a reputation for being good for couples: **[Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/castles-burgundy)**. It’s a medium-heavy Euro with limited direct player interaction, which is nice for a couple to play without fighting one another. Another couple we know uses Race for the Galaxy as their go-to game. It’s nice to have a game with deep enough strategy to keep the minds engaged, but without the kinds of frustration and resentment that can arise from direct conflict.
+We picked out a game with a reputation for being good for couples: **Castles of Burgundy**. It’s a medium-heavy Euro with limited direct player interaction, which is nice for a couple to play without fighting one another. Another couple we know uses Race for the Galaxy as their go-to game. It’s nice to have a game with deep enough strategy to keep the minds engaged, but without the kinds of frustration and resentment that can arise from direct conflict.
 
 ![burgundy](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
 

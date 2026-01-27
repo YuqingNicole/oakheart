@@ -1,14 +1,14 @@
 # My current approach to Kickstarter fulfillment
 
-Source: https://thecityofkings.com/news/my-current-approach-to-kickstarter-fulfillment/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## My current approach to Kickstarter fulfillment
 
-27th January 2022 [4](https://thecityofkings.com/news/my-current-approach-to-kickstarter-fulfillment/#comments)
+27th January 2022 4
 
-Since 2018 I have shipped over 30,000 pledges to backers from [80 different countries](https://thecityofkings.com/news/a-breakdown-of-shipping-locations-for-crowdfunding-projects/) and learned a lot about the process. Everyone has different ways of doing it and today I’ll be sharing my current approach with you.
+Since 2018 I have shipped over 30,000 pledges to backers from 80 different countries and learned a lot about the process. Everyone has different ways of doing it and today I’ll be sharing my current approach with you.
 
 ### **When to plan fulfillment**
 
@@ -32,19 +32,19 @@ With the data in hand, it is time to pick fulfillment partners.
 
 There are many potential fulfillment partners and I currently work with (and recommend):
 
-* [Quartermaster Logistics](https://www.qmlogistics.com/) for the USA and Canada.
-* [Aetherworks](https://www.aetherworks.com.au/) for Australia and New Zealand.
-* [VFI](http://vfi.asia/) for the majority of Asia.
-* [Spiral Galaxy](https://www.spiralgalaxygames.co.uk/) for the UK, EU, and rest of the world.
+* Quartermaster Logistics for the USA and Canada.
+* Aetherworks for Australia and New Zealand.
+* VFI for the majority of Asia.
+* Spiral Galaxy for the UK, EU, and rest of the world.
 
 **Other fulfillment partners include:**
 
-* [Fulfillrite](https://www.fulfillrite.com/) for the USA
-* [Funagain](https://funagain.com/pages/logistics) for the USA
-* [GamesQuest](https://www.gamesquest.co.uk/) for the UK, EU, and rest of the world.
-* [Pick & Pack Logistics](https://www.pnplogistics.ca/) for Canada
-* [HappyShops](https://www.happyshops.com/) for the EU via Germany
-* [Meeple Logistics](https://www.meeple-logistics.com/) for the EU via France
+* Fulfillrite for the USA
+* Funagain for the USA
+* GamesQuest for the UK, EU, and rest of the world.
+* Pick & Pack Logistics for Canada
+* HappyShops for the EU via Germany
+* Meeple Logistics for the EU via France
 
 *While I do not currently work with the companies on the second list, I know of campaigns that have been fulfilled by them successfully.*
 
@@ -56,7 +56,7 @@ At which point, use the standard measurements of response quality, prices, and w
 
 ### **Calculating my prices**
 
-With the latest price information at hand, I create a spreadsheet. I’ll create a row for [each country I ship to](https://thecityofkings.com/news/a-breakdown-of-shipping-locations-for-crowdfunding-projects/), columns for each Kickstarter reward, and then start plugging in the numbers from each partner.
+With the latest price information at hand, I create a spreadsheet. I’ll create a row for each country I ship to, columns for each Kickstarter reward, and then start plugging in the numbers from each partner.
 
 This gives me everything I need to work out my shipping prices for my campaign.
 
@@ -77,7 +77,7 @@ Remember, if you have questions about fulfillment and how something works, speak
 
 *Update. This article was last updated in June 2023 with my current fulfillment partners.*
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

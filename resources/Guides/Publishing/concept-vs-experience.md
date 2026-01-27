@@ -1,14 +1,14 @@
 # Concept vs Experience
 
-Source: https://thecityofkings.com/news/concept-vs-experience/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## Concept vs Experience
 
-1st May 2025 [0](https://thecityofkings.com/news/concept-vs-experience/#comments)
+1st May 2025 0
 
-![concept-experience-website.jpg](https://thecityofkings.com/wp-content/uploads/2025/05/concept-experience-website.jpg)
+!concept-experience-website.jpg
 
 It was a sunny Friday afternoon, and Sara had just got home from work. I said, “Let’s get back in the car,” and we headed over to a nearby retail park.
 
@@ -72,7 +72,7 @@ Because when concept and experience work together — when the moment feels as g
 
 And that’s when people come back for more.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

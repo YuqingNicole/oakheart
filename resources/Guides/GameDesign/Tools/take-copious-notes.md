@@ -1,6 +1,6 @@
 # Take Copious Notes
 
-Source: https://lawofgamedesign.com/2015/08/07/theory-take-notes/
+Source: 
 
 Careful note-taking is central to the design process. Overload is inevitable for a busy designer without a systematic approach to keeping thoughts and ideas organized. Even a designer working on a single project will run into trouble without some way to keep track of successful changes and failed experiments
 
@@ -22,7 +22,7 @@ Having a written record guarantees that improvements to a game don’t get lost.
 
 Given that switching back and forth between projects is part of the job, it’s vital (a) to retain progress made on current game until it’s time to come back to it, and (b) to get up to speed on the next project as quickly as possible. Written notes help enormously with (a), but not so much with (b); figuring a game out from working notes is frustrating and increases the chance that you’ll miss something. It’s therefore extremely valuable to actually write out a rulebook before setting a project down, so that you can easily re-learn the latest and greatest version of the game when you’re ready to start working on it again.
 
-Putting together a rulebook for a project recently saved me a lot of grief. I wanted to try out a change to Lines of Questioning—but LoQ has already undergone many changes, and I couldn’t remember off the top of my head exactly where the rules stood. This was my own game, and I didn’t know how to play! Without a rulebook I would either have had to reassemble the [standard version](https://lawofgamedesign.com/2015/01/21/lines-of-questioning-standard-variant/) from notes jotted on legal pads—with the concomitant risk of error—or redo the hours of work and many playtests necessary to hammer it out a second time.
+Putting together a rulebook for a project recently saved me a lot of grief. I wanted to try out a change to Lines of Questioning—but LoQ has already undergone many changes, and I couldn’t remember off the top of my head exactly where the rules stood. This was my own game, and I didn’t know how to play! Without a rulebook I would either have had to reassemble the standard version from notes jotted on legal pads—with the concomitant risk of error—or redo the hours of work and many playtests necessary to hammer it out a second time.
 
 Bjarne Stroustroup, creator of C++, says in his introductory programming textbook that properly documenting code isn’t just a kindness to other people who might read it. It’s also a kindness to yourself, since you may well be called on to maintain your code months or years later. The same principle holds true in game design. Document your designs with a rulebook; you’ll be grateful when you resume work on them.
 
@@ -42,4 +42,4 @@ I’m always hesitant to say that someone else should work the way I do; there a
 
 ### *Related*
 
-Posted on [August 7, 2015](https://lawofgamedesign.com/2015/08/07/theory-take-notes/) Posted in [Game design theory](https://lawofgamedesign.com/category/game-design-theory/)Tagged [game design](https://lawofgamedesign.com/tag/game-design/)
+Posted on August 7, 2015 Posted in Game design theoryTagged game design

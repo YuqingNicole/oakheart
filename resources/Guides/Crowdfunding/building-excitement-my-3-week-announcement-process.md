@@ -1,12 +1,12 @@
 # Building excitement, my 3-week announcement process
 
-Source: https://thecityofkings.com/news/building-excitement-my-3-week-announcement-process/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Building excitement, my 3-week announcement process
 
-18th January 2022 [0](https://thecityofkings.com/news/building-excitement-my-3-week-announcement-process/#comments)
+18th January 2022 0
 
 When launching a new game (or expansion), I like to work with a 3-week window. The first day is when I announce the product and the last day is when it becomes available to buy, often through crowdfunding.
 
@@ -22,28 +22,28 @@ On the day the game becomes available I will then use the most successful wordin
 
 Let’s look at The Isle of Cats announcement in 2021.
 
-1. Tuesday 4 May – [16:00 Stream: Announce new expansions, the Kickstarter, and launch the follower page](https://www.facebook.com/773336976113203/videos/2263056070458009)
-2. Wednesday 5 May – [Artwork: Kitten tiles](https://www.instagram.com/p/COfvAlIhuoQ/)
-3. Thursday 6 May – [Deep dive: Kittens](https://thecityofkings.com/news/lets-dive-into-the-kitten-module/)
-4. Friday 7 May – [Artwork: Beast meeples small](https://www.instagram.com/p/COkyK93hV68/)
-5. Saturday 8 May – [Artwork: Beast tiles 1](https://www.instagram.com/p/COnoNTuhbFr/)
-6. Sunday 9 May – [Deep dive: Beasts](https://thecityofkings.com/news/lets-dive-into-the-beast-module/)
-7. Monday 10 May – [Artwork: Event tiles](https://www.instagram.com/p/COsnuWUBDMv/)
-8. Tuesday 11 May – [Deep dive: Events](https://thecityofkings.com/news/lets-dive-into-the-event-module/)
-9. Wednesday 12 May – [Announce: Explore & Draw](https://thecityofkings.com/news/announcing-the-isle-of-cats-explore-draw/) and [Image](https://www.instagram.com/p/COx-Q0aBPMr/)
-10. Thursday 13 May – [Deep dive: Explore & Draw](https://thecityofkings.com/news/an-overview-of-explore-draw/)
-11. Friday 14 May – [Artwork: Boats](https://www.instagram.com/p/CO27_DvhB02/)
-12. Saturday 15 May – [Artwork: Boats 2](https://www.instagram.com/p/CO5qBbYBIfX/)
-13. Sunday 16 May – [Deep dive: Royal Rats](https://thecityofkings.com/news/lets-dive-into-some-rats/)
-14. Monday 17 May – [Announce: Oshax pin](https://www.instagram.com/p/CO-oiw7BXVl/)
-15. Tuesday 18 May – [Announce: Full pin set](https://www.instagram.com/p/CPBX217LNsi/)
-16. Wednesday 19 May – [Kickstarter Pack 2: Meeples large](https://www.instagram.com/p/CPEBMwtL8wS/)
-17. Thursday 20 May – [Announce: Big Box + Insert](https://thecityofkings.com/news/introducing-the-big-2-minute-box-for-the-isle-of-cats/)
-18. Friday 21 May – Update website with information: [Expansions](https://thecityofkings.com/games/the-isle-of-cats/expansions/), [Accessories](https://thecityofkings.com/games/the-isle-of-cats/accessories/), and [Explore & Draw](https://thecityofkings.com/games/explore-draw/)
-19. Saturday 22 May – Rulebooks: [Kitten + Beasts](https://boardgamegeek.com/filepage/222830/isle-cats-kittens-beasts-official-rulebook-v03),  [Kittens + Beasts family](https://boardgamegeek.com/filepage/222831/isle-cats-kittens-beasts-official-family-rulebook), and [Explore & Draw](https://boardgamegeek.com/filepage/222829/isle-cats-explore-draw-official-rulebook-v03)
-20. Sunday 23 May – Videos: [Explore & Draw overview](https://www.youtube.com/watch?v=jc7Y9SRpk8Y&ab_channel=TheCityofGames), [Explore & Draw how to play,](https://www.youtube.com/watch?v=yE6DfYtmiUo&t=1s&ab_channel=TheCityofGames) [Explore & Draw playthrough](https://www.youtube.com/watch?v=syctnzG7OUI&t=241s&ab_channel=TheCityofGames)
-21. Monday 24 May – Video: [Kittens + Beasts Overview,](https://www.youtube.com/watch?v=6MaRpOam73U&t=1s) [Kittens + Beasts how to play](https://www.youtube.com/watch?v=hwPIX91xH14&t=2s&ab_channel=TheCityofGames), [Kittens + Beasts playthrough](https://www.youtube.com/watch?v=8953wpbzo0g&t=5s&ab_channel=TheCityofGames)
-22. Tuesday 25 May – Launch [Kickstarter](https://www.kickstarter.com/projects/tcokgame/the-isle-of-cats-dont-forget-the-kittens)
+1. Tuesday 4 May – 16:00 Stream: Announce new expansions, the Kickstarter, and launch the follower page
+2. Wednesday 5 May – Artwork: Kitten tiles
+3. Thursday 6 May – Deep dive: Kittens
+4. Friday 7 May – Artwork: Beast meeples small
+5. Saturday 8 May – Artwork: Beast tiles 1
+6. Sunday 9 May – Deep dive: Beasts
+7. Monday 10 May – Artwork: Event tiles
+8. Tuesday 11 May – Deep dive: Events
+9. Wednesday 12 May – Announce: Explore & Draw and Image
+10. Thursday 13 May – Deep dive: Explore & Draw
+11. Friday 14 May – Artwork: Boats
+12. Saturday 15 May – Artwork: Boats 2
+13. Sunday 16 May – Deep dive: Royal Rats
+14. Monday 17 May – Announce: Oshax pin
+15. Tuesday 18 May – Announce: Full pin set
+16. Wednesday 19 May – Kickstarter Pack 2: Meeples large
+17. Thursday 20 May – Announce: Big Box + Insert
+18. Friday 21 May – Update website with information: Expansions, Accessories, and Explore & Draw
+19. Saturday 22 May – Rulebooks: Kitten + Beasts,  Kittens + Beasts family, and Explore & Draw
+20. Sunday 23 May – Videos: Explore & Draw overview, Explore & Draw how to play, Explore & Draw playthrough
+21. Monday 24 May – Video: Kittens + Beasts Overview, Kittens + Beasts how to play, Kittens + Beasts playthrough
+22. Tuesday 25 May – Launch Kickstarter
 
 ### **Growing momentum**
 
@@ -67,7 +67,7 @@ As another example, I had only planned to put out an image of the Royal Rats on 
 
 Have you enjoyed the announcement process of any creators, or created your own? I’d love to hear about them in the comments below.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

@@ -1,20 +1,20 @@
 # A breakdown of shipping locations for crowdfunding projects
 
-Source: https://thecityofkings.com/news/a-breakdown-of-shipping-locations-for-crowdfunding-projects/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## A breakdown of shipping locations for crowdfunding projects
 
-6th January 2022 [4](https://thecityofkings.com/news/a-breakdown-of-shipping-locations-for-crowdfunding-projects/#comments)
+6th January 2022 4
 
 Over the past 4 years I have shipped more than 30,000 orders to 80 different countries and today I’ll be diving into the data, sharing my thoughts, and looking at the most common countries that support crowdfunding campaigns.
 
 There are 5 columns, KS 1 – KS 4 represent all orders associated with each of my 4 crowdfunding campaigns and Direct contains all other orders that have been placed directly with me but can’t be attributed directly to a campaign.
 
-![](https://thecityofkings.com/wp-content/uploads/2022/01/shipping-per-country-scaled.jpg)
+![](
 
-*The raw data can be [found here](https://docs.google.com/spreadsheets/d/13VmLS6_9XPrKgsP842lg2vNgZE563JEox9JfCUOKL7E/edit?usp=sharing).*
+*The raw data can be found here.*
 
 ### Notes from my latest crowdfunding campaign (KS 4)
 
@@ -33,7 +33,7 @@ However, it is still important to be as inclusive as possible and to spend time 
 
 I hope this information proves helpful and I’d love to know if anything stood out to you while browsing the data?
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

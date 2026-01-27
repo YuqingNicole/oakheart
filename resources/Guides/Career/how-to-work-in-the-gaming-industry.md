@@ -1,10 +1,10 @@
 # How to Work in the Gaming Industry
 
-Source: http://www.leagueofgamemakers.com/how-to-work-in-the-gaming-industry/
+Source: 
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzY0IiB2aWV3Qm94PSIwIDAgNjAwIDM2NCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-Hi, I’m JR Honeycutt, and I’m the Community Manager at [**Level 99 Games**](https://www.level99games.com/). Like many of us who work in gaming, I started as a fan of games, and gradually found opportunities to help my favorite companies until I secured a permanent job.  
+Hi, I’m JR Honeycutt, and I’m the Community Manager at **Level 99 Games**. Like many of us who work in gaming, I started as a fan of games, and gradually found opportunities to help my favorite companies until I secured a permanent job.  
 Every person’s “origin story” is different, and there’s certainly not just one way to make it in the gaming industry. However, I’ve benefited from some great advice, and I want to pass on these five tips on to you.
 
 #### FIVE TIPS FOR GETTING INTO THE INDUSTRY:
@@ -21,7 +21,7 @@ Many people absolutely love teaching games. Whether it’s to family, friends, o
 
 > FIND WAYS TO DO THE THINGS YOU LOVE THAT WILL ALSO GET YOUR FOOT IN THE DOOR.
 
-Whether you’re a graphic designer, prototyper, or an at-home designer, the advice still holds. Can you provide a service? Put your name out there and offer to help. There are great places to look for these opportunities, like the **[Kickstarter Best Practices and Lessons Learned Facebook](https://www.facebook.com/groups/KickstarterBestPractices/)** group.
+Whether you’re a graphic designer, prototyper, or an at-home designer, the advice still holds. Can you provide a service? Put your name out there and offer to help. There are great places to look for these opportunities, like the **Kickstarter Best Practices and Lessons Learned Facebook** group.
 
 I’ve heard so many stories from friends in the industry that start with, “*I loved demoing (insert game), and I did that so much that (insert company) offered me a job part-time organizing their volunteers. Now I’m a director of such-and-such with so-and-so and I can’t imagine doing anything else.*” This could be you!
 
@@ -31,7 +31,7 @@ If you have ambitions of success in “the industry”, it helps to have an audi
 
 > WHATEVER YOUR MESSAGE IS, FIGURE IT OUT, THEN FOCUS IT
 
-You want people to pay attention to what you have to say because it’s insightful, or clever, or funny, or motivating. The more “niche” you can be, the more likely you are to make a name for yourself. When you’ve built a reputation for that niche, people will treat you as the expert. [**Jamey Stegmaier**](https://stonemaiergames.com/) is a great example of how a person’s audience can grow because of his niche!
+You want people to pay attention to what you have to say because it’s insightful, or clever, or funny, or motivating. The more “niche” you can be, the more likely you are to make a name for yourself. When you’ve built a reputation for that niche, people will treat you as the expert. **Jamey Stegmaier** is a great example of how a person’s audience can grow because of his niche!
 
 Like content creators, event organizers add value by building the hobby and the community around it. Whatever you do, create something that people will notice and associate with your effort. If you want to get a job in the board game industry you’ve got to have a resume and a skill set, and working to create things on your own will increase the quality of both.
 
@@ -43,7 +43,7 @@ Most of us in this hobby have professional experience, often in a technical or e
 
 It’s no coincidence that many of my closest friends work in gaming. They’re a singular breed of people – industrious, creative, and passionate. Go meet them. Listen to podcasts and interviews. Introduce yourself at conventions. Thank them for the work they’ve done in bringing your favorite games to life.
 
-I got my job at Level 99 Games in part because I introduced myself to Brad Talton at [BGG.Con](https://boardgamegeek.com/forum/52/boardgamegeek/bggcon) 2013. I shook his hand and took his card. After playing **[Noir](https://boardgamegeek.com/boardgame/102148/noir-killer-vs-inspector)** at Thanksgiving, I called to personally thank him for making a game I could share with my family. That started a friendship that led to me being offered my first position with the company.
+I got my job at Level 99 Games in part because I introduced myself to Brad Talton at BGG.Con 2013. I shook his hand and took his card. After playing **Noir** at Thanksgiving, I called to personally thank him for making a game I could share with my family. That started a friendship that led to me being offered my first position with the company.
 
 #### TIP #4: UNDER-PROMISE, OVER-DELIVER
 

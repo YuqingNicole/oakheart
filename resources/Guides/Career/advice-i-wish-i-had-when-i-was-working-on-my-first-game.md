@@ -1,10 +1,10 @@
 # Advice I Wish I Had When I Was Working on My First Game
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=558A629A16A8324
+Source: 
 
-![](https://secure.gravatar.com/avatar/18ca9001ce55eb588cc68a01e63223e02442fb28c27978f9d0bc73944c6066b6?s=48&d=mm&r=g)
+![](
 
-## [Bill](http://BSGames.ca)
+## Bill
 
 2nd March 2020, [7:18 am](#comment-9362)
 [Reply](#comment-9362)

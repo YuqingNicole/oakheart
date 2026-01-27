@@ -1,14 +1,14 @@
 # Delivering a Kickstarter on time
 
-Source: https://thecityofkings.com/news/delivering-a-kickstarter-on-time/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Delivering a Kickstarter on time
 
-10th February 2022 [0](https://thecityofkings.com/news/delivering-a-kickstarter-on-time/#comments)
+10th February 2022 0
 
-This week I had the pleasure of [telling my backers they would be receiving their Kickstarter pledges on time](https://www.kickstarter.com/projects/tcokgame/the-isle-of-cats-dont-forget-the-kittens/posts/3426443), and some of them would be receiving their items early.
+This week I had the pleasure of telling my backers they would be receiving their Kickstarter pledges on time, and some of them would be receiving their items early.
 
 For many people this came as a huge surprise as it has become common place for projects to deliver late, so today I’d like to share some tips to help you better predict your delivery date.
 
@@ -79,7 +79,7 @@ While 2 years ago I would plan 10 weeks for logistics, I’m currently working t
 
 ### **Fulfillment**
 
-Just like booking in a manufacturing slot, you need to book in your fulfillment as early as possible and then keep your partners updated. I recommend reading the [frequent communication](https://thecityofkings.com/news/my-current-approach-to-kickstarter-fulfillment/) section of my fulfillment article.
+Just like booking in a manufacturing slot, you need to book in your fulfillment as early as possible and then keep your partners updated. I recommend reading the frequent communication section of my fulfillment article.
 
 Most fulfillment centres will tell you it will take 1 – 3 weeks to ship out your orders, depending on the complexity and volume. However, it’s important to keep in mind they won’t start the day the shipments arrive.
 
@@ -109,7 +109,7 @@ At every step it is up to you to keep things moving, here are a few examples:
 
 Good luck with fulfilling on time and I’d love to know if you have any more bonus tips!
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

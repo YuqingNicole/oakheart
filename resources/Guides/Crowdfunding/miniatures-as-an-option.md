@@ -1,14 +1,14 @@
 # Miniatures as an option
 
-Source: https://thecityofkings.com/news/miniatures-as-an-option/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Miniatures as an option
 
-11th October 2022 [4](https://thecityofkings.com/news/miniatures-as-an-option/#comments)
+11th October 2022 4
 
-![miniatures-option-website.jpg](https://thecityofkings.com/wp-content/uploads/2022/10/miniatures-option-website.jpg)
+!miniatures-option-website.jpg
 
 Miniatures in crowdfunded board games have become increasingly popular over recent years as we see projects exploding with backers wanting to get the figures.
 
@@ -22,7 +22,7 @@ It may not be the way to make the most money, but I think it’s a great way of 
 
 Perhaps you could give it a try next time you’re planning miniatures for a project.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

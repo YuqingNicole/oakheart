@@ -1,6 +1,6 @@
 # Top 10 Games Every Designer Should Play Part 1
 
-Source: http://www.leagueofgamemakers.com/top10-designer-games-part1/
+Source: 
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMTkyIiB2aWV3Qm94PSIwIDAgMzAwIDE5MiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
@@ -10,19 +10,19 @@ Source: http://www.leagueofgamemakers.com/top10-designer-games-part1/
 
 My name is Jamey Stegmaier, and I run an independent board game publishing company called Stonemaier Games. I’ve designed and published our games so far (*Viticulture*, *Euphoria*, and *Tuscany*), as the roots of my passion for games is in game design.
 
-Stemming from that passion is my desire to contribute to the game design community as a whole. I write a lot about Kickstarter on my **[Kickstarter Lessons blog](https://kickstarterlessons.com/ "Stonemaier Games Kickstarter Lessons Blog")** and I’ve recently started to use **[my YouTube channel](https://www.youtube.com/channel/UCowWjmYzhSTC4YZ--ZnaYNw "Jamey Stegmaier YouTube channel")** as a place to talk about game design, but I’ve been itching to do more.
+Stemming from that passion is my desire to contribute to the game design community as a whole. I write a lot about Kickstarter on my **[Kickstarter Lessons blog]( "Stonemaier Games Kickstarter Lessons Blog")** and I’ve recently started to use **[my YouTube channel]( "Jamey Stegmaier YouTube channel")** as a place to talk about game design, but I’ve been itching to do more.
 
 So a few months ago I decided to create a new event in St. Louis called:
 
 > STONEMAIER GAMES DESIGN DAY
 
-The idea was to combine the **[Unpub](https://unpub.net/ "Unpub")** and **[Protospiel](https://protospiel-milwaukee.org/ "Protospiel Milwaukee")** style of open playtesting with something else that would help designers elevate and expand their skills in an interactive way.
+The idea was to combine the **[Unpub]( "Unpub")** and **[Protospiel]( "Protospiel Milwaukee")** style of open playtesting with something else that would help designers elevate and expand their skills in an interactive way.
 
 That “something else” was rooted in the idea that I think it benefits game designers to play a wide variety of published games. Every time I play a new game, I learn something about game design. For years I pretty much only played one type of game (medium-weight Euro games), and I’m so glad I started trying new types of games—they’ve had a huge impact on me as a designer.
 
 The result of this idea was that the Design Day would combine prototype playtesting with the opportunity to learn some games from the “**Top 10 Tabletop Games Every Game Designer Should Play at Least Once.**”
 
-I decided right away that I shouldn’t be the one to create this list. I didn’t want to impose my biases upon the 70+ people who signed up for Design Day (*and yes, signups are closed, but if you’re interested in a future Design Day, **[let us know here](https://stonemaiergames.com/conventions/ "Stonemaier Games conventions")***). So I turned to the **League of Gamemakers** (corresponding with Peter Vaughan).
+I decided right away that I shouldn’t be the one to create this list. I didn’t want to impose my biases upon the 70+ people who signed up for Design Day (*and yes, signups are closed, but if you’re interested in a future Design Day, **[let us know here]( "Stonemaier Games conventions")***). So I turned to the **League of Gamemakers** (corresponding with Peter Vaughan).
 
 As I discussed the idea with Peter and in turn the League, we honed the goal of the list to the following guidelines:
 
@@ -48,7 +48,7 @@ When 10 of us had done this, we had 20 games – already DOUBLE our allotted goa
 
 > TRELLO BOARDS – AKA THE COLLABORATION APPROACH
 
-Stephen Debaun suggested we shift gears to a workspace he uses often and highly recommends, [**Trello**](https://trello.com/ "Trello"). Trello is already board game designer friendly – you take ideas on digital index cards and organize them, creating discussions that can be contained within each entry. In our case, we shifted the ideas and game submissions from left “suggestion” to middle “discussion” and finally right, “fully voted”.
+Stephen Debaun suggested we shift gears to a workspace he uses often and highly recommends, [**Trello**]( "Trello"). Trello is already board game designer friendly – you take ideas on digital index cards and organize them, creating discussions that can be contained within each entry. In our case, we shifted the ideas and game submissions from left “suggestion” to middle “discussion” and finally right, “fully voted”.
 
 We focused heavily on what lessons each game teaches, linked cards to images/videos and we sought to collaborate and select games as a team, so that all of us stood behind the final picks. In part 2, we will highlight a particularly superb set of criteria that Mark and Christina Major came up with for selecting games.
 
@@ -67,9 +67,9 @@ What I asked everyone to do is rank their *top 15* game titles (above the goal
 In part 2 and 3, we’ll dive deeper into our individual lists, feature various top games that appeared in all three methodologies and present to you the **final TOP 10 Games Every Designer Should Play**, as featured in the **2014 Stonemaier Games Design Day**. Until then, we’ll leave you with some trivia/discussion points.
 
 Which Game Designer has **two or more games in the Top 10**?  
-The *unique nominations* in the final rounds totaled **94 games**. Even though we could only pick 10, the top 20 and even the entire 94 candidates are an interesting list to think about. We’ll be posting these 94 on BGG. EDIT: due to a lively FB discussion, we opted to post instead a growing BGG list from the community. That list is **[here](https://boardgamegeek.com/geeklist/180842/top-10-games-every-designer-should-play-least-once "BGG top 10 games for designers")** if you want to contribute titles and vote
+The *unique nominations* in the final rounds totaled **94 games**. Even though we could only pick 10, the top 20 and even the entire 94 candidates are an interesting list to think about. We’ll be posting these 94 on BGG. EDIT: due to a lively FB discussion, we opted to post instead a growing BGG list from the community. That list is **[here]( "BGG top 10 games for designers")** if you want to contribute titles and vote
 
-Knowing that some of our group LOVE **[Worker Placement](https://www.leagueofgamemakers.com/how-to-design-a-worker-placement-game-part-1/ "How to Design a Worker Placement Game Part 1")** games, **how many Worker Placement Games made it into the top 94?** BONUS points if you can guess how many WP ended in the top 10?  
+Knowing that some of our group LOVE **[Worker Placement]( "How to Design a Worker Placement Game Part 1")** games, **how many Worker Placement Games made it into the top 94?** BONUS points if you can guess how many WP ended in the top 10?  
 Lastly, **which of these 3 games made our list EVERY TIME** (in all three methods listed above)?
 
 **Now it’s YOUR turn** to pick the 10 games that Every Designer Should Play at Least Once. **BONUS POINTS** – list your top 10 or even top 15 in the comments, and see how it compares to various League members and our final 10.
@@ -77,4 +77,4 @@ Lastly, **which of these 3 games made our list EVERY TIME** (in all three metho
 Thanks for playing!
 
 —  
-**[Part II](https://www.leagueofgamemakers.com/top-10-games-every-designer-should-play-part-2/ "Top 10 Games Every Designer Should Play, PART 1")**, criteria for selecting games, and individual league picks.
+**[Part II]( "Top 10 Games Every Designer Should Play, PART 1")**, criteria for selecting games, and individual league picks.

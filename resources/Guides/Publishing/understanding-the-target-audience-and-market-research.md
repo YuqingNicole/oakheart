@@ -1,6 +1,6 @@
 # Understanding the target audience and market research
 
-Source: https://www.gamefoundry.hk/understanding-the-target-audience-and-market-research
+Source: 
 
 # Understanding the target audience and market research
 

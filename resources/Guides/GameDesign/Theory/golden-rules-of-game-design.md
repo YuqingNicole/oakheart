@@ -1,13 +1,13 @@
 # Golden Rules of Game Design
 
-Source: http://www.robindavid.info/2015/09/golden-rules-of-game-design.html
+Source: 
 
-* [Home](https://www.robindavid.info/)
-* [1xBet](https://www.robindavid.info/1xbet.html)
-* [Blog Contents](https://www.robindavid.info/p/blog-contents.html)
-* [Dice on Fire Boardgame Reviews](https://www.robindavid.info/p/dice-on-fire-reviews.html)
-* [Games](https://www.robindavid.info/p/products.html)
-* [Contact](https://www.robindavid.info/p/contact.html)
+* Home
+* 1xBet
+* Blog Contents
+* Dice on Fire Boardgame Reviews
+* Games
+* Contact
 
 [![](//img1.blogblog.com/img/icon18_wrench_allbkg.png)](//www.blogger.com/rearrange?blogID=8062624044581897207&widgetType=PageList&widgetId=PageList1&action=editWidget§ionId=crosscol "Edit")
 
@@ -17,13 +17,13 @@ Last week I pitted a simple question to a whole bunch of amateur and professiona
   
 > Game designers, for an article I'm writing: What are your golden rules of game design? Full credit will be given!
 >
-> — Robin David (@robindavid\_dice) [September 7, 2015](https://twitter.com/robindavid_dice/status/641034490853367808)
+> — Robin David (@robindavid\_dice) September 7, 2015
 
   
   
 In the bunch of direct tweets that followed, I asked them to share one tip they would like all other designers to take note of. Some designers responded through tweets, and some through direct messages, so pardon the unusual formatting that follows.  
   
-I was going to write a more in-depth piece, going over each issue, in a similar way to my [Game Design Deadly Sins](https://www.robindavid.info/2015/08/game-design-deadly-sins.html) article from a couple of weeks back, but honestly, many of these designers say it better than I ever could! So here are their responses, in no particular order.  
+I was going to write a more in-depth piece, going over each issue, in a similar way to my Game Design Deadly Sins article from a couple of weeks back, but honestly, many of these designers say it better than I ever could! So here are their responses, in no particular order.  
   
   
   
@@ -31,23 +31,23 @@ I was going to write a more in-depth piece, going over each issue, in a similar 
 ## Focus Your Core Mechanics and Simplify
 
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) Keep the focus on your core mechanic. If a feature isn't driven by or fed into your core loop, put it in another game.
+> @robindavid\_dice Keep the focus on your core mechanic. If a feature isn't driven by or fed into your core loop, put it in another game.
 >
-> — Jon Gill (@TheJonAGill) [September 8, 2015](https://twitter.com/TheJonAGill/status/641286777949450241)
+> — Jon Gill (@TheJonAGill) September 8, 2015
 
   
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) quote from Antoine de Saint-Exupery
+> @robindavid\_dice quote from Antoine de Saint-Exupery
 >
-> — Miss Piggy's Rebound (@Jhoratio) [September 8, 2015](https://twitter.com/Jhoratio/status/641235653326467072)
+> — Miss Piggy's Rebound (@Jhoratio) September 8, 2015
 
   
   
-[Chris Handy](https://twitter.com/ChrisHandy)  
+Chris Handy  
 > I "Follow The Fun", then try to remove as much clutter as possible from the design, while still trying to retain the same, or more fun.
 
   
-[Brian Knudson](https://twitter.com/ClosetNerdBrian)  
+Brian Knudson  
 > Keep it simple, give the player choices and never forget your audience.
 
   
@@ -55,9 +55,9 @@ I was going to write a more in-depth piece, going over each issue, in a similar 
 ## Give Players Interesting Choices
 
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) never forget you are making a Game. And games need interesting player choices or else they won't last once the shine dulls
+> @robindavid\_dice never forget you are making a Game. And games need interesting player choices or else they won't last once the shine dulls
 >
-> — Ben Pinchback (@pinchback21) [September 8, 2015](https://twitter.com/pinchback21/status/641261156649299968)
+> — Ben Pinchback (@pinchback21) September 8, 2015
 
   
   
@@ -65,9 +65,9 @@ I was going to write a more in-depth piece, going over each issue, in a similar 
 ## Give Players Risky Options
 
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) Here's one I learned from [@cheapassjames](https://twitter.com/cheapassjames). <http://t.co/szdyVzyK1t> Offer a choice between safe&predictable or risky&chaotic.
+> @robindavid\_dice Here's one I learned from @cheapassjames. < Offer a choice between safe&predictable or risky&chaotic.
 >
-> — Daniel Solis (@DanielSolis) [September 8, 2015](https://twitter.com/DanielSolis/status/641211681314598912)
+> — Daniel Solis (@DanielSolis) September 8, 2015
 
   
   
@@ -77,9 +77,9 @@ I was going to write a more in-depth piece, going over each issue, in a similar 
   
 (just to see what happens!)  
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) don't make tiny incremental changes. Double or halve on correction. Old video game design trick. Test big, save time.
+> @robindavid\_dice don't make tiny incremental changes. Double or halve on correction. Old video game design trick. Test big, save time.
 >
-> — BEAR GENOME PROJECT (@toddderscheid) [September 8, 2015](https://twitter.com/toddderscheid/status/641236233566294017)
+> — BEAR GENOME PROJECT (@toddderscheid) September 8, 2015
 
   
   
@@ -87,11 +87,11 @@ I was going to write a more in-depth piece, going over each issue, in a similar 
 ## Prototype Early!
 
   
-[Kirdy](https://twitter.com/VetruvianGamer)  
+Kirdy  
 > Prototype and playtest as soon as possible. It's the best way to get information and feedback in the early stage.
 
   
-[Rob Harris](https://twitter.com/playtestuk)  
+Rob Harris  
 > Top 3 tips for game design are playtest, playtest, playtest. 4th is don't spend too long making the first prototype. Play as quickly as possible; you will feel more able to make changes.
 
   
@@ -99,29 +99,29 @@ I was going to write a more in-depth piece, going over each issue, in a similar 
 ## Be Willing to Change Your Design
 
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) don't be too attached to your first design draft. Playtests can inform a lot of changes!
+> @robindavid\_dice don't be too attached to your first design draft. Playtests can inform a lot of changes!
 >
-> — Cam Banks (@boymonster) [September 8, 2015](https://twitter.com/boymonster/status/641220789212069889)
+> — Cam Banks (@boymonster) September 8, 2015
 
   
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) break. fix. repeat.
+> @robindavid\_dice break. fix. repeat.
 >
-> — PMDGames (@PMDGames) [September 8, 2015](https://twitter.com/PMDGames/status/641043649510395904)
+> — PMDGames (@PMDGames) September 8, 2015
 
   
   
-[Eduardo Baraf](https://twitter.com/ebaraf)  
-> Learn about [the MDA process](http://www.cs.northwestern.edu/~hunicke/MDA.pdf)
+Eduardo Baraf  
+> Learn about the MDA process
 
   
 
 ## Playtest and Pay Attention to Your Playtesters
 
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) "After your game is (more or less) working, the best feedback you can get comes from \*watching\* players play it."
+> @robindavid\_dice "After your game is (more or less) working, the best feedback you can get comes from \*watching\* players play it."
 >
-> — Randy Hoyt (@randyhoyt) [September 8, 2015](https://twitter.com/randyhoyt/status/641245251873701888)
+> — Randy Hoyt (@randyhoyt) September 8, 2015
 
   
   
@@ -130,17 +130,17 @@ Randy was kind enough to elaborate for me in a direct message:
 > For the best results, you need to watch people \*other\* games too -- not just your games. I know watching people play isn't as fun as playing yourself, but you really need experience watching people play lots of games. When you have a lot of experience watching games, you can better understand what you see when you watch people play your games.
 
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) I have things I keep an eye on, like muscle memory. Watch initial confusion, watch pacing, watch number of decisions.
+> @robindavid\_dice I have things I keep an eye on, like muscle memory. Watch initial confusion, watch pacing, watch number of decisions.
 >
-> — Grant Rodiek (@HyperboleGrant) [September 7, 2015](https://twitter.com/HyperboleGrant/status/641036375400144896)
+> — Grant Rodiek (@HyperboleGrant) September 7, 2015
 
   
   
-[Robin Lees](https://twitter.com/RMBLees)  
+Robin Lees  
 > Ask your play testers; what emotions they felt during game play.
 
   
-[Mikael Allen](https://twitter.com/MikaelAllan)  
+Mikael Allen  
 > 1. Playtest, playtest, and then playtest some more.; 2. Playtest.; 3. Stick to your concept.; 4. Playtest.
 
   
@@ -148,15 +148,15 @@ Randy was kind enough to elaborate for me in a direct message:
 ## Don't Worry About Perfection
 
   
-> "Perfect" is the enemy of improvement. Stop searching for the perfect mechanism and focus on making your design better. [#ShareAGameDesignTip](https://twitter.com/hashtag/ShareAGameDesignTip?src=hash)
+> "Perfect" is the enemy of improvement. Stop searching for the perfect mechanism and focus on making your design better. #ShareAGameDesignTip
 >
-> — Matt Wolfe (@mattwolfe) [August 24, 2015](https://twitter.com/mattwolfe/status/635895281431744512)
+> — Matt Wolfe (@mattwolfe) August 24, 2015
 
   
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) it doesn't matter if it is perfect as long as it is fun for as long as possible.
+> @robindavid\_dice it doesn't matter if it is perfect as long as it is fun for as long as possible.
 >
-> — Meg/Dan/Glenn (@gamesbyplaydate) [September 8, 2015](https://twitter.com/gamesbyplaydate/status/641208531149017091)
+> — Meg/Dan/Glenn (@gamesbyplaydate) September 8, 2015
 
   
   
@@ -164,29 +164,29 @@ Randy was kind enough to elaborate for me in a direct message:
 ## Design with the Player Experience in Mind
 
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) Start by designing the experience you want players to have. Then make game design choices that convey that experience.
+> @robindavid\_dice Start by designing the experience you want players to have. Then make game design choices that convey that experience.
 >
-> — Scott Nicholson (@snicholson) [September 8, 2015](https://twitter.com/snicholson/status/641201659239120896)
+> — Scott Nicholson (@snicholson) September 8, 2015
 
   
   
-> [@PuppyShogun](https://twitter.com/PuppyShogun) [@robindavid\_dice](https://twitter.com/robindavid_dice) My golden rule: The intended experience for the player - the decision space - drives the design.
+> @PuppyShogun @robindavid\_dice My golden rule: The intended experience for the player - the decision space - drives the design.
 >
-> — Paul Owen (@PaulOwenGames) [September 8, 2015](https://twitter.com/PaulOwenGames/status/641042709659185152)
+> — Paul Owen (@PaulOwenGames) September 8, 2015
 
   
   
-[Jeff Siadek](https://twitter.com/JeffSiadek)  
+Jeff Siadek  
 > The game isn't about the game: It's about providing tools for the players to use to enjoy themselves. Thanks for asking!
 
   
-[Saar Shai](https://twitter.com/SaarShai)  
+Saar Shai  
 > One tip would be to always focus on delivering fun and not get pulled too far by the developing game mechanics.
 
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) Don't stop the players from having fun.
+> @robindavid\_dice Don't stop the players from having fun.
 >
-> — Geoff Engelstein (@gengelstein) [September 8, 2015](https://twitter.com/gengelstein/status/641233859145822208)
+> — Geoff Engelstein (@gengelstein) September 8, 2015
 
   
   
@@ -196,9 +196,9 @@ In part, Geoff is talking about mechanics such as "skip a turn", and other lame 
 ## Play Lots of Other Games
 
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) I will never only play my own designs. That's a recipe to forget what makes new frontiers of gaming "fun".
+> @robindavid\_dice I will never only play my own designs. That's a recipe to forget what makes new frontiers of gaming "fun".
 >
-> — T. C. Petty III (@PuppyShogun) [September 8, 2015](https://twitter.com/PuppyShogun/status/641042095822794752)
+> — T. C. Petty III (@PuppyShogun) September 8, 2015
 
   
   
@@ -206,13 +206,13 @@ In part, Geoff is talking about mechanics such as "skip a turn", and other lame 
 ## Consider Your Components Early On
 
   
-[David J Mortimer](https://twitter.com/mortispur)  
+David J Mortimer  
 > IMO: Publishers very keen on keeping component costs down. Find ways to get multiple uses from each component. For example use card backs, double sided tokens etc.
 
   
-> [@robindavid\_dice](https://twitter.com/robindavid_dice) Instead of complicating the rules I'd rather give the players pieces with which to create interesting combinations.
+> @robindavid\_dice Instead of complicating the rules I'd rather give the players pieces with which to create interesting combinations.
 >
-> — Manuel Correia (@gamesbymanuel) [September 7, 2015](https://twitter.com/gamesbymanuel/status/641035110540804097)
+> — Manuel Correia (@gamesbymanuel) September 7, 2015
 
   
   
@@ -220,34 +220,33 @@ In part, Geoff is talking about mechanics such as "skip a turn", and other lame 
 ## Pay Attention to Your Rulebook
 
   
-[Robin Lees](https://twitter.com/RMBLees)  
+Robin Lees  
 > Always blindest your rulebook. And get someone unassociated with the game to edit it. Always include an annotated graphical representation of the setup and game components.
 
   
 Many thanks to all the designers that responded with their thoughts!
 
-[Email This](https://www.blogger.com/share-post.g?blogID=8062624044581897207&postID=4364644067880145436&target=email "Email This")[BlogThis!](https://www.blogger.com/share-post.g?blogID=8062624044581897207&postID=4364644067880145436&target=blog "BlogThis!")[Share to Twitter](https://www.blogger.com/share-post.g?blogID=8062624044581897207&postID=4364644067880145436&target=twitter "Share to Twitter")[Share to Facebook](https://www.blogger.com/share-post.g?blogID=8062624044581897207&postID=4364644067880145436&target=facebook "Share to Facebook")[Share to Pinterest](https://www.blogger.com/share-post.g?blogID=8062624044581897207&postID=4364644067880145436&target=pinterest "Share to Pinterest")
+[Email This]( "Email This")[BlogThis!]( "BlogThis!")[Share to Twitter]( "Share to Twitter")[Share to Facebook]( "Share to Facebook")[Share to Pinterest]( "Share to Pinterest")
 
 Labels:
-[Design](https://www.robindavid.info/search/label/Design),
-[Twitter](https://www.robindavid.info/search/label/Twitter)
+Design,
+Twitter
 
 #### 3 comments:
 
 1. ![](//img1.blogblog.com/img/blank.gif)
 
-   [Matt](http://www.creakingshelves.com)[19 September 2015 at 12:59](https://www.robindavid.info/2015/09/golden-rules-of-game-design.html?showComment=1442692793777#c3020647396304897083)
+   Matt19 September 2015 at 12:59
 
    Great list of tips! I particularly like Daniel Solis' tip, to offer choices between safe & predictable vs risky & chaotic. It's not something I had considered before, yet fits with something I have been thinking about recently, on the value of randomness for creating tension and increasing the emotional reward for the player when they pull something off. Do you have a favourite tip? Or one that resonates particularly strongly? (they are all great tips after all!)
 
-   [Reply](javascript:;)[Delete](https://www.blogger.com/delete-comment.g?blogID=8062624044581897207&postID=3020647396304897083)
+   [Reply](javascript:;)Delete
 
    [Replies](javascript:;)
 
-
    - ![](//img2.blogblog.com/img/b16-rounded.gif)
 
-     [Robin David](https://www.blogger.com/profile/16603128790228748017)[20 September 2015 at 01:27](https://www.robindavid.info/2015/09/golden-rules-of-game-design.html?showComment=1442737643424#c827076066401311301)
+     Robin David20 September 2015 at 01:27
 
      I like quite a few of them - the ones that resonate most are about cutting the clutter and getting to the core of the game.  
        
@@ -255,14 +254,14 @@ Labels:
        
      @toddderscheid comment about making large changes in each iteration is interesting as I've always done the opposite - such as changing the numbers just a little to see how things go. But when I think about it, this could be a really useful exercise in itself and could send your game in so many interesting directions.
 
-     [Delete](https://www.blogger.com/delete-comment.g?blogID=8062624044581897207&postID=827076066401311301)
+     Delete
    - ![](//img1.blogblog.com/img/blank.gif)
 
-     [Matt](http://www.creakingshelves.com)[21 September 2015 at 14:24](https://www.robindavid.info/2015/09/golden-rules-of-game-design.html?showComment=1442870682769#c2760570390663806903)
+     Matt21 September 2015 at 14:24
 
      Yes! Performing big changes to a prototype is really quite scary... especially to a game that is going ok. I mean if a design falls flat I'd have no problem but with a game that feels close to working it takes quite a leap! Certainly something to consider!
 
-     [Delete](https://www.blogger.com/delete-comment.g?blogID=8062624044581897207&postID=2760570390663806903)
+     Delete
 
    [Reply](javascript:;)
 
@@ -270,81 +269,81 @@ Labels:
 
 [Load more...](javascript:;)
 
-[Newer Post](https://www.robindavid.info/2015/10/the-martian-investigations-story-based.html "Newer Post")
+[Newer Post]( "Newer Post")
 
-[Older Post](https://www.robindavid.info/2015/08/dice-on-fire-review-smoke-and-mirrors.html "Older Post")
-[Home](https://www.robindavid.info/)
+[Older Post]( "Older Post")
+Home
 
 Subscribe to:
-[Post Comments (Atom)](https://www.robindavid.info/feeds/4364644067880145436/comments/default)
+Post Comments (Atom)
 
 **RobinDavid: Where I talk about boardgames and boardgame design.**  
   
-**I'm also on Twitter: [@robindavid\_dice](https://twitter.com/robindavid_dice)**  
+**I'm also on Twitter: @robindavid\_dice**  
 
 Subscribe to my mailing list
 
 [![](//img1.blogblog.com/img/icon18_wrench_allbkg.png)](//www.blogger.com/rearrange?blogID=8062624044581897207&widgetType=Text&widgetId=Text1&action=editWidget§ionId=sidebar-right-1 "Edit")
 
-[![](https://1.bp.blogspot.com/-FyW57ulrMJk/Vi_efGnlHfI/AAAAAAAABYk/LfDaP8xXDH8/s200/Cover.png)](https://www.robindavid.info/search/label/The%20Martian%20Investigations)
+![](
 
-[![](https://3.bp.blogspot.com/-QChywxj3BR4/VRIwOKhbYQI/AAAAAAAABGo/wMGPMBh3-5c/s1600/directorscut.jpg)](https://www.robindavid.info/2015/03/directors-cut-card-game.html)
+![](
 
-[![](https://2.bp.blogspot.com/-_50qwDMzt7Q/Vd4xgBUeunI/AAAAAAAABU8/eOud9tKyxsk/s200/Litterateur-Cover-lowres.jpg)](https://www.robindavid.info/search/label/Litterateur)
+![](
 
-[![](https://1.bp.blogspot.com/-D4qhfk_SYcU/VRtcoZ2jbiI/AAAAAAAABHE/NIzcQKjxVB0/s1600/PromoCover.jpg)](https://www.robindavid.info/2015/11/eccentric-exhibits-is-now-pay-what-you.html)
+![](
 
-[![http://www.robindavid.info/search/label/Writing](https://1.bp.blogspot.com/-Jw4kX48m8zA/VPFygfOmGBI/AAAAAAAABBg/daQdtAmlcv8/s1600/writing.png)](https://www.robindavid.info/search/label/Writing)
+![
 
-[![](https://1.bp.blogspot.com/-lVuIjSTtEsM/VOgxOlDFgrI/AAAAAAAABAE/kVvjEK25kRk/s1600/melons.png)](https://www.robindavid.info/search/label/Watermelon)
+![](
 
 [![](//img1.blogblog.com/img/icon18_wrench_allbkg.png)](//www.blogger.com/rearrange?blogID=8062624044581897207&widgetType=Text&widgetId=Text2&action=editWidget§ionId=sidebar-right-1 "Edit")
 
 ## Blog Archive
 
 * [►](javascript:void(0))
-  [2016](https://www.robindavid.info/search?updated-min=2016-01-01T00:00:00-08:00&updated-max=2017-01-01T00:00:00-08:00&max-results=6)
+  2016
   (6)
   + [►](javascript:void(0))
-    [February](https://www.robindavid.info/2016_02_01_archive.html)
+    February
     (3)
   + [►](javascript:void(0))
-    [January](https://www.robindavid.info/2016_01_01_archive.html)
+    January
     (3)
 
 * [▼](javascript:void(0))
-  [2015](https://www.robindavid.info/search?updated-min=2015-01-01T00:00:00-08:00&updated-max=2016-01-01T00:00:00-08:00&max-results=50)
+  2015
   (85)
   + [►](javascript:void(0))
-    [December](https://www.robindavid.info/2015_12_01_archive.html)
+    December
     (1)
   + [►](javascript:void(0))
-    [November](https://www.robindavid.info/2015_11_01_archive.html)
+    November
     (2)
   + [►](javascript:void(0))
-    [October](https://www.robindavid.info/2015_10_01_archive.html)
+    October
     (2)
   + [▼](javascript:void(0))
-    [September](https://www.robindavid.info/2015_09_01_archive.html)
+    September
     (1)
-    - [Golden Rules of Game Design](https://www.robindavid.info/2015/09/golden-rules-of-game-design.html)
+    - Golden Rules of Game Design
   + [►](javascript:void(0))
-    [August](https://www.robindavid.info/2015_08_01_archive.html)
+    August
     (5)
   + [►](javascript:void(0))
-    [July](https://www.robindavid.info/2015_07_01_archive.html)
+    July
     (3)
   + [►](javascript:void(0))
-    [June](https://www.robindavid.info/2015_06_01_archive.html)
+    June
     (2)
   + [►](javascript:void(0))
-    [April](https://www.robindavid.info/2015_04_01_archive.html)
+    April
     (2)
   + [►](javascript:void(0))
-    [March](https://www.robindavid.info/2015_03_01_archive.html)
+    March
     (11)
   + [►](javascript:void(0))
-    [February](https://www.robindavid.info/2015_02_01_archive.html)
+    February
     (56)
 
 [![](//img1.blogblog.com/img/icon18_wrench_allbkg.png)](//www.blogger.com/rearrange?blogID=8062624044581897207&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget§ionId=sidebar-right-1 "Edit")

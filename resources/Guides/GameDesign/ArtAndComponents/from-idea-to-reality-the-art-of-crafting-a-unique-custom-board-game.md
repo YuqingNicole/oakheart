@@ -1,6 +1,6 @@
 # From Idea to Reality: The Art of Crafting a Unique Custom Board Game
 
-Source: https://www.gamefoundry.hk/from-idea-to-reality-the-art-of-crafting-a-unique-custom-board-game
+Source: 
 
 # From Idea to Reality: The Art of Crafting a Unique Custom Board Game
 

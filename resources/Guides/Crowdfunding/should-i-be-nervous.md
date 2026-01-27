@@ -1,14 +1,14 @@
 # Should I be nervous?
 
-Source: https://thecityofkings.com/news/should-i-be-nervous/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Should I be nervous?
 
-1st September 2022 [2](https://thecityofkings.com/news/should-i-be-nervous/#comments)
+1st September 2022 2
 
-![be-nervous-website.jpg](https://thecityofkings.com/wp-content/uploads/2022/09/be-nervous-website.jpg)
+!be-nervous-website.jpg
 
 As I get older, I realise there are only a few things in life that have a considerable long-term emotional impact. Sure, there are plenty of minor events that steer my life and help define who I am, but I’m talking about things that truly change you as a person.
 
@@ -24,13 +24,13 @@ The answer is yes, and I believe it is perfectly normal, the trick is to learn t
 
 ### **The passionate creative**
 
-I believe this is because I am passionate about what I do, I spend thousands of hours on every game I release and [I only release games I am happy with](https://thecityofkings.com/news/killing-a-game-is-it-ever-too-late/). When you spend so much of your time on something and know whether it fails or succeeds will change your life, it’s only normal to be nervous.
+I believe this is because I am passionate about what I do, I spend thousands of hours on every game I release and I only release games I am happy with. When you spend so much of your time on something and know whether it fails or succeeds will change your life, it’s only normal to be nervous.
 
 It’s a good thing!
 
 Over confidence is where people start to fail, if you believe your campaign will succeed then you won’t put in the same effort. You’ll be comfortable that you have enough followers, people will turn up, and that your success is nearly guaranteed.
 
-Being nervous shows you care, that you’re worried, and it can be a motivator to do more. Prior to my campaigns launching I have [a 3-week process](https://thecityofkings.com/news/building-excitement-my-3-week-announcement-process/) that I go through, and I am working 16 hours every day trying to make sure everyone knows my campaign is coming. I don’t assume people will turn up and I work just as hard as I ever have. I also spend months prior to that planning the 3-week process and the campaign. If I don’t and I fail, I know I could have done more and I never want to be in that position.
+Being nervous shows you care, that you’re worried, and it can be a motivator to do more. Prior to my campaigns launching I have a 3-week process that I go through, and I am working 16 hours every day trying to make sure everyone knows my campaign is coming. I don’t assume people will turn up and I work just as hard as I ever have. I also spend months prior to that planning the 3-week process and the campaign. If I don’t and I fail, I know I could have done more and I never want to be in that position.
 
 ### **Success is never guaranteed**
 
@@ -40,9 +40,9 @@ For me the answer is no, I never want to assume, and I work just as hard (if not
 
 There are many cases of failed Kickstarters from successful creators:
 
-* Gil Hova had 5 successful Kickstarters which had raised over $300,000 prior to launching [the unsuccessful High Rise campaign](https://www.kickstarter.com/projects/gilhova/high-rise).
-* Restoration Games had 3 successful Kickstarters which had raised nearly $7,000,000 prior to launching [the unsuccessful Thunder Road: Vendetta campaign](https://www.kickstarter.com/projects/restorationgames/thunder-road-vendetta).
-* Druid City Games had 6 successful Kickstarters which had raised over $2,000,000 prior to launching [the unsuccessful Bloodstone campaign](https://www.kickstarter.com/projects/druidcitygames/bloodstone).
+* Gil Hova had 5 successful Kickstarters which had raised over $300,000 prior to launching the unsuccessful High Rise campaign.
+* Restoration Games had 3 successful Kickstarters which had raised nearly $7,000,000 prior to launching the unsuccessful Thunder Road: Vendetta campaign.
+* Druid City Games had 6 successful Kickstarters which had raised over $2,000,000 prior to launching the unsuccessful Bloodstone campaign.
 
 The reason these campaigns failed is outside of the scope of this article, and all of them have or are relaunching, but it shows that nothing is guaranteed, mistakes can happen, and assumptions can be wrong.
 
@@ -58,7 +58,7 @@ I am a firm believer in not announcing a Kickstarter date until everything is re
 
 Finally, also remember to enjoy it, as I said at the start of this article, this process is something that can have a long-term emotional impact on your life and it can be an incredibly joyful thing if you let it.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

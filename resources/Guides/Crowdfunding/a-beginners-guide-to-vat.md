@@ -1,12 +1,12 @@
 # A beginner’s guide to VAT
 
-Source: https://thecityofkings.com/news/a-beginners-guide-to-vat/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## A beginner’s guide to VAT
 
-3rd May 2022 [13](https://thecityofkings.com/news/a-beginners-guide-to-vat/#comments)
+3rd May 2022 13
 
 Over the past year VAT has become a big topic in the crowdfunding space and today I’d like to share my experience and help make sure you get it right.
 
@@ -37,7 +37,7 @@ Before choosing a country, it is worth talking with your VAT accountant if there
 
 There are plenty of options for accountants and you may wish to use different accountants for each type of VAT, you should do your research and work out who is best for you.
 
-I personally work with [SimplyVAT](https://simplyvat.com/) for my Germany and OSS VAT requirements and [TMT Accounting](https://www.tmtaccounting.co.uk/) for my UK VAT requirements.
+I personally work with SimplyVAT for my Germany and OSS VAT requirements and TMT Accounting for my UK VAT requirements.
 
 However, I choose to work with TMT Accounting as they also manage my other tax requirements as I am a UK company. If I was not based in the UK, I would likely just work with SimplyVAT on all 3 returns as they offer a good service and it’s a lot easier to manage everything through one company.
 
@@ -142,7 +142,7 @@ Your accountant will always be there to help answer any questions and don’t be
 
 I hope this article has proved helpful and if you have any questions feel free to ask them below.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

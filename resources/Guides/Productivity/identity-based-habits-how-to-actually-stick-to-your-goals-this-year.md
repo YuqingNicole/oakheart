@@ -1,16 +1,16 @@
 # Identity Based Habits: How to Actually Stick to Your Goals This Year
 
-Source: http://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=230A272A16A5517
+Source: 
 
 # Identity-Based Habits: How to Actually Stick to Your Goals This Year
 
-written by [James Clear](https://jamesclear.com/about)
+written by James Clear
 
-[Goal Setting](https://jamesclear.com/goal-setting)
-[Habits](https://jamesclear.com/habits)
-[Self-Improvement](https://jamesclear.com/self-improvement)
+Goal Setting
+Habits
+Self-Improvement
 
-*This article is an excerpt from [Atomic Habits](https://jamesclear.com/atomic-habits), my New York Times bestselling book.*
+*This article is an excerpt from Atomic Habits, my New York Times bestselling book.*
 
 Change is hard. You've probably noticed that.
 
@@ -36,7 +36,7 @@ Here's what I learned from that story: In order to believe in a new identity, we
 
 ## Identity-Based Habits
 
-The key to [building lasting habits](https://jamesclear.com/habits) is focusing on creating a new identity first. Your current behaviors are simply a reflection of your current identity. What you do now is a mirror image of the type of person you believe that you are (either consciously or subconsciously).
+The key to building lasting habits is focusing on creating a new identity first. Your current behaviors are simply a reflection of your current identity. What you do now is a mirror image of the type of person you believe that you are (either consciously or subconsciously).
 
 To change your behavior for good, you need to start believing new things about yourself. You need to build identity-based habits.
 
@@ -48,7 +48,7 @@ These goals are centered around outcomes, not identity.
 
 To understand what I mean, consider that there are three levels at which change can occur. You can imagine them like the layers of an onion. [1](#footnote-1-3253)
 
-![](https://jamesclear.com/wp-content/uploads/2012/12/Layers-of-behavior-change.png)
+![](
 
 There are three layers of behavior change: a change in your outcomes, a change in your processes, or a change in your identity.
 
@@ -110,13 +110,13 @@ Small win: Schedule meetings with an additional 15–minute gap between them so 
 
 In my experience, when you want to become better at something, proving your identity to yourself is far more important than getting amazing results. This is especially true at first.
 
-If you want to get motivated and inspired, then feel free to watch a YouTube video, listen to your favorite song, and do P90X. But don't be surprised if you burn out after a week. You can't rely on being [motivated](https://jamesclear.com/motivation). You have to become the type of person you want to be, and that starts with proving your new identity to yourself.
+If you want to get motivated and inspired, then feel free to watch a YouTube video, listen to your favorite song, and do P90X. But don't be surprised if you burn out after a week. You can't rely on being motivated. You have to become the type of person you want to be, and that starts with proving your new identity to yourself.
 
 Most people (myself included) will want to become better this year. Many of us, however, will set performance- and appearance-based goals in hopes that they will drive us to do things differently.
 
 If you're looking to make a change, then I say stop worrying about results and start worrying about your identity. Become the type of person who can achieve the things you want to achieve. Build identity-based habits now. The results can come later.
 
-*This article is an excerpt from Chapter 2 of my New York Times bestselling book**Atomic* *Habits. [Read more here](https://jamesclear.com/atomic-habits "Read more here").*
+*This article is an excerpt from Chapter 2 of my New York Times bestselling book**Atomic* *Habits. [Read more here]( "Read more here").*
 
 Footnotes
 
@@ -130,15 +130,15 @@ Thanks for reading. You can get more actionable ideas in my popular email newsle
 
 About the Author
 
-**James Clear** writes about habits, decision making, and continuous improvement. He is the author of the #1 *New York Times* bestseller, [Atomic Habits](https://jamesclear.com/atomic-habits). The book has sold over 25 million copies worldwide and has been translated into more than 60 languages.
+**James Clear** writes about habits, decision making, and continuous improvement. He is the author of the #1 *New York Times* bestseller, Atomic Habits. The book has sold over 25 million copies worldwide and has been translated into more than 60 languages.
 
 [Click here to learn more →](/about)
 
 Read Next
 
-* [Keystone Habits: The Simple Way to Improve All Aspects of Your Life](https://jamesclear.com/keystone-habits)
-* [What Does it Mean to Live a Healthy Life?](https://jamesclear.com/what-does-it-mean-to-live-a-healthy-life)
-* [The Top Life Regret of Dying Hospital Patients](https://jamesclear.com/top-regret-dying-people)
-* [Are You Living an Urgent Life or an Important Life?](https://jamesclear.com/are-you-living-an-urgent-life-or-an-important-one)
-* [12 Lessons Learned from 1 Year of Intermittent Fasting](https://jamesclear.com/intermittent-fasting-lessons-learned)
+* Keystone Habits: The Simple Way to Improve All Aspects of Your Life
+* What Does it Mean to Live a Healthy Life?
+* The Top Life Regret of Dying Hospital Patients
+* Are You Living an Urgent Life or an Important Life?
+* 12 Lessons Learned from 1 Year of Intermittent Fasting
 * [All Articles](/articles)

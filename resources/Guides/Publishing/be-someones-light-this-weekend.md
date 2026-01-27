@@ -1,20 +1,20 @@
 # Be someone’s light this weekend
 
-Source: https://thecityofkings.com/news/be-someones-light-this-weekend/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## Be someone’s light this weekend
 
-4th April 2025 [2](https://thecityofkings.com/news/be-someones-light-this-weekend/#comments)
+4th April 2025 2
 
-![be-someones-light-website.jpg](https://thecityofkings.com/wp-content/uploads/2025/04/be-someones-light-website.jpg)
+!be-someones-light-website.jpg
 
 It’s Friday afternoon, and for many business owners around the world—big and small—it’s going to be a hard weekend.
 
-Right now, a lot of people in our industry are fearing the worst. They’re staring down uncertainty, and instead of getting rest, they’ll be wondering: What does tomorrow look like? As [I shared yesterday](https://thecityofkings.com/news/an-industry-in-crisis-what-can-we-do/), the board game industry is in crisis—and it feels like we’re only at the beginning.
+Right now, a lot of people in our industry are fearing the worst. They’re staring down uncertainty, and instead of getting rest, they’ll be wondering: What does tomorrow look like? As I shared yesterday, the board game industry is in crisis—and it feels like we’re only at the beginning.
 
-We’ve seen a lot of people opening up and sharing their stories, their fears, and their perspectives—people like Jamey from Stonemaier Games who wrote [The Darkest Timeline](https://stonemaiergames.com/the-darkest-timeline/), and W. Eric Martin sharing [views from 1,200 publishers](https://boardgamegeek.com/blog/1/blogpost/172773/publishers-talk-about-us-tariffs). And today, I want to make a small request for those of you willing to help.
+We’ve seen a lot of people opening up and sharing their stories, their fears, and their perspectives—people like Jamey from Stonemaier Games who wrote The Darkest Timeline, and W. Eric Martin sharing views from 1,200 publishers. And today, I want to make a small request for those of you willing to help.
 
 This isn’t a request for money. It won’t take more than a few minutes of your time.
 
@@ -62,7 +62,7 @@ Because reading those messages—hearing that their work brought joy, laughter, 
 
 It may feel like a small gesture, but trust me—it’s not. A kind word can be the spark that keeps someone going. And right now, that spark matters more than ever.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

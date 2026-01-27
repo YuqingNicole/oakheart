@@ -1,18 +1,18 @@
 # Growing a community part 5
 
-Source: https://thecityofkings.com/news/growing-a-community-part-5/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Growing a community part 5
 
-21st June 2022 [2](https://thecityofkings.com/news/growing-a-community-part-5/#comments)
+21st June 2022 2
 
-There are many ways to grow a community and in this guide ([part 1](https://thecityofkings.com/news/growing-a-community-part-1/), [part 2](https://thecityofkings.com/news/growing-a-community-part-2/), [part 3](https://thecityofkings.com/news/growing-a-community-part-3/), [part 4](https://thecityofkings.com/news/growing-a-community-part-4/)) I’ve tried to cover a range of ideas without diving too deeply into any one thing specifically. In future articles I’ll dive deeper into specific ideas but I’d like to wrap things up with a few final thoughts.
+There are many ways to grow a community and in this guide (part 1, part 2, part 3, part 4) I’ve tried to cover a range of ideas without diving too deeply into any one thing specifically. In future articles I’ll dive deeper into specific ideas but I’d like to wrap things up with a few final thoughts.
 
 ### **Board Game Geek forum**
 
-Every game should have a listing on [Board Game Geek](https://boardgamegeek.com/) and this is something you can add yourself. Once created, you’ll gain access to a free forum area specifically for your game which is a great place to grow a community.
+Every game should have a listing on Board Game Geek and this is something you can add yourself. Once created, you’ll gain access to a free forum area specifically for your game which is a great place to grow a community.
 
 Whenever my games launch on BGG I immediately post 2 posts:
 
@@ -29,21 +29,21 @@ This is a great way to discuss your game, share your journey and let people foll
 
 I’ve not done this for my newer games as I’ve now moved to my own website as I am lucky enough to have a large community already, but I certainly found value in it for my first games.
 
-Here’s an example for [Rising Blades](https://boardgamegeek.com/thread/1815749/article/26426411#26426411), eventually the game was cancelled but it gives you a good example of how I ran my WIP posts.
+Here’s an example for Rising Blades, eventually the game was cancelled but it gives you a good example of how I ran my WIP posts.
 
 ### **Twitch**
 
-[Twitch](https://www.twitch.tv/franktries) is a live streaming platform and the best place for hosting live events. When I first worked on The City of Kings I would stream playtests and let people see the game being played.
+Twitch is a live streaming platform and the best place for hosting live events. When I first worked on The City of Kings I would stream playtests and let people see the game being played.
 
 I’ve also used Twitch over the years for design sessions, Q&As, and just for playing games while chatting with people.
 
-As an example, [GhostlyTuna](https://www.twitch.tv/ghostlytuna) is a Twitch streamer who spends 50% of their time streaming their day job (coding) and 50% of their time playing games. They’ve gain thousands of followers over the years just from streaming their daily work!
+As an example, GhostlyTuna is a Twitch streamer who spends 50% of their time streaming their day job (coding) and 50% of their time playing games. They’ve gain thousands of followers over the years just from streaming their daily work!
 
 If you are comfortable in front of a camera and have the ability to live stream, it can be a good way to build a community over time.
 
 ### **Discord**
 
-[Discord](https://discord.com/) is a social messaging platform where you can create your own server, set up chat rooms, and invite people to join in the discussion.
+Discord is a social messaging platform where you can create your own server, set up chat rooms, and invite people to join in the discussion.
 
 Primarily I view Discord as a good community strengthening platform as it encourages engagement between existing community members, but it can also bring new people in.
 
@@ -53,9 +53,9 @@ Having a Discord server setup for your brand can be very powerful, especially if
 
 People love to share their opinions and creating surveys can be a great way of inviting people into the discussion.
 
-Over the years I’ve created many surveys that have had thousands of people fill them out. This creates [passive followers](https://thecityofkings.com/news/growing-a-community-part-1/), but by providing an option at the end of each survey for people to join my newsletter it also creates [genuine followers](https://thecityofkings.com/news/growing-a-community-part-1/).
+Over the years I’ve created many surveys that have had thousands of people fill them out. This creates passive followers, but by providing an option at the end of each survey for people to join my newsletter it also creates genuine followers.
 
-I recommend using [Google Forms](http://forms.google.com/) as it is free and reliable but other platforms exist.
+I recommend using Google Forms as it is free and reliable but other platforms exist.
 
 The trick to a successful survey is to make sure you are asking important questions that will provide valuable results, and to share those results with people afterwards. A large amount of my early day followers came through discussing the results of surveys.
 
@@ -63,7 +63,7 @@ The trick to a successful survey is to make sure you are asking important questi
 
 Despite my dislike of growing communities through competitions I feel it is important to touch on them briefly.
 
-A competition is a powerful way of getting [incentivised followers](https://thecityofkings.com/news/growing-a-community-part-1/) and can result in many thousands of new people signing up to something. If you want to boost your numbers, then running a competition is a great way to do it.
+A competition is a powerful way of getting incentivised followers and can result in many thousands of new people signing up to something. If you want to boost your numbers, then running a competition is a great way to do it.
 
 Just remember most incentivised followers are not going to be invested in your brand and are unlikely to stick around.
 
@@ -75,7 +75,7 @@ The best time to start growing your community is today and if you have any other
 
 I hope this guide has helped you come up with some new ways to grow your community and proves to be a useful resource over time.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

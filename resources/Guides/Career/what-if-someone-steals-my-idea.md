@@ -1,12 +1,12 @@
 # What if Someone Steals My Idea?
 
-Source: https://bettermissions.acemlna.com/lt.php?s=4e19c639cd3fdb5a660d5ffda9189c07&i=515A583A16A8044
+Source: 
 
 # What if someone steals my idea?
 
-[![Chris Backe's avatar](https://substackcdn.com/image/fetch/$s_!AcVW!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F98eeac72-423b-4773-a21a-798773686c9f_3872x2592.jpeg)](https://substack.com/@entrogames)
+![Chris Backe's avatar](
 
-[Chris Backe](https://substack.com/@entrogames)
+Chris Backe
 
 Nov 14, 2019
 
@@ -28,7 +28,7 @@ Game design is a bit different. You can't copyright the mechanics or the theme y
 
 In short, there's no benefit to keeping your thing a secret — and it's really only by showing it off that you get feedback on a game to make it better.
 
-Many of my game ideas are out publicly on my site - seriously, [go check out my games right now](https://www.entrogames.com/games/). Game designers discuss their ideas openly with each other in any number of Facebook groups. You have to show your game at playtesting nights openly to get feedback to improve it.
+Many of my game ideas are out publicly on my site - seriously, go check out my games right now. Game designers discuss their ideas openly with each other in any number of Facebook groups. You have to show your game at playtesting nights openly to get feedback to improve it.
 
 Your idea stands on the shoulders of other games and ideas that have come before you. You've learned from them, and hope to add your own contributions to that corpus of awesome. Your vision, your experience, and your goals guide that idea to its completion. Two people can have similar ideas, but because of their vision and experience, will go two very different ways with their ideas.
 
@@ -38,7 +38,7 @@ Yes, there's a lot of 'what if...?' questions that can be asked.
 
 Yes, there is always a chance someone could see your idea, hear about you talk about it online, then tweak it and rush it to market before your game is ready. In over 4 years of active participation on Facebook groups and the rest of the industry, I have **never** heard a credible story of this happening.
 
-There was a [Kickstarter campaign in 2018](https://www.kotaku.com.au/2018/board-game-kickstarter-cancelled-after-plagiarism-scandal/) that plagiarized the rules for their game from other games. When people found out, they cancelled their pledge, and the publisher of the game that was plagiarized ultimately got the game cancelled.
+There was a Kickstarter campaign in 2018 that plagiarized the rules for their game from other games. When people found out, they cancelled their pledge, and the publisher of the game that was plagiarized ultimately got the game cancelled.
 
 There are reports of some very successful games being counterfeited and sold on Amazon... and there are also new technologies coming out to fight that. Until your game actually gets published and successful, that's not a concern to worry about.
 
@@ -46,9 +46,9 @@ Yes, someone might see the theme of, say, an alternate history of the Civil War,
 
 In short, other people don't need your ideas. They have plenty of their own.
 
-Want some more ideas? [Fellow game designer Daniel Solis wrote about stealing ideas back in 2013](http://danielsolisblog.blogspot.com/2013/what-if-someone-steals-your-idea.html). In that post, he links to five other pages worth of his ideas.
+Want some more ideas? Fellow game designer Daniel Solis wrote about stealing ideas back in 2013. In that post, he links to five other pages worth of his ideas.
 
-Want even more ideas? Check out [Board Game Geek's Works in Progress](https://boardgamegeek.com/forum/1530033/boardgamegeek/works-progress) forum. Designers from around the world freely share their concepts, sometimes to participate in contests, or other times to get feedback from a world of passionate gamers.
+Want even more ideas? Check out Board Game Geek's Works in Progress forum. Designers from around the world freely share their concepts, sometimes to participate in contests, or other times to get feedback from a world of passionate gamers.
 
 ## Oh, the legality!
 
@@ -56,13 +56,13 @@ A lot of these fears and questions come from folks familiar with horror stories 
 
 Part of this mindset comes from the legal reality surrounding board games. Legally speaking, the ideas presented in a games are hard to protect. You *can* copyright the rules of a game (to protect from plagiarism) and you *can* trademark a brand name. You *can't*, however, stop someone else from using the mechanics or theme in your game. Imagine a world where only one game was allowed to use something like 'draw two cards and keep one' or a theme about building a castle.
 
-*What about Magic the Gathering? Didn't they have a patent on tapping or something?* Yes, Wizards of the Coast had a patent on Magic the Gathering— you can see the patent itself at [http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=5,662,332.PN.&OS=PN/5,662,332&RS=PN/5,662,332](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=5%2C662%2C332.PN.&OS=PN%2F5%2C662%2C332&RS=PN%2F5%2C662%2C332).
+*What about Magic the Gathering? Didn't they have a patent on tapping or something?* Yes, Wizards of the Coast had a patent on Magic the Gathering— you can see the patent itself at 
 
 Their patent was on the game as a whole, not the **mechanic,** and other companies could still use the tapping mechanic. They just couldn't use the distinctive (and trademarked) tapping icon... So other companies gave it a different name — exhausting, using, sacrificing, whatever. They could still rotate a card 90 degrees to show it was used in some way. Was it worth it for Magic to spend all that time / effort? Probably not.
 
 ## Rip-offs and copycats
 
-*What keeps people from creating blatant rip-offs and copycats galore?*, you ask. Well, they're out there. You might have seen any of the games that tried to rip off Cards Against Humanity — [Kotaku did a post about some of them](https://www.kotaku.com.au/2016/cards-against-humanitys-never-ending-fight-against-copycats/)). They just copy the basic impress-the-judge mechanic and put their own sense of humor on it (you can't protect mechanics — and it's worth remembering that the main mechanic in Cards Against Humanity was used in an earlier game, Apples to Apples).
+*What keeps people from creating blatant rip-offs and copycats galore?*, you ask. Well, they're out there. You might have seen any of the games that tried to rip off Cards Against Humanity — Kotaku did a post about some of them). They just copy the basic impress-the-judge mechanic and put their own sense of humor on it (you can't protect mechanics — and it's worth remembering that the main mechanic in Cards Against Humanity was used in an earlier game, Apples to Apples).
 
 Some of those ripoffs come uncomfortably close to Cards Against Humanity's 'trade dress' (their distinctive look and feel), and could be confused for an official Cards Against Humanity product.
 
@@ -100,13 +100,13 @@ The worst option ***by far***is to keep it all to yourself. No one is an island
 
 ## Other smarter people saying the same thing years before I became a designer
 
-It's from 2014, but it's still relevant today — from the great James Mathe: <http://www.jamesmathe.com/dammit-jim-im-a-publisher-not-a-lawyer/>. A couple of salient quotes:
+It's from 2014, but it's still relevant today — from the great James Mathe: < A couple of salient quotes:
 
 > Once a game has been made public, nothing in the copyright law prevents others from developing another game based on similar principles. Copyright protects only the particular (and specific) manner of an author’s expression in literary, artistic, sculpture, or musical form. It is only a requirement that the work be artistic.
 
 ...
 
-You can not copyright the mechanics of a game, only the expression thereof. The manual can be copyright[ed] but if someone re-wrote your manual in their own words explaining how to play your game (not using any of your art of course), that is not copyright infringement and is perfectly legal. It's also from 2014, but again still relevant — from Gil Hova: <https://gil.hova.net/2014/27/some-thoughts-for-designers/>. A couple more quotes:
+You can not copyright the mechanics of a game, only the expression thereof. The manual can be copyright[ed] but if someone re-wrote your manual in their own words explaining how to play your game (not using any of your art of course), that is not copyright infringement and is perfectly legal. It's also from 2014, but again still relevant — from Gil Hova: < A couple more quotes:
 
 > Let’s say someone does steal your idea for a game. But it’s just an idea, and one night the thief has a great thought to make the game better. He spends six months working on it. Meanwhile, one day in the shower, you have an incredible idea of your own that will improve your game. You spend six months working on it.
 
@@ -120,7 +120,7 @@ I’ll close by saying what I always say: Before you worry about someone stealin
 
 That part is unbelievably hard, trust me.
 
-And finally, from 2020 and Jamey Stegmaier: <https://stonemaiergames.com/what-if-someone-steals-my-idea/> - quotes:
+And finally, from 2020 and Jamey Stegmaier: < - quotes:
 
 > Fourth: Your idea is brilliant, but it’s also worthless. Execution is everything. What would you rather read, an amazing novel, or a single sentence describing an idea for a novel? Or a novel, game, a song, a movie, etc? An idea only has value when it is executed, and it only has a lot of value when it’s executed well.
 
@@ -138,7 +138,7 @@ Entro Games is a reader-supported publication. To receive new posts and support 
 
 Subscribe
 
-[Share](https://entrogames.substack.com/p/what-if-someone-steals-my-idea?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+Share
 
 Share
 

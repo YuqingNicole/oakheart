@@ -1,6 +1,6 @@
 # Mastering the Art of Puzzle Making: Tips and Tricks from the Pros
 
-Source: https://www.gamefoundry.hk/mastering-the-art-of-puzzle-making-tips-and-tricks-from-the-pros
+Source: 
 
 # Mastering the Art of Puzzle Making: Tips and Tricks from the Pros
 

@@ -1,18 +1,18 @@
 # Pricing games with tariffs
 
-Source: https://thecityofkings.com/news/pricing-games-with-tariffs/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## Pricing games with tariffs
 
-8th April 2025 [0](https://thecityofkings.com/news/pricing-games-with-tariffs/#comments)
+8th April 2025 0
 
-![pricing-games-website.jpg](https://thecityofkings.com/wp-content/uploads/2025/04/pricing-games-website.jpg)
+!pricing-games-website.jpg
 
-Last week, new tariffs were announced that impacted the board game industry—and I shared a publishing lesson asking the question: [What can we do?](https://thecityofkings.com/news/an-industry-in-crisis-what-can-we-do/)
+Last week, new tariffs were announced that impacted the board game industry—and I shared a publishing lesson asking the question: What can we do?
 
-In that article, I suggested we needed to rethink how the financial model works between publishers, retailers, and distributors. We needed to change [how pricing is calculated](https://thecityofkings.com/news/how-to-price-your-game/) to accommodate these new tariffs.
+In that article, I suggested we needed to rethink how the financial model works between publishers, retailers, and distributors. We needed to change how pricing is calculated to accommodate these new tariffs.
 
 One of the ideas I proposed was the pass-through method—a straightforward way to share the burden of tariffs across the supply chain. It was well received by many, and rightly challenged by others, with questions like: does it place too much strain on retailers?
 
@@ -60,7 +60,7 @@ Assuming a $10 cost and 50% tariff ($5), passed evenly without multiplying.
 * Customer pays: $55.00
 * Publisher receives: $25.00
 
-This model keeps the consumer price lower—but reduces the number of units retailers and distributors can afford to buy for the same budget, ultimately hurting their bottom line. It makes them take more risk while giving them no extra reward. Jamey Stegmaier goes into [more detail about this here](https://stonemaiergames.com/the-math-of-tariffs/). A shop that once had 100 games in stock can now only have 90 games for the same investment, and are making no additional profit on those games to cover the 10 missing games.
+This model keeps the consumer price lower—but reduces the number of units retailers and distributors can afford to buy for the same budget, ultimately hurting their bottom line. It makes them take more risk while giving them no extra reward. Jamey Stegmaier goes into more detail about this here. A shop that once had 100 games in stock can now only have 90 games for the same investment, and are making no additional profit on those games to cover the 10 missing games.
 
 ## A Revised Pass-Through Model
 
@@ -100,7 +100,7 @@ For example:
 * Customer pays: $60.00
 * Publisher receives: $24.00
 
-You can see [more examples of this model here](https://docs.google.com/spreadsheets/d/1edga_RiIh-4lrRwWFbkeGM27GDQ9lmKF1C-wlcpYamQ/edit?usp=sharing).
+You can see more examples of this model here.
 
 In this model:
 
@@ -129,7 +129,7 @@ It’s not perfect—but it’s flexible, practical, and works within the system
 
 Let me know what you think.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

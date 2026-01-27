@@ -1,12 +1,12 @@
 # Setting your Kickstarter goal
 
-Source: https://thecityofkings.com/news/setting-your-kickstarter-goal/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Setting your Kickstarter goal
 
-15th March 2022 [2](https://thecityofkings.com/news/setting-your-kickstarter-goal/#comments)
+15th March 2022 2
 
 Setting your Kickstarter goal should be one of the easiest parts of the process. You should just be able to work out how much it is going to cost you to make and ship the game, add a cushion in case something goes wrong, and then use that number… Right?
 
@@ -95,9 +95,9 @@ This is the logic I used for my first campaign and it worked out very well for m
 
 However, while this approach increases your chances of succeeding, it also adds risk. To take this approach you must still work hard to market your campaign and do everything possible to make it succeed. You can’t just press launch and assume based on statistics everything will just happen. While the trends show similar numbers across different projects, it’s because each of these creators has put in the work.
 
-While [**failing isn’t the end**](https://thecityofkings.com/news/what-to-do-if-you-fail/) of the world and you can try again, you shouldn’t plan around this idea. If you start to fall below the funding trends after the first 72 hours, then you might be doing something wrong and you’ll need to evaluate how people are responding to your Kickstarter and fix it as soon as possible.
+While **failing isn’t the end** of the world and you can try again, you shouldn’t plan around this idea. If you start to fall below the funding trends after the first 72 hours, then you might be doing something wrong and you’ll need to evaluate how people are responding to your Kickstarter and fix it as soon as possible.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

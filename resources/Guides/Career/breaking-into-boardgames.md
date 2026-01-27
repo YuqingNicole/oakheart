@@ -1,5 +1,5 @@
 # Breaking Into Boardgames
 
-Source: http://breakingintoboardgames.libsyn.com/
+Source: 
 
-* [Download this Episode](https://traffic.libsyn.com/secure/breakingintoboardgames/BIBG_135.mp3)
+* Download this Episode

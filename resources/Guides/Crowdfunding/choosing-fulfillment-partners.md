@@ -1,16 +1,16 @@
 # Choosing fulfillment partners
 
-Source: https://thecityofkings.com/news/choosing-fulfillment-partners/
+Source: 
 
-[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+Publishing Lessons
 
 ## Choosing fulfillment partners
 
-4th April 2023 [0](https://thecityofkings.com/news/choosing-fulfillment-partners/#comments)
+4th April 2023 0
 
-![picking-box-website.jpg](https://thecityofkings.com/wp-content/uploads/2023/04/picking-box-website.jpg)
+!picking-box-website.jpg
 
-I have previously talked about my [approach to fulfillment](https://thecityofkings.com/news/my-current-approach-to-kickstarter-fulfillment/) but I wanted to share some additional thoughts on picking out fulfillment partners. There are plenty of different companies around the world who will ship your games from A to B, offering different services and prices, but picking the best one for you can be tricky.
+I have previously talked about my approach to fulfillment but I wanted to share some additional thoughts on picking out fulfillment partners. There are plenty of different companies around the world who will ship your games from A to B, offering different services and prices, but picking the best one for you can be tricky.
 
 Many people choose based on price alone but I’d recommend considering the following factors.
 
@@ -40,7 +40,7 @@ Over the years my shipments outside of Kickstarters have grown considerably and 
 
 If everything else comes back equal then price is a factor that you should consider, but when it comes to fulfillment cheaper prices often mean the service is lacking, or the package won’t be well protected. That’s not always the case, but go into the process with your eyes open so you don’t end up regretting your decision to save a few thousand dollars at your communities expense.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

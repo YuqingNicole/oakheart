@@ -1,6 +1,6 @@
 # What Does a Game Cost the Designer
 
-Source: http://danielsolisblog.blogspot.com/2016/06/designing-job-part-1-what-does-game.html
+Source: 
 
 ### Designing the Job – Part 1: What does a game cost the designer?
 
@@ -11,9 +11,9 @@ Source: http://danielsolisblog.blogspot.com/2016/06/designing-job-part-1-what-do
 * Email
 * Other Apps
 
-[June 08, 2016](https://danielsolisblog.blogspot.com/2016/06/designing-job-part-1-what-does-game.html "permanent link")
+[June 08, 2016]( "permanent link")
 
-[![belle](https://c1.staticflickr.com/9/8034/8029385264_a09d8d5625_z.jpg)](https://www.flickr.com/photos/daniel_solis/8029385264/in/dateposted-public/ "belle")
+![belle]( "belle")
   
   
 Most professional tabletop game designers I've met have a day job. This is just anecdotal, but it seems a full time game designer is VERY rare. I’m more of a pro today than I’ve ever been, but most of my household contribution still comes from an aggregate of freelance projects, Patreon, DriveThruCards, and SkillShare. Only a fraction of comes from traditional game design work. And *all of that* totaled together is still only about a third of what my wife makes at her normal day job.  
@@ -70,7 +70,7 @@ Now I have a ballpark goal of about $1060 to earn from my game. The more time or
   
 Any professionals out there break down their games like this? Is it too fiddly? Do you have another method of accounting? I'd love to hear it!
 
-[business](https://danielsolisblog.blogspot.com/search/label/business)
+business
 
 * Get link
 * Facebook

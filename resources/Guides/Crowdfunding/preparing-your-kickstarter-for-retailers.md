@@ -1,12 +1,12 @@
 # Preparing your Kickstarter for retailers
 
-Source: https://thecityofkings.com/news/preparing-your-kickstarter-for-retailers/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Preparing your Kickstarter for retailers
 
-7th April 2022 [6](https://thecityofkings.com/news/preparing-your-kickstarter-for-retailers/#comments)
+7th April 2022 6
 
 Over the years retailers have played a big part in my Kickstarters and I would always recommend that creators consider their retail options before they launch their campaign.
 
@@ -77,7 +77,7 @@ The same is true for your retail backers and I always recommend offering this gu
 
 ##### **A 50% discount off MSRP**
 
-If you’ve never worked with retail or distribution before then you should always be [setting your prices with the standard discounts in mind](https://thecityofkings.com/news/how-to-price-your-game/). As distributors will require a 60% discount, offering a 50% discount to a retailer should not be a problem.
+If you’ve never worked with retail or distribution before then you should always be setting your prices with the standard discounts in mind. As distributors will require a 60% discount, offering a 50% discount to a retailer should not be a problem.
 
 The only time this can be challenging is if you have exclusive content that will not be available after the Kickstarter, but in those cases you should do the calculations on what is viable.
 
@@ -127,9 +127,9 @@ Let’s wrap this all up with a few extra things that I believe are important fo
 * Allow retailers to buy multiple bundles but set a limit. I typically allow up to 24 of each item, so bundles of 4 have a limit of 6 and bundles of 6 have a limit of 4. This allows larger retailers to buy more, but avoids heavy discounters having too many copies.
 * Nothing hurts a Kickstarter more than a retailer advertising your game for less than you are selling it on your Kickstarter. I have a strict rule of no online pre-orders during my Kickstarters and will cancel any orders from people I see doing this.
 * Reduce the amount of emails needed by having a pre-typed response for retailers. Include a link to your offering and tell them what you need if they want to continue (deposit, tax information, proof of business if you need it, and so on).
-* Once your Kickstarter is live, you should post your retail offering to the [Retailers who back Kickstarters Facebook group](https://www.facebook.com/groups/gameretailers).
+* Once your Kickstarter is live, you should post your retail offering to the Retailers who back Kickstarters Facebook group.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 

@@ -1,14 +1,14 @@
 # Finding creators for Kickstarter preview videos
 
-Source: https://thecityofkings.com/news/finding-creators-for-kickstarter-preview-videos/
+Source: 
 
-[Crowdfunding](https://thecityofkings.com/news/category/crowdfunding/)[Publishing Lessons](https://thecityofkings.com/news/category/publishing-lessons/)
+CrowdfundingPublishing Lessons
 
 ## Finding creators for Kickstarter preview videos
 
-5th July 2022 [2](https://thecityofkings.com/news/finding-creators-for-kickstarter-preview-videos/#comments)
+5th July 2022 2
 
-![website.jpg](https://thecityofkings.com/wp-content/uploads/2022/07/website.jpg)
+!website.jpg
 
 People often ask me for recommendations about which content creators they should work with for their Kickstarter, to which I always answer, it depends!
 
@@ -48,21 +48,21 @@ Try to find games that are similar to yours, projects that share an audience, an
 
 Here are a few successful first-time projects to get you started:
 
-* [CoraQuest](https://www.kickstarter.com/projects/cabbagedan/coraquest/description)
-* [Forests of Pangaia](https://www.kickstarter.com/projects/pangaia/forests-of-pangaia/description)
-* [Earthborne Rangers](https://www.kickstarter.com/projects/earthbornegames/earthborne-rangers/description)
-* [Bark Avenue](https://www.kickstarter.com/projects/terredicegames/bark-avenue/description)
-* [Dog Park](https://www.kickstarter.com/projects/birdwoodgames/dog-park-board-game/description)
-* [Damnation: The Gothic Game](https://www.kickstarter.com/projects/blacklettergames/damnation-the-gothic-game-0/description)
-* [Steam Up: A Feast of Dim Sum](https://www.kickstarter.com/projects/steam-up/steam-up-a-feast-of-dim-sum/description)
-* [Floating Floors](https://www.kickstarter.com/projects/gufstudios/floating-floors-0/description)
-* [Scrumpy: Card Cider](https://www.kickstarter.com/projects/invinciblegames/scrumpy-card-cider/description)
+* CoraQuest
+* Forests of Pangaia
+* Earthborne Rangers
+* Bark Avenue
+* Dog Park
+* Damnation: The Gothic Game
+* Steam Up: A Feast of Dim Sum
+* Floating Floors
+* Scrumpy: Card Cider
 
 Once you have selected some creators to work with, send them an email and see whether they are interested in working with you.
 
 Try to include all the important details in the email, including timelines, a short description of the game, and what exactly you are looking for. First impressions matter and these emails may lead to a longlasting relationship for years to come.
 
-![](https://secure.gravatar.com/avatar/448824ab373b5c667e17d39d2049a7b7?s=280&d=mm&r=g)
+![](
 
 #### Frank West
 
