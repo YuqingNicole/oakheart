@@ -1,65 +1,58 @@
-import React from 'react';
-import styled, { css } from 'styled-components';
-import { CardProps } from '../../types';
+import * as React from "react";
 
-const getPaddingStyles = (padding: 'sm' | 'md' | 'lg') => {
-  const paddings = {
-    sm: css`padding: var(--space-sm);`,
-    md: css`padding: var(--space-md);`,
-    lg: css`padding: var(--space-lg);`,
-  };
-  return paddings[padding];
-};
+import { cn } from "@/lib/utils";
 
-const StyledCard = styled.div<{ $hover: boolean; $padding: 'sm' | 'md' | 'lg' }>`
-  background: white;
-  border-radius: 16px;
-  border: 1px solid var(--mist);
-  position: relative;
-  overflow: hidden;
-  transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+interface CardProps extends React.HTMLAttributes<HTMLDivElement> {
+  hover?: boolean;
+  as?: React.ElementType;
+}
 
-  ${({ $padding }) => getPaddingStyles($padding)}
+const Card = React.forwardRef<HTMLDivElement, CardProps>(
+  ({ className, hover, as: Component = "div", ...props }, ref) => (
+    <Component
+      ref={ref}
+      className={cn(
+        "rounded-lg border bg-card text-card-foreground shadow-sm",
+        hover && "transition-shadow hover:shadow-md",
+        className
+      )}
+      {...props}
+    />
+  )
+);
+Card.displayName = "Card";
 
-  ${({ $hover }) =>
-    $hover &&
-    css`
-      &::before {
-        content: '';
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        height: 4px;
-        background: var(--gold-warm);
-        transform: scaleX(0);
-        transform-origin: left;
-        transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
-      }
+const CardHeader = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HTMLDivElement>>(
+  ({ className, ...props }, ref) => (
+    <div ref={ref} className={cn("flex flex-col space-y-1.5 p-6", className)} {...props} />
+  ),
+);
+CardHeader.displayName = "CardHeader";
 
-      &:hover {
-        transform: translateY(-8px);
-        box-shadow: 0 20px 60px rgba(27, 67, 50, 0.12);
+const CardTitle = React.forwardRef<HTMLParagraphElement, React.HTMLAttributes<HTMLHeadingElement>>(
+  ({ className, ...props }, ref) => (
+    <h3 ref={ref} className={cn("text-2xl font-semibold leading-none tracking-tight", className)} {...props} />
+  ),
+);
+CardTitle.displayName = "CardTitle";
 
-        &::before {
-          transform: scaleX(1);
-        }
-      }
-    `}
-`;
+const CardDescription = React.forwardRef<HTMLParagraphElement, React.HTMLAttributes<HTMLParagraphElement>>(
+  ({ className, ...props }, ref) => (
+    <p ref={ref} className={cn("text-sm text-muted-foreground", className)} {...props} />
+  ),
+);
+CardDescription.displayName = "CardDescription";
 
-export const Card: React.FC<CardProps & { as?: React.ElementType }> = ({
-  hover = false,
-  padding = 'lg',
-  children,
-  className,
-  as,
-}) => {
-  return (
-    <StyledCard $hover={hover} $padding={padding} className={className} as={as}>
-      {children}
-    </StyledCard>
-  );
-};
+const CardContent = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HTMLDivElement>>(
+  ({ className, ...props }, ref) => <div ref={ref} className={cn("p-6 pt-0", className)} {...props} />,
+);
+CardContent.displayName = "CardContent";
 
-export default Card;
+const CardFooter = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HTMLDivElement>>(
+  ({ className, ...props }, ref) => (
+    <div ref={ref} className={cn("flex items-center p-6 pt-0", className)} {...props} />
+  ),
+);
+CardFooter.displayName = "CardFooter";
+
+export { Card, CardHeader, CardFooter, CardTitle, CardDescription, CardContent };

@@ -1,148 +1,67 @@
-import React from 'react';
-import styled, { css } from 'styled-components';
-import { ButtonProps, ButtonVariant, ButtonSize } from '../../types';
+import * as React from "react";
+import { Slot } from "@radix-ui/react-slot";
+import { cva, type VariantProps } from "class-variance-authority";
 
-const getVariantStyles = (variant: ButtonVariant) => {
-  const variants = {
-    primary: css`
-      background: var(--oak-deep);
-      color: var(--cream);
-      &:hover {
-        background: var(--oak-forest);
-        transform: translateY(-2px);
-        box-shadow: 0 8px 24px rgba(27, 67, 50, 0.25);
-      }
-    `,
-    secondary: css`
-      background: transparent;
-      color: var(--oak-deep);
-      border: 2px solid var(--oak-deep);
-      &:hover {
-        background: var(--oak-deep);
-        color: var(--cream);
-      }
-    `,
-    gold: css`
-      background: var(--gold-warm);
-      color: var(--charcoal);
-      &:hover {
-        background: var(--gold-light);
-        transform: translateY(-2px);
-        box-shadow: 0 8px 24px rgba(212, 163, 115, 0.35);
-      }
-    `,
-    ghost: css`
-      background: transparent;
-      color: var(--cream);
-      border: 2px solid rgba(255, 255, 255, 0.3);
-      &:hover {
-        background: rgba(255, 255, 255, 0.1);
-        border-color: rgba(255, 255, 255, 0.5);
-      }
-    `,
-  };
-  return variants[variant];
-};
+import { cn } from "@/lib/utils";
 
-const getSizeStyles = (size: ButtonSize) => {
-  const sizes = {
-    sm: css`
-      padding: 0.5rem 1rem;
-      font-size: 0.85rem;
-    `,
-    md: css`
-      padding: 1rem 2rem;
-      font-size: 0.9rem;
-    `,
-    lg: css`
-      padding: 1.25rem 2.5rem;
-      font-size: 1rem;
-    `,
-  };
-  return sizes[size];
-};
+const buttonVariants = cva(
+  "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 font-body",
+  {
+    variants: {
+      variant: {
+        default: "bg-primary text-primary-foreground hover:bg-primary/90",
+        primary: "bg-primary text-primary-foreground hover:bg-primary/90",
+        destructive: "bg-destructive text-destructive-foreground hover:bg-destructive/90",
+        outline: "border border-input bg-background hover:bg-accent hover:text-accent-foreground",
+        secondary: "bg-secondary text-secondary-foreground hover:bg-secondary/80",
+        ghost: "hover:bg-accent hover:text-accent-foreground",
+        link: "text-primary underline-offset-4 hover:underline",
+        // Oakheart custom variants
+        hero: "bg-primary text-primary-foreground hover:bg-primary/90 shadow-lg hover:shadow-xl hover:-translate-y-0.5 uppercase tracking-widest text-xs font-semibold",
+        gold: "bg-aged-brass text-primary-foreground hover:bg-aged-brass/90 shadow-md hover:shadow-lg",
+        "outline-gold": "border-2 border-aged-brass bg-transparent text-aged-brass hover:bg-aged-brass hover:text-primary-foreground",
+      },
+      size: {
+        default: "h-10 px-4 py-2",
+        sm: "h-9 rounded-md px-3",
+        lg: "h-12 rounded-md px-10 text-base",
+        xl: "h-14 rounded-md px-12 text-base",
+        icon: "h-10 w-10",
+      },
+    },
+    defaultVariants: {
+      variant: "default",
+      size: "default",
+    },
+  },
+);
 
-const baseStyles = css<{
-  $variant: ButtonVariant;
-  $size: ButtonSize;
-  $fullWidth: boolean;
-}>`
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--space-xs);
-  font-family: var(--font-body);
-  font-weight: 600;
-  letter-spacing: 0.03em;
-  text-decoration: none;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-  width: ${({ $fullWidth }) => ($fullWidth ? '100%' : 'auto')};
+export interface ButtonProps
+  extends React.ButtonHTMLAttributes<HTMLButtonElement>,
+    VariantProps<typeof buttonVariants> {
+  asChild?: boolean;
+  href?: string;
+  fullWidth?: boolean;
+}
 
-  ${({ $variant }) => getVariantStyles($variant)}
-  ${({ $size }) => getSizeStyles($size)}
+const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
+  ({ className, variant, size, asChild = false, href, fullWidth, ...props }, ref) => {
+    const classes = cn(buttonVariants({ variant, size, className }), fullWidth && "w-full");
+    if (href) {
+      return (
+        <a
+          href={href}
+          className={classes}
+          {...(props as React.AnchorHTMLAttributes<HTMLAnchorElement>)}
+        >
+          {props.children}
+        </a>
+      );
+    }
+    const Comp = asChild ? Slot : "button";
+    return <Comp className={classes} ref={ref} {...props} />;
+  },
+);
+Button.displayName = "Button";
 
-  &:disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
-    transform: none;
-  }
-`;
-
-const StyledButton = styled.button<{
-  $variant: ButtonVariant;
-  $size: ButtonSize;
-  $fullWidth: boolean;
-}>`
-  ${baseStyles}
-`;
-
-const StyledLink = styled.a<{
-  $variant: ButtonVariant;
-  $size: ButtonSize;
-  $fullWidth: boolean;
-}>`
-  ${baseStyles}
-`;
-
-export const Button: React.FC<ButtonProps> = ({
-  variant = 'primary',
-  size = 'md',
-  href,
-  onClick,
-  disabled = false,
-  fullWidth = false,
-  children,
-  className,
-}) => {
-  if (href) {
-    return (
-      <StyledLink
-        href={href}
-        className={className}
-        $variant={variant}
-        $size={size}
-        $fullWidth={fullWidth}
-      >
-        {children}
-      </StyledLink>
-    );
-  }
-
-  return (
-    <StyledButton
-      onClick={onClick}
-      disabled={disabled}
-      className={className}
-      $variant={variant}
-      $size={size}
-      $fullWidth={fullWidth}
-    >
-      {children}
-    </StyledButton>
-  );
-};
-
-export default Button;
+export { Button, buttonVariants };
