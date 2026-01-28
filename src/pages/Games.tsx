@@ -1,7 +1,7 @@
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { motion } from "framer-motion";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button";
 import gameComponents1 from "@/assets/game-components-1.jpg";
 import gameComponents2 from "@/assets/game-components-2.jpg";
 import gameComponents3 from "@/assets/game-components-3.jpg";
@@ -91,7 +91,7 @@ const Games = () => {
                   <div className="bg-card rounded-lg overflow-hidden border border-border shadow-sm hover:shadow-lg transition-all">
                     <div className="aspect-[4/3] overflow-hidden relative">
                       <img
-                        src={game.image}
+                        src={game.image.src}
                         alt={game.title}
                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                       />

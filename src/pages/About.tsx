@@ -93,7 +93,7 @@ const About = () => {
                 className="relative"
               >
                 <img
-                  src={gameComponents1}
+                  src={gameComponents1.src}
                   alt="Oakheart manufacturing facility"
                   className="rounded-lg shadow-xl"
                 />

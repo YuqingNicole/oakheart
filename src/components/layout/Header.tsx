@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button";
 import logo from "@/assets/oakheart-logo.png";
 
 const navItems = [
@@ -22,7 +22,7 @@ export function Header() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <a href="/" className="flex items-center gap-3">
-            <img src={logo} alt="Oakheart Games Manufacturing" className="h-12 w-auto" />
+            <img src={logo.src} alt="Oakheart Games Manufacturing" className="h-12 w-auto" />
           </a>
 
           {/* Desktop Navigation */}

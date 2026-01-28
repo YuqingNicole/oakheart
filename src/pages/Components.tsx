@@ -2,7 +2,7 @@ import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { motion } from "framer-motion";
 import { useState } from "react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button";
 import gameComponents1 from "@/assets/game-components-1.jpg";
 import gameComponents2 from "@/assets/game-components-2.jpg";
 import gameComponents3 from "@/assets/game-components-3.jpg";
@@ -131,7 +131,7 @@ const Components = () => {
                   <div className="bg-card rounded-lg overflow-hidden border border-border shadow-sm hover:shadow-md transition-shadow">
                     <div className="aspect-[4/3] overflow-hidden">
                       <img
-                        src={component.image}
+                        src={component.image.src}
                         alt={component.name}
                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                       />

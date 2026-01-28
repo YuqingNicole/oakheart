@@ -55,7 +55,7 @@ export function Showcase() {
             >
               <div className="relative overflow-hidden rounded-lg shadow-soft mb-6">
                 <img
-                  src={item.image}
+                  src={item.image.src}
                   alt={item.title}
                   className="w-full aspect-square object-cover transition-transform duration-500 group-hover:scale-105"
                 />

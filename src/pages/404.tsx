@@ -1,14 +1,14 @@
-import { useLocation } from "react-router-dom";
+import { useRouter } from "next/router";
 import { useEffect } from "react";
-import { Button } from "@/components/ui/button";
-import { Link } from "react-router-dom";
+import { Button } from "@/components/ui/Button";
+import Link from "next/link";
 
 const NotFound = () => {
-  const location = useLocation();
+  const router = useRouter();
 
   useEffect(() => {
-    console.error("404 Error: User attempted to access non-existent route:", location.pathname);
-  }, [location.pathname]);
+    console.error("404 Error: User attempted to access non-existent route:", router.asPath);
+  }, [router.asPath]);
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-background">
@@ -18,7 +18,7 @@ const NotFound = () => {
           Oops! Page not found
         </p>
         <Button asChild variant="hero">
-          <Link to="/">Return to Home</Link>
+          <Link href="/">Return to Home</Link>
         </Button>
       </div>
     </div>

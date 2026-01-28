@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button";
 import heroBg from "@/assets/hero-bg.jpg";
 
 export function Hero() {
@@ -8,7 +8,7 @@ export function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img
-          src={heroBg}
+          src={heroBg.src}
           alt="Board game components"
           className="w-full h-full object-cover"
         />

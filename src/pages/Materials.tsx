@@ -2,7 +2,7 @@ import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { motion } from "framer-motion";
 import { useState } from "react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button";
 import { ZoomIn, RotateCw, Maximize2, X } from "lucide-react";
 import gameComponents1 from "@/assets/game-components-1.jpg";
 import gameComponents2 from "@/assets/game-components-2.jpg";
@@ -186,7 +186,7 @@ const Materials = () => {
                   <div className="bg-card rounded-lg overflow-hidden border border-border hover:border-aged-brass/50 transition-all hover:shadow-lg">
                     <div className="aspect-square overflow-hidden relative">
                       <img
-                        src={material.image}
+                        src={material.image.src}
                         alt={material.name}
                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                       />
@@ -274,7 +274,7 @@ const Materials = () => {
                 {/* Image Viewer */}
                 <div className="relative bg-muted aspect-square md:aspect-auto flex items-center justify-center overflow-hidden">
                   <img
-                    src={selectedMaterial.image}
+                    src={selectedMaterial.image.src}
                     alt={selectedMaterial.name}
                     className="w-full h-full object-cover transition-transform duration-300"
                     style={{
