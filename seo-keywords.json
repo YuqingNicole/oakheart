@@ -1,0 +1,742 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2026-01-30",
+    "description": "Oakheart SEO关键词策略 - 桌游创作者内容营销平台",
+    "targetAudience": ["新手设计师", "进阶设计师", "独立出版商", "众筹创作者"]
+  },
+  "primaryKeywords": {
+    "manufacturing": [
+      {
+        "keyword": "board game manufacturing",
+        "language": "en",
+        "searchVolume": 5000,
+        "difficulty": "medium",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "targetPage": "/",
+        "priority": "high"
+      },
+      {
+        "keyword": "custom board game printing",
+        "language": "en",
+        "searchVolume": 3000,
+        "difficulty": "medium",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "targetPage": "/quote",
+        "priority": "high"
+      },
+      {
+        "keyword": "tabletop game production",
+        "language": "en",
+        "searchVolume": 2000,
+        "difficulty": "medium",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "targetPage": "/process",
+        "priority": "high"
+      },
+      {
+        "keyword": "board game manufacturer",
+        "language": "en",
+        "searchVolume": 4000,
+        "difficulty": "medium",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "targetPage": "/about",
+        "priority": "high"
+      }
+    ],
+    "design": [
+      {
+        "keyword": "board game design",
+        "language": "en",
+        "searchVolume": 5000,
+        "difficulty": "medium",
+        "intent": "informational",
+        "buyerStage": "awareness",
+        "targetPage": "/guides/board-game-design-101",
+        "priority": "high"
+      },
+      {
+        "keyword": "桌游设计",
+        "language": "zh",
+        "searchVolume": 1000,
+        "difficulty": "low",
+        "intent": "informational",
+        "buyerStage": "awareness",
+        "targetPage": "/guides/board-game-design-101",
+        "priority": "medium"
+      },
+      {
+        "keyword": "如何设计桌游",
+        "language": "zh",
+        "searchVolume": 800,
+        "difficulty": "low",
+        "intent": "informational",
+        "buyerStage": "awareness",
+        "targetPage": "/guides/board-game-design-101",
+        "priority": "medium"
+      }
+    ],
+    "crowdfunding": [
+      {
+        "keyword": "kickstarter board game",
+        "language": "en",
+        "searchVolume": 3000,
+        "difficulty": "medium",
+        "intent": "informational",
+        "buyerStage": "consideration",
+        "targetPage": "/guides/kickstarter-masterclass",
+        "priority": "high"
+      },
+      {
+        "keyword": "board game crowdfunding",
+        "language": "en",
+        "searchVolume": 2000,
+        "difficulty": "medium",
+        "intent": "informational",
+        "buyerStage": "consideration",
+        "targetPage": "/guides/kickstarter-masterclass",
+        "priority": "high"
+      },
+      {
+        "keyword": "kickstarter众筹",
+        "language": "zh",
+        "searchVolume": 500,
+        "difficulty": "low",
+        "intent": "informational",
+        "buyerStage": "consideration",
+        "targetPage": "/guides/kickstarter-masterclass",
+        "priority": "medium"
+      },
+      {
+        "keyword": "游戏众筹",
+        "language": "zh",
+        "searchVolume": 600,
+        "difficulty": "low",
+        "intent": "informational",
+        "buyerStage": "consideration",
+        "targetPage": "/guides/kickstarter-masterclass",
+        "priority": "medium"
+      }
+    ],
+    "publishers": [
+      {
+        "keyword": "board game publishers",
+        "language": "en",
+        "searchVolume": 2000,
+        "difficulty": "low",
+        "intent": "informational",
+        "buyerStage": "decision",
+        "targetPage": "/publishers",
+        "priority": "high"
+      },
+      {
+        "keyword": "board game publisher",
+        "language": "en",
+        "searchVolume": 2000,
+        "difficulty": "low",
+        "intent": "informational",
+        "buyerStage": "decision",
+        "targetPage": "/publishers",
+        "priority": "high"
+      },
+      {
+        "keyword": "桌游出版商",
+        "language": "zh",
+        "searchVolume": 400,
+        "difficulty": "low",
+        "intent": "informational",
+        "buyerStage": "decision",
+        "targetPage": "/publishers",
+        "priority": "medium"
+      },
+      {
+        "keyword": "投稿出版商",
+        "language": "zh",
+        "searchVolume": 300,
+        "difficulty": "low",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "targetPage": "/publishers",
+        "priority": "medium"
+      }
+    ]
+  },
+  "secondaryKeywords": {
+    "niche": [
+      {
+        "keyword": "eco-friendly board game manufacturing",
+        "language": "en",
+        "searchVolume": 500,
+        "difficulty": "low",
+        "intent": "commercial",
+        "buyerStage": "consideration",
+        "targetPage": "/features/eco-friendly",
+        "priority": "medium",
+        "differentiator": true
+      },
+      {
+        "keyword": "small batch board game printing",
+        "language": "en",
+        "searchVolume": 800,
+        "difficulty": "low",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "targetPage": "/quote",
+        "priority": "medium"
+      },
+      {
+        "keyword": "card game manufacturer",
+        "language": "en",
+        "searchVolume": 1500,
+        "difficulty": "medium",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "targetPage": "/components/cards",
+        "priority": "medium"
+      },
+      {
+        "keyword": "board game prototype",
+        "language": "en",
+        "searchVolume": 1500,
+        "difficulty": "low",
+        "intent": "informational",
+        "buyerStage": "awareness",
+        "targetPage": "/guides/prototyping-guide",
+        "priority": "medium"
+      }
+    ],
+    "components": [
+      {
+        "keyword": "custom game cards",
+        "language": "en",
+        "searchVolume": 1000,
+        "difficulty": "low",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "targetPage": "/components/cards",
+        "priority": "medium"
+      },
+      {
+        "keyword": "custom game boards",
+        "language": "en",
+        "searchVolume": 800,
+        "difficulty": "low",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "targetPage": "/components/boards",
+        "priority": "medium"
+      },
+      {
+        "keyword": "custom game tokens",
+        "language": "en",
+        "searchVolume": 600,
+        "difficulty": "low",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "targetPage": "/components/tokens",
+        "priority": "low"
+      },
+      {
+        "keyword": "custom game dice",
+        "language": "en",
+        "searchVolume": 700,
+        "difficulty": "low",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "targetPage": "/components/dice",
+        "priority": "low"
+      }
+    ]
+  },
+  "longTailKeywords": {
+    "howTo": [
+      {
+        "keyword": "how to make a board game",
+        "language": "en",
+        "searchVolume": 8000,
+        "difficulty": "high",
+        "intent": "informational",
+        "buyerStage": "awareness",
+        "targetPage": "/guides/board-game-design-101",
+        "priority": "high"
+      },
+      {
+        "keyword": "how to manufacture a board game",
+        "language": "en",
+        "searchVolume": 1000,
+        "difficulty": "medium",
+        "intent": "informational",
+        "buyerStage": "consideration",
+        "targetPage": "/guides/manufacturing-101",
+        "priority": "high"
+      },
+      {
+        "keyword": "how to publish a board game",
+        "language": "en",
+        "searchVolume": 2000,
+        "difficulty": "medium",
+        "intent": "informational",
+        "buyerStage": "consideration",
+        "targetPage": "/guides/publishing-101",
+        "priority": "high"
+      },
+      {
+        "keyword": "how to prototype a board game",
+        "language": "en",
+        "searchVolume": 1200,
+        "difficulty": "low",
+        "intent": "informational",
+        "buyerStage": "awareness",
+        "targetPage": "/guides/prototyping-guide",
+        "priority": "medium"
+      }
+    ],
+    "tools": [
+      {
+        "keyword": "board game design software",
+        "language": "en",
+        "searchVolume": 2000,
+        "difficulty": "medium",
+        "intent": "informational",
+        "buyerStage": "awareness",
+        "targetPage": "/guides/design-tools",
+        "priority": "high",
+        "contentGap": true
+      },
+      {
+        "keyword": "tabletop simulator tutorial",
+        "language": "en",
+        "searchVolume": 2000,
+        "difficulty": "medium",
+        "intent": "informational",
+        "buyerStage": "implementation",
+        "targetPage": "/guides/tabletop-simulator",
+        "priority": "high",
+        "contentGap": true
+      },
+      {
+        "keyword": "board game pricing calculator",
+        "language": "en",
+        "searchVolume": 800,
+        "difficulty": "low",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "targetPage": "/cost-calculator",
+        "priority": "high"
+      },
+      {
+        "keyword": "board game production cost",
+        "language": "en",
+        "searchVolume": 1500,
+        "difficulty": "medium",
+        "intent": "commercial",
+        "buyerStage": "consideration",
+        "targetPage": "/cost-calculator",
+        "priority": "high"
+      }
+    ],
+    "comparison": [
+      {
+        "keyword": "kickstarter vs traditional publishing",
+        "language": "en",
+        "searchVolume": 500,
+        "difficulty": "low",
+        "intent": "informational",
+        "buyerStage": "consideration",
+        "targetPage": "/guides/publishing-comparison",
+        "priority": "medium",
+        "contentGap": true
+      },
+      {
+        "keyword": "self publish vs publisher board game",
+        "language": "en",
+        "searchVolume": 600,
+        "difficulty": "low",
+        "intent": "informational",
+        "buyerStage": "consideration",
+        "targetPage": "/guides/self-publish-or-not",
+        "priority": "medium"
+      }
+    ],
+    "fulfillment": [
+      {
+        "keyword": "kickstarter board game fulfillment",
+        "language": "en",
+        "searchVolume": 800,
+        "difficulty": "medium",
+        "intent": "informational",
+        "buyerStage": "consideration",
+        "targetPage": "/guides/kickstarter-fulfillment",
+        "priority": "medium"
+      },
+      {
+        "keyword": "board game shipping cost",
+        "language": "en",
+        "searchVolume": 1000,
+        "difficulty": "low",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "targetPage": "/guides/shipping-guide",
+        "priority": "medium"
+      }
+    ]
+  },
+  "programmaticSeoKeywords": {
+    "publisherPages": {
+      "pattern": "{publisher-name} + [modifier]",
+      "modifiers": [
+        "submissions",
+        "contact",
+        "board game publisher",
+        "games",
+        "submission guidelines"
+      ],
+      "examples": [
+        {
+          "keyword": "25th century games submissions",
+          "searchVolume": 50,
+          "difficulty": "low",
+          "intent": "commercial",
+          "targetPage": "/publishers/25th-century-games"
+        },
+        {
+          "keyword": "alley cat games contact",
+          "searchVolume": 30,
+          "difficulty": "low",
+          "intent": "commercial",
+          "targetPage": "/publishers/alley-cat-games"
+        }
+      ],
+      "totalPages": 345,
+      "estimatedTraffic": "5000-10000/month"
+    },
+    "countryPages": {
+      "pattern": "{country} board game publishers",
+      "countries": [
+        "usa",
+        "uk",
+        "germany",
+        "france",
+        "canada",
+        "australia",
+        "japan",
+        "china"
+      ],
+      "examples": [
+        {
+          "keyword": "usa board game publishers",
+          "searchVolume": 500,
+          "difficulty": "low",
+          "intent": "informational",
+          "targetPage": "/publishers/country/usa"
+        },
+        {
+          "keyword": "german board game publishers",
+          "searchVolume": 300,
+          "difficulty": "low",
+          "intent": "informational",
+          "targetPage": "/publishers/country/germany"
+        }
+      ],
+      "totalPages": 41,
+      "estimatedTraffic": "2000-5000/month"
+    },
+    "typePages": {
+      "pattern": "{game-type} publishers",
+      "gameTypes": [
+        "euro games",
+        "family games",
+        "party games",
+        "strategy games",
+        "card games",
+        "cooperative games"
+      ],
+      "examples": [
+        {
+          "keyword": "euro game publishers",
+          "searchVolume": 400,
+          "difficulty": "low",
+          "intent": "informational",
+          "targetPage": "/publishers/type/euro-games"
+        },
+        {
+          "keyword": "family board game publishers",
+          "searchVolume": 300,
+          "difficulty": "low",
+          "intent": "informational",
+          "targetPage": "/publishers/type/family-games"
+        }
+      ],
+      "totalPages": 21,
+      "estimatedTraffic": "1000-3000/month"
+    },
+    "filterPages": [
+      {
+        "keyword": "board game publishers accepting submissions",
+        "searchVolume": 800,
+        "difficulty": "low",
+        "intent": "commercial",
+        "targetPage": "/publishers/accepting-submissions",
+        "priority": "high"
+      }
+    ]
+  },
+  "contentPillars": {
+    "pillar1": {
+      "name": "Game Design 101",
+      "hubPage": "/guides/board-game-design-101",
+      "buyerStage": "awareness",
+      "primaryKeywords": [
+        "board game design",
+        "桌游设计",
+        "how to design a board game"
+      ],
+      "spokePages": [
+        {
+          "page": "/guides/game-design-elements",
+          "keywords": ["game design elements", "good game design"]
+        },
+        {
+          "page": "/guides/designer-common-mistakes",
+          "keywords": ["board game design mistakes", "game design errors"]
+        },
+        {
+          "page": "/guides/prototyping-guide",
+          "keywords": ["board game prototype", "low cost prototyping"]
+        },
+        {
+          "page": "/guides/playtesting-guide",
+          "keywords": ["board game playtesting", "game testing"]
+        }
+      ]
+    },
+    "pillar2": {
+      "name": "Kickstarter Masterclass",
+      "hubPage": "/guides/kickstarter-masterclass",
+      "buyerStage": "consideration",
+      "primaryKeywords": [
+        "kickstarter board game",
+        "board game crowdfunding",
+        "桌游众筹攻略"
+      ],
+      "spokePages": [
+        {
+          "page": "/guides/kickstarter-red-flags",
+          "keywords": ["kickstarter red flags", "crowdfunding mistakes"]
+        },
+        {
+          "page": "/guides/kickstarter-page-wireframe",
+          "keywords": ["kickstarter page design", "crowdfunding page"]
+        },
+        {
+          "page": "/guides/building-community",
+          "keywords": ["kickstarter community", "crowdfunding audience"]
+        },
+        {
+          "page": "/guides/crowdfunding-vat",
+          "keywords": ["vat kickstarter", "crowdfunding tax"]
+        }
+      ]
+    },
+    "pillar3": {
+      "name": "Publisher Database",
+      "hubPage": "/publishers",
+      "buyerStage": "decision",
+      "primaryKeywords": [
+        "board game publishers",
+        "game publisher submissions",
+        "桌游出版商"
+      ],
+      "spokePages": [
+        {
+          "page": "/publishers/country/*",
+          "keywords": ["country-specific publisher searches"]
+        },
+        {
+          "page": "/publishers/type/*",
+          "keywords": ["game-type-specific publisher searches"]
+        },
+        {
+          "page": "/publishers/{publisher-slug}",
+          "keywords": ["individual publisher searches"]
+        }
+      ]
+    },
+    "pillar4": {
+      "name": "Industry Insights",
+      "hubPage": "/industry",
+      "buyerStage": "thought-leadership",
+      "primaryKeywords": [
+        "board game industry",
+        "game publishing trends",
+        "桌游行业"
+      ],
+      "spokePages": [
+        {
+          "page": "/industry/tariff-impact",
+          "keywords": ["board game tariffs", "game import tax"]
+        },
+        {
+          "page": "/industry/supply-chain",
+          "keywords": ["board game supply chain", "game manufacturing"]
+        },
+        {
+          "page": "/industry/market-trends",
+          "keywords": ["board game market", "tabletop trends"]
+        }
+      ]
+    }
+  },
+  "rankingKeywords": {
+    "listicles": [
+      {
+        "keyword": "best board games 2025",
+        "searchVolume": 10000,
+        "difficulty": "high",
+        "intent": "informational",
+        "targetPage": "/rankings/best-board-games-2025",
+        "priority": "high",
+        "shareable": true
+      },
+      {
+        "keyword": "best two player board games",
+        "searchVolume": 8000,
+        "difficulty": "high",
+        "intent": "informational",
+        "targetPage": "/rankings/best-two-player-games-2025",
+        "priority": "high",
+        "shareable": true
+      },
+      {
+        "keyword": "best family board games",
+        "searchVolume": 12000,
+        "difficulty": "high",
+        "intent": "informational",
+        "targetPage": "/rankings/best-family-games-2025",
+        "priority": "high",
+        "shareable": true
+      },
+      {
+        "keyword": "most anticipated board games 2026",
+        "searchVolume": 3000,
+        "difficulty": "medium",
+        "intent": "informational",
+        "targetPage": "/rankings/most-anticipated-2026",
+        "priority": "medium",
+        "shareable": true
+      }
+    ]
+  },
+  "contentGaps": {
+    "highPriority": [
+      {
+        "keyword": "board game design software",
+        "searchVolume": 2000,
+        "difficulty": "medium",
+        "intent": "informational",
+        "buyerStage": "awareness",
+        "suggestedPage": "/guides/design-tools",
+        "contentType": "tool comparison guide"
+      },
+      {
+        "keyword": "tabletop simulator demo",
+        "searchVolume": 1500,
+        "difficulty": "medium",
+        "intent": "informational",
+        "buyerStage": "implementation",
+        "suggestedPage": "/guides/tabletop-simulator",
+        "contentType": "tutorial"
+      },
+      {
+        "keyword": "china board game manufacturer",
+        "searchVolume": 1000,
+        "difficulty": "medium",
+        "intent": "commercial",
+        "buyerStage": "decision",
+        "suggestedPage": "/guides/china-manufacturers",
+        "contentType": "supplier guide"
+      },
+      {
+        "keyword": "board game copyright",
+        "searchVolume": 800,
+        "difficulty": "low",
+        "intent": "informational",
+        "buyerStage": "awareness",
+        "suggestedPage": "/guides/copyright-protection",
+        "contentType": "legal guide"
+      }
+    ]
+  },
+  "localizedKeywords": {
+    "chinese": [
+      {
+        "keyword": "桌游设计",
+        "pinyin": "zhuoyou sheji",
+        "searchVolume": 1000,
+        "difficulty": "low",
+        "targetPage": "/guides/board-game-design-101"
+      },
+      {
+        "keyword": "桌游众筹",
+        "pinyin": "zhuoyou zhongchou",
+        "searchVolume": 500,
+        "difficulty": "low",
+        "targetPage": "/guides/kickstarter-masterclass"
+      },
+      {
+        "keyword": "桌游出版商",
+        "pinyin": "zhuoyou chubanshe",
+        "searchVolume": 400,
+        "difficulty": "low",
+        "targetPage": "/publishers"
+      },
+      {
+        "keyword": "如何设计桌游",
+        "pinyin": "ruhe sheji zhuoyou",
+        "searchVolume": 800,
+        "difficulty": "low",
+        "targetPage": "/guides/board-game-design-101"
+      }
+    ]
+  },
+  "competitorKeywords": {
+    "alternatives": [
+      {
+        "keyword": "panda game manufacturing alternative",
+        "searchVolume": 100,
+        "difficulty": "low",
+        "intent": "commercial",
+        "targetPage": "/alternatives/panda-game-manufacturing"
+      },
+      {
+        "keyword": "longpack games vs oakheart",
+        "searchVolume": 50,
+        "difficulty": "low",
+        "intent": "commercial",
+        "targetPage": "/alternatives/longpack-games"
+      }
+    ]
+  },
+  "seasonalKeywords": {
+    "q1": [
+      {
+        "keyword": "kickstarter board game 2026",
+        "searchVolume": 2000,
+        "peakMonth": "January-March",
+        "targetPage": "/rankings/kickstarter-2026"
+      }
+    ],
+    "q4": [
+      {
+        "keyword": "best board games for christmas",
+        "searchVolume": 15000,
+        "peakMonth": "November-December",
+        "targetPage": "/rankings/christmas-board-games"
+      }
+    ]
+  }
+}

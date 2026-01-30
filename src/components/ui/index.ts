@@ -1,5 +1,5 @@
-export { Button } from './Button';
-export { Card } from './Card';
+export { Button } from './button';
+export { Card } from './card';
 export { SectionLabel, SectionTitle, SectionSubtitle } from './Typography';
 export { InfoBox } from './InfoBox';
 export { StepCard } from './StepCard';

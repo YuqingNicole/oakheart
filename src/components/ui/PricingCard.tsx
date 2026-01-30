@@ -1,7 +1,7 @@
 import React from 'react';
 import styled, { css } from 'styled-components';
 import { PricingTier } from '../../types';
-import { Button } from './Button';
+import { Button } from './button';
 
 const StyledPricingCard = styled.div<{ $featured: boolean }>`
   background: white;
