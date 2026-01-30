@@ -1,8 +1,9 @@
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
+import { SeoHead } from "@/components/seo/SeoHead";
 import { motion, AnimatePresence } from "framer-motion";
 import { useState } from "react";
-import { Button } from "@/components/ui/Button";
+import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
@@ -90,6 +91,11 @@ const Quote = () => {
 
   return (
     <div className="min-h-screen bg-background">
+      <SeoHead 
+        title="Request a Quote - Custom Board Game Manufacturing"
+        description="Get a detailed quote for your board game project. Low MOQs starting at 500 units, with prototype options available. Fill out our easy form to get started."
+        keywords="board game quote, custom game pricing, manufacturing cost estimator, print on demand games, game production quote"
+      />
       <Header />
       <main className="pt-20">
         {/* Hero */}
@@ -122,8 +128,8 @@ const Quote = () => {
                       step < currentStep
                         ? "bg-aged-brass text-primary-foreground"
                         : step === currentStep
-                        ? "bg-primary text-primary-foreground"
-                        : "bg-muted text-muted-foreground"
+                          ? "bg-primary text-primary-foreground"
+                          : "bg-muted text-muted-foreground"
                     }`}
                   >
                     {step < currentStep ? <Check className="w-5 h-5" /> : step}

@@ -1,5 +1,6 @@
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
+import { SeoHead } from "@/components/seo/SeoHead";
 import { motion } from "framer-motion";
 import { Award, Users, Globe, Heart } from "lucide-react";
 import gameComponents1 from "@/assets/game-components-1.jpg";
@@ -39,6 +40,11 @@ const timeline = [
 const About = () => {
   return (
     <div className="min-h-screen bg-background">
+      <SeoHead 
+        title="About Oakheart Games - Premium Game Manufacturing"
+        description="Oakheart Games is a leading board game manufacturer serving over 200 publishers worldwide. We combine passion for games with strict quality standards and eco-friendly practices."
+        keywords="about oakheart games, board game manufacturer history, eco-friendly game printing, game manufacturing partners"
+      />
       <Header />
       <main className="pt-20">
         {/* Hero Section */}

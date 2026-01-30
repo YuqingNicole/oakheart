@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "next-sitemap",
     "start": "next start",
     "lint": "eslint src --ext .ts,.tsx",
     "type-check": "tsc --noEmit"
@@ -63,12 +64,14 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
+    "@mindfoldhq/trellis": "^0.2.11",
     "@types/node": "^20.0.0",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "autoprefixer": "^10.4.23",
     "eslint": "^8.55.0",
     "eslint-config-next": "^14.0.0",
+    "next-sitemap": "^4.2.3",
     "next-themes": "^0.4.6",
     "postcss": "^8.5.6",
     "react-resizable-panels": "^4.5.2",

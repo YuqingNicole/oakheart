@@ -2,7 +2,7 @@ import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { motion } from "framer-motion";
 import { useState } from "react";
-import { Button } from "@/components/ui/Button";
+import { Button } from "@/components/ui/button";
 import gameComponents1 from "@/assets/game-components-1.jpg";
 import gameComponents2 from "@/assets/game-components-2.jpg";
 import gameComponents3 from "@/assets/game-components-3.jpg";

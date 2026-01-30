@@ -48,7 +48,7 @@ const itemVariants = {
       ease: "easeOut",
     },
   },
-};
+} as const;
 
 export const BehindTheScenes = () => {
   return (

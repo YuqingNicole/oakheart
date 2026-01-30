@@ -1,5 +1,6 @@
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
+import { SeoHead } from "@/components/seo/SeoHead";
 import { motion } from "framer-motion";
 import { FileCheck, Palette, Factory, Package, Truck, CheckCircle } from "lucide-react";
 
@@ -45,6 +46,11 @@ const steps = [
 const Process = () => {
   return (
     <div className="min-h-screen bg-background">
+      <SeoHead 
+        title="Our Manufacturing Process - From Concept to Delivery"
+        description="Explore Oakheart's 6-step board game manufacturing process. From initial consultation and prototyping to mass production and global shipping, we ensure quality at every stage."
+        keywords="board game manufacturing process, game prototyping, mass production steps, quality control, game shipping logistics"
+      />
       <Header />
       <main className="pt-20">
         {/* Hero Section */}

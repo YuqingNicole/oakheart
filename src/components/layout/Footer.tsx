@@ -10,15 +10,17 @@ const footerLinks = {
   ],
   services: [
     { label: "Game Manufacturing", href: "#" },
-    { label: "Custom Components", href: "#" },
+    { label: "Eco-Friendly Manufacturing", href: "/features/eco-friendly" },
+    { label: "Custom Playing Cards", href: "/components/cards" },
     { label: "Packaging Design", href: "#" },
     { label: "Fulfillment", href: "#" },
   ],
   resources: [
-    { label: "FAQ", href: "#faq" },
-    { label: "Blog", href: "#" },
+    { label: "FAQ", href: "/faq" },
+    { label: "Manufacturing Guide", href: "/guides/manufacturing-101" },
+    { label: "Case Study: Realm of Shadows", href: "/case-studies/realm-of-shadows" },
     { label: "Game Tools", href: "#" },
-    { label: "Get Estimate", href: "#" },
+    { label: "Get Estimate", href: "/quote" },
   ],
 };
 
