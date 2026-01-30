@@ -23,6 +23,19 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
     { label: post.title, href: `/blog/${post.slug}` }
   ];
 
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": post.title,
+    "image": post.imageUrl ? [`https://oakheart.com${post.imageUrl}`] : [],
+    "datePublished": post.date,
+    "author": [{
+        "@type": "Person",
+        "name": post.author,
+    }],
+    "description": post.excerpt,
+  };
+
   return (
     <div className="min-h-screen bg-background">
       <SeoHead
@@ -30,6 +43,8 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
         description={post.excerpt}
         keywords={post.tags.join(', ')}
         ogType="article"
+        ogImage={post.imageUrl}
+        schema={articleSchema}
       />
       
       <Header />

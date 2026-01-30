@@ -18,6 +18,7 @@ const footerLinks = {
   resources: [
     { label: "FAQ", href: "/faq" },
     { label: "Manufacturing Guide", href: "/guides/manufacturing-101" },
+    { label: "Cost Calculator", href: "/cost-calculator" },
     { label: "Case Study: Realm of Shadows", href: "/case-studies/realm-of-shadows" },
     { label: "Game Tools", href: "#" },
     { label: "Get Estimate", href: "/quote" },
