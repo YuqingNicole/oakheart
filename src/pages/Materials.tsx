@@ -1,17 +1,21 @@
+"use client";
+
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { motion } from "framer-motion";
 import { useState } from "react";
 import { Button } from "@/components/ui/Button";
-import { ZoomIn, RotateCw, Maximize2, X } from "lucide-react";
+import { ZoomIn, RotateCw } from "lucide-react";
 import gameComponents1 from "@/assets/game-components-1.jpg";
 import gameComponents2 from "@/assets/game-components-2.jpg";
 import gameComponents3 from "@/assets/game-components-3.jpg";
+import { MaterialDetail, Material } from "@/components/ui/MaterialDetail";
+import { SeoHead } from "@/components/seo/SeoHead";
 
 const materialFilters = ["All", "Wood", "Paper", "Plastic", "Metal"];
 const processFilters = ["All", "Hot Stamping", "UV Coating", "Embossing", "Screen Print", "Laser Cut"];
 
-const materials = [
+const materials: Material[] = [
   {
     id: 1,
     name: "Premium Linen Card Stock",
@@ -83,9 +87,7 @@ const materials = [
 const Materials = () => {
   const [activeMaterial, setActiveMaterial] = useState("All");
   const [activeProcess, setActiveProcess] = useState("All");
-  const [selectedMaterial, setSelectedMaterial] = useState<typeof materials[0] | null>(null);
-  const [rotation, setRotation] = useState(0);
-  const [zoom, setZoom] = useState(1);
+  const [selectedMaterial, setSelectedMaterial] = useState<Material | null>(null);
 
   const filteredMaterials = materials.filter(m => {
     const materialMatch = activeMaterial === "All" || m.material === activeMaterial;
@@ -93,16 +95,13 @@ const Materials = () => {
     return materialMatch && processMatch;
   });
 
-  const handle3DRotate = () => {
-    setRotation(prev => prev + 45);
-  };
-
-  const handleZoom = () => {
-    setZoom(prev => prev >= 2 ? 1 : prev + 0.5);
-  };
-
   return (
     <div className="min-h-screen bg-background">
+      <SeoHead
+        title="Board Game Materials & Manufacturing Finishes Library"
+        description="Explore our premium board game materials including linen card stock, wood meeples, miniatures, and special finishes like spot UV and foil stamping."
+        keywords="board game materials, card stock types, custom meeples, manufacturing finishes, game component library"
+      />
       <Header />
       <main className="pt-20">
         {/* Hero */}
@@ -253,132 +252,10 @@ const Materials = () => {
 
         {/* Material Detail Modal */}
         {selectedMaterial && (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            className="fixed inset-0 bg-black/80 z-50 flex items-center justify-center p-4"
-            onClick={() => {
-              setSelectedMaterial(null);
-              setRotation(0);
-              setZoom(1);
-            }}
-          >
-            <motion.div
-              initial={{ scale: 0.9, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              className="bg-card rounded-xl max-w-4xl w-full max-h-[90vh] overflow-hidden"
-              onClick={(e) => e.stopPropagation()}
-            >
-              <div className="grid md:grid-cols-2">
-                {/* Image Viewer */}
-                <div className="relative bg-muted aspect-square md:aspect-auto flex items-center justify-center overflow-hidden">
-                  <img
-                    src={selectedMaterial.image.src}
-                    alt={selectedMaterial.name}
-                    className="w-full h-full object-cover transition-transform duration-300"
-                    style={{
-                      transform: `rotate(${rotation}deg) scale(${zoom})`,
-                    }}
-                  />
-                  {/* Controls */}
-                  <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-2 bg-black/50 rounded-full p-2">
-                    <Button
-                      variant="ghost"
-                      size="icon"
-                      className="text-white hover:bg-white/20"
-                      onClick={handleZoom}
-                    >
-                      <ZoomIn className="w-4 h-4" />
-                    </Button>
-                    {selectedMaterial.has3D && (
-                      <Button
-                        variant="ghost"
-                        size="icon"
-                        className="text-white hover:bg-white/20"
-                        onClick={handle3DRotate}
-                      >
-                        <RotateCw className="w-4 h-4" />
-                      </Button>
-                    )}
-                    <Button
-                      variant="ghost"
-                      size="icon"
-                      className="text-white hover:bg-white/20"
-                    >
-                      <Maximize2 className="w-4 h-4" />
-                    </Button>
-                  </div>
-                </div>
-
-                {/* Details */}
-                <div className="p-8 overflow-y-auto">
-                  <button
-                    onClick={() => {
-                      setSelectedMaterial(null);
-                      setRotation(0);
-                      setZoom(1);
-                    }}
-                    className="absolute top-4 right-4 text-muted-foreground hover:text-foreground"
-                  >
-                    <X className="w-6 h-6" />
-                  </button>
-
-                  <div className="flex items-center gap-2 mb-3">
-                    <span className="text-xs uppercase tracking-wider text-aged-brass font-medium font-body">
-                      {selectedMaterial.material}
-                    </span>
-                    <span className="text-muted-foreground">•</span>
-                    <span className="text-xs text-muted-foreground font-body">
-                      {selectedMaterial.weight}
-                    </span>
-                  </div>
-
-                  <h2 className="font-display text-2xl font-semibold text-foreground mb-4">
-                    {selectedMaterial.name}
-                  </h2>
-
-                  <p className="text-muted-foreground font-body mb-6">
-                    {selectedMaterial.description}
-                  </p>
-
-                  <div className="mb-6">
-                    <h3 className="font-display font-semibold text-foreground mb-3">
-                      Available Finishes
-                    </h3>
-                    <div className="flex flex-wrap gap-2">
-                      {selectedMaterial.process.map((p) => (
-                        <span
-                          key={p}
-                          className="text-sm bg-aged-brass/10 text-aged-brass px-3 py-1 rounded-full font-body"
-                        >
-                          {p}
-                        </span>
-                      ))}
-                    </div>
-                  </div>
-
-                  <div className="mb-8">
-                    <h3 className="font-display font-semibold text-foreground mb-3">
-                      Specifications
-                    </h3>
-                    <ul className="space-y-2">
-                      {selectedMaterial.specs.map((spec, i) => (
-                        <li key={i} className="text-sm text-muted-foreground font-body flex items-center gap-2">
-                          <span className="w-1.5 h-1.5 bg-aged-brass rounded-full" />
-                          {spec}
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
-
-                  <Button variant="hero" className="w-full">
-                    Request Sample
-                  </Button>
-                </div>
-              </div>
-            </motion.div>
-          </motion.div>
+          <MaterialDetail
+            material={selectedMaterial}
+            onClose={() => setSelectedMaterial(null)}
+          />
         )}
 
         {/* Sample Request CTA */}

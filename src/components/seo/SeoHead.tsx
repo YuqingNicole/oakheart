@@ -4,6 +4,7 @@ import Head from 'next/head';
 export interface SeoHeadProps {
   title: string;
   description?: string;
+  keywords?: string;
   canonicalUrl?: string;
   ogType?: 'website' | 'article';
   ogImage?: string;
@@ -12,6 +13,7 @@ export interface SeoHeadProps {
 export const SeoHead: React.FC<SeoHeadProps> = ({
   title,
   description = 'Oakheart - Premium Board Game Manufacturing',
+  keywords,
   canonicalUrl,
   ogType = 'website',
   ogImage,
@@ -23,6 +25,7 @@ export const SeoHead: React.FC<SeoHeadProps> = ({
     <Head>
       <title>{siteTitle}</title>
       <meta name="description" content={description} />
+      {keywords && <meta name="keywords" content={keywords} />}
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       
       {/* Open Graph */}

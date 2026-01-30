@@ -3,10 +3,9 @@ import { useInView } from "framer-motion";
 import { useRef, useState, useEffect } from "react";
 
 const stats = [
-  { value: 400, suffix: "+", label: "Publishers Trust Us" },
-  { value: 72, suffix: "M+", label: "Games Manufactured" },
-  { value: 41, suffix: "", label: "Languages Printed" },
-  { value: 55, suffix: "", label: "Countries Shipped" },
+  { value: 120, suffix: "+", label: "Publishers Trust Us" },
+  { value: 18, suffix: "", label: "Languages Printed" },
+  { value: 24, suffix: "", label: "Countries Shipped" },
 ];
 
 function AnimatedNumber({ value, suffix }: { value: number; suffix: string }) {
@@ -62,7 +61,7 @@ export function Stats() {
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 lg:gap-12">
           {stats.map((stat, index) => (
             <motion.div
               key={stat.label}

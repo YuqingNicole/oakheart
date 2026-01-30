@@ -24,10 +24,10 @@ const gameTypes = [
 ];
 
 const quantityRanges = [
-  { id: "500-1000", label: "500-1,000", moq: "MOQ for most components" },
-  { id: "1000-3000", label: "1,000-3,000", moq: "Best price-quality balance" },
-  { id: "3000-5000", label: "3,000-5,000", moq: "Volume discounts apply" },
-  { id: "5000+", label: "5,000+", moq: "Maximum cost savings" },
+  { id: "1-499", label: "1-499", moq: "Prototypes & Samples" },
+  { id: "500-1000", label: "500-1,000", moq: "Small Batch Production" },
+  { id: "1000-5000", label: "1,000-5,000", moq: "Standard Production Run" },
+  { id: "5000+", label: "5,000+", moq: "High Volume Manufacturing" },
 ];
 
 const components = [
@@ -245,8 +245,8 @@ const Quote = () => {
                     <div className="mt-6 p-4 bg-muted/50 rounded-lg flex gap-3">
                       <AlertCircle className="w-5 h-5 text-aged-brass flex-shrink-0 mt-0.5" />
                       <p className="text-sm text-muted-foreground font-body">
-                        <strong className="text-foreground">MOQ Note:</strong> Minimum order quantities vary by component. 
-                        Standard cards start at 500 units, while custom miniatures typically require 1,000+.
+                        <strong className="text-foreground">MOQ Note:</strong> We support prototyping starting from 1 unit. 
+                        Mass production pricing typically starts at 500 units, depending on components.
                       </p>
                     </div>
                   </motion.div>

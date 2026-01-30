@@ -1,4 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Source+Sans+3:wght@300;400;500;600&display=swap');
+
+@layer base {
+  :root {
+    /* Core palette based on brand guidelines */
+    --cream: 43 30% 93%;
+    --dark-brown: 20 54% 24%;
+    --aged-brass: 42 38% 50%;
+    --warm-gray: 30 10% 45%;
+    --deep-charcoal: 20 20% 15%;
+
+    /* Semantic tokens */
+    --background: 43 30% 93%;
+    --foreground: 20 20% 15%;
+
+    --card: 43 35% 96%;
+    --card-foreground: 20 20% 15%;
+
+    --popover: 43 35% 96%;
+    --popover-foreground: 20 20% 15%;
+
+    --primary: 20 54% 24%;
+    --primary-foreground: 43 30% 93%;
+
+    --secondary: 42 38% 50%;
+    --secondary-foreground: 43 30% 93%;
+
+    --muted: 43 20% 88%;
+    --muted-foreground: 30 10% 45%;
+
+    --accent: 42 38% 50%;
+    --accent-foreground: 20 20% 15%;
+
+    --destructive: 0 62% 45%;
+    --destructive-foreground: 43 30% 93%;
+
+    --border: 30 20% 80%;
+    --input: 30 20% 80%;
+    --ring: 42 38% 50%;
+
+    --radius: 0.25rem;
+  }
+}
 
 :root {
   /* Colors */
