@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Oakheart Games Manufacturing Design System
+   Colors: Cream, Dark Brown, Aged Brass Gold (minimal green/red)
+   Typography: Cormorant Garamond (display) + Inter (body)
+*/
+
+@layer base {
+  :root {
+    /* Core palette based on brand guidelines */
+    --cream: 43 30% 93%;
+    --dark-brown: 20 54% 24%;
+    --aged-brass: 42 38% 50%;
+    --warm-gray: 30 10% 45%;
+    --deep-charcoal: 20 20% 15%;
+    
+    /* Semantic tokens */
+    --background: 43 30% 93%;
+    --foreground: 20 20% 15%;
+
+    --card: 43 35% 96%;
+    --card-foreground: 20 20% 15%;
+
+    --popover: 43 35% 96%;
+    --popover-foreground: 20 20% 15%;
+
+    --primary: 20 54% 24%;
+    --primary-foreground: 43 30% 93%;
+
+    --secondary: 42 38% 50%;
+    --secondary-foreground: 43 30% 93%;
+
+    --muted: 43 20% 88%;
+    --muted-foreground: 30 10% 45%;
+
+    --accent: 42 38% 50%;
+    --accent-foreground: 20 20% 15%;
+
+    --destructive: 0 62% 45%;
+    --destructive-foreground: 43 30% 93%;
+
+    --border: 30 20% 80%;
+    --input: 30 20% 80%;
+    --ring: 42 38% 50%;
+
+    --radius: 0.25rem;
+
+    /* Custom gradients */
+    --gradient-hero: linear-gradient(135deg, hsl(43 30% 93% / 0.95), hsl(43 35% 90% / 0.9));
+    --gradient-gold: linear-gradient(135deg, hsl(42 38% 50%), hsl(42 45% 58%));
+    --gradient-brown: linear-gradient(180deg, hsl(20 54% 24%), hsl(20 50% 18%));
+    
+    /* Shadows */
+    --shadow-soft: 0 4px 20px -4px hsl(20 54% 24% / 0.12);
+    --shadow-elevated: 0 8px 30px -8px hsl(20 54% 24% / 0.2);
+    --shadow-gold: 0 4px 20px -4px hsl(42 38% 50% / 0.3);
+
+    /* Sidebar tokens */
+    --sidebar-background: 43 35% 96%;
+    --sidebar-foreground: 20 20% 15%;
+    --sidebar-primary: 20 54% 24%;
+    --sidebar-primary-foreground: 43 30% 93%;
+    --sidebar-accent: 42 38% 50%;
+    --sidebar-accent-foreground: 20 20% 15%;
+    --sidebar-border: 30 20% 80%;
+    --sidebar-ring: 42 38% 50%;
+  }
+
+  .dark {
+    --background: 20 20% 10%;
+    --foreground: 43 30% 93%;
+
+    --card: 20 20% 14%;
+    --card-foreground: 43 30% 93%;
+
+    --popover: 20 20% 14%;
+    --popover-foreground: 43 30% 93%;
+
+    --primary: 43 30% 93%;
+    --primary-foreground: 20 54% 24%;
+
+    --secondary: 42 38% 50%;
+    --secondary-foreground: 43 30% 93%;
+
+    --muted: 20 15% 20%;
+    --muted-foreground: 30 10% 60%;
+
+    --accent: 42 38% 50%;
+    --accent-foreground: 43 30% 93%;
+
+    --destructive: 0 62% 45%;
+    --destructive-foreground: 43 30% 93%;
+
+    --border: 20 15% 25%;
+    --input: 20 15% 25%;
+    --ring: 42 38% 50%;
+    
+    --sidebar-background: 20 20% 12%;
+    --sidebar-foreground: 43 30% 93%;
+    --sidebar-primary: 42 38% 50%;
+    --sidebar-primary-foreground: 20 20% 10%;
+    --sidebar-accent: 20 15% 20%;
+    --sidebar-accent-foreground: 43 30% 93%;
+    --sidebar-border: 20 15% 25%;
+    --sidebar-ring: 42 38% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Inter', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cormorant Garamond', serif;
+    @apply font-semibold tracking-tight;
+  }
+}
+
+@layer components {
+  .text-display {
+    font-family: 'Cormorant Garamond', serif;
+  }
+  
+  .text-body {
+    font-family: 'Inter', sans-serif;
+  }
+
+  .gradient-gold {
+    background: var(--gradient-gold);
+  }
+
+  .gradient-brown {
+    background: var(--gradient-brown);
+  }
+
+  .shadow-soft {
+    box-shadow: var(--shadow-soft);
+  }
+
+  .shadow-elevated {
+    box-shadow: var(--shadow-elevated);
+  }
+
+  .shadow-gold {
+    box-shadow: var(--shadow-gold);
+  }
+}
+
+/* Custom animations */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.6s ease-out forwards;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-marquee {
+  animation: marquee 30s linear infinite;
+}
