@@ -3,25 +3,26 @@ import logo from "@/assets/oakheart-logo.png";
 
 const footerLinks = {
   company: [
-    { label: "About Us", href: "#about" },
-    { label: "Our Process", href: "#process" },
-    { label: "Careers", href: "#careers" },
-    { label: "Contact", href: "#contact" },
+    { label: "About Us", href: "/about" },
+    { label: "Our Process", href: "/process" },
+    { label: "Materials", href: "/materials" },
+    { label: "Games", href: "/Games" },
+    { label: "FAQ", href: "/FAQ" },
   ],
-  services: [
-    { label: "Game Manufacturing", href: "#" },
-    { label: "Eco-Friendly Manufacturing", href: "/features/eco-friendly" },
-    { label: "Custom Playing Cards", href: "/components/cards" },
-    { label: "Packaging Design", href: "#" },
-    { label: "Fulfillment", href: "#" },
+  guides: [
+    { label: "All Guides", href: "/guides" },
+    { label: "Manufacturing 101", href: "/guides/manufacturing-101" },
+    { label: "Game Design 101", href: "/guides/board-game-design-101" },
+    { label: "Kickstarter Guide", href: "/guides/kickstarter-masterclass" },
+    { label: "Publishing 101", href: "/guides/publishing-101" },
   ],
   resources: [
-    { label: "FAQ", href: "/faq" },
-    { label: "Manufacturing Guide", href: "/guides/manufacturing-101" },
+    { label: "Blog", href: "/blog" },
+    { label: "Game Rankings", href: "/rankings" },
+    { label: "Publishers", href: "/publishers" },
     { label: "Cost Calculator", href: "/cost-calculator" },
-    { label: "Case Study: Realm of Shadows", href: "/case-studies/realm-of-shadows" },
-    { label: "Game Tools", href: "#" },
-    { label: "Get Estimate", href: "/quote" },
+    { label: "Case Studies", href: "/case-studies/realm-of-shadows" },
+    { label: "Get Quote", href: "/quote" },
   ],
 };
 
@@ -32,7 +33,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12 mb-12">
           {/* Brand */}
           <div className="lg:col-span-2">
-            <img src={logo.src} alt="Oakheart Games Manufacturing" className="h-12 w-auto mb-6 brightness-200" />
+            <img src={logo.src} alt="Oakheart Games Manufacturing" className="h-16 w-auto mb-6 brightness-200" />
             <p className="text-primary-foreground/70 font-body max-w-sm leading-relaxed">
               Crafting exceptional board games with artisan quality and timeless craftsmanship since establishment.
             </p>
@@ -55,11 +56,11 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Services Links */}
+          {/* Guides Links */}
           <div>
-            <h4 className="font-display font-semibold text-lg mb-4">Services</h4>
+            <h4 className="font-display font-semibold text-lg mb-4">Guides</h4>
             <ul className="space-y-3">
-              {footerLinks.services.map((link) => (
+              {footerLinks.guides.map((link) => (
                 <li key={link.label}>
                   <a
                     href={link.href}

@@ -66,41 +66,6 @@ const RankingsIndex = () => {
           ))}
         </div>
 
-        {/* Why Rankings Matter Section */}
-        <div className="mt-16 p-8 bg-accent/30 rounded-lg">
-          <h2 className="text-3xl font-bold mb-6">Why Our Rankings Matter</h2>
-          <div className="grid md:grid-cols-2 gap-6">
-            <div>
-              <h3 className="text-xl font-semibold mb-3">Real Family Testing</h3>
-              <p className="text-muted-foreground">
-                Every game on our lists has been played and tested by real families.
-                We focus on games that actually get played again and again, not just what looks good on a shelf.
-              </p>
-            </div>
-            <div>
-              <h3 className="text-xl font-semibold mb-3">Industry Expertise</h3>
-              <p className="text-muted-foreground">
-                Our rankings combine insights from board game publishers, designers, and manufacturers.
-                We understand what makes a game great from both player and production perspectives.
-              </p>
-            </div>
-            <div>
-              <h3 className="text-xl font-semibold mb-3">Updated Regularly</h3>
-              <p className="text-muted-foreground">
-                We update our rankings throughout the year as new games release and trends emerge.
-                You'll always find the most current recommendations.
-              </p>
-            </div>
-            <div>
-              <h3 className="text-xl font-semibold mb-3">Diverse Categories</h3>
-              <p className="text-muted-foreground">
-                From family games to kids games to two-player duels, we cover all the major categories
-                so you can find exactly what you're looking for.
-              </p>
-            </div>
-          </div>
-        </div>
-
         {/* CTA Section */}
         <div className="mt-16 p-8 bg-gradient-to-r from-primary/10 to-primary/5 rounded-lg text-center">
           <h2 className="text-2xl font-bold mb-4">

@@ -67,32 +67,30 @@ export default function BlogIndex({ posts }: BlogIndexProps) {
             </div>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {filteredPosts.map((post) => (
               <Link href={`/blog/${post.slug}`} key={post.slug} className="group h-full">
-                <Card className="h-full flex flex-col transition-all duration-300 hover:shadow-lg hover:-translate-y-1 border-border/50 bg-card/50 backdrop-blur-sm overflow-hidden">
-                  <div className="h-48 bg-secondary/30 flex items-center justify-center text-muted-foreground">
-                    {/* Placeholder for actual blog images */}
-                    <span className="text-4xl font-light opacity-20">Oakheart</span>
-                  </div>
-                  <CardHeader>
-                    <div className="flex justify-between items-center mb-2">
-                      <Badge variant="secondary" className="text-xs font-normal">
+                <Card className="h-full flex flex-col transition-all duration-300 hover:shadow-lg hover:-translate-y-1 border-border/50 bg-card overflow-hidden">
+                  <CardHeader className="pb-3">
+                    <div className="flex justify-between items-center mb-3">
+                      <Badge variant="secondary" className="text-xs font-medium">
                         {post.category}
                       </Badge>
                       <span className="text-xs text-muted-foreground flex items-center gap-1">
                         <Clock className="w-3 h-3" /> {post.readingTime}
                       </span>
                     </div>
-                    <CardTitle className="text-xl group-hover:text-primary transition-colors line-clamp-2">
+                    <CardTitle className="text-lg leading-snug group-hover:text-primary transition-colors line-clamp-2">
                       {post.title}
                     </CardTitle>
                   </CardHeader>
-                  <CardContent className="flex-grow">
-                    <p className="text-muted-foreground text-sm line-clamp-3 mb-4">
+                  <CardContent className="flex-grow pt-0">
+                    <p className="text-muted-foreground text-sm line-clamp-3 leading-relaxed">
                       {post.excerpt}
                     </p>
-                    <div className="flex items-center text-xs text-muted-foreground gap-4">
+                  </CardContent>
+                  <CardFooter className="pt-4 pb-5 flex items-center justify-between border-t border-border/50 mt-auto">
+                    <div className="flex items-center text-xs text-muted-foreground gap-3">
                       <span className="flex items-center gap-1">
                         <User className="w-3 h-3" /> {post.author}
                       </span>
@@ -100,11 +98,7 @@ export default function BlogIndex({ posts }: BlogIndexProps) {
                         <Calendar className="w-3 h-3" /> {post.date}
                       </span>
                     </div>
-                  </CardContent>
-                  <CardFooter className="pt-0 pb-6">
-                    <span className="text-sm font-medium text-primary flex items-center gap-1 group-hover:gap-2 transition-all">
-                      Read Article <ArrowRight className="w-4 h-4" />
-                    </span>
+                    <ArrowRight className="w-4 h-4 text-primary opacity-0 group-hover:opacity-100 transition-opacity" />
                   </CardFooter>
                 </Card>
               </Link>
