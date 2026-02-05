@@ -27,7 +27,7 @@ export function SeoBreadcrumbs({ items }: SeoBreadcrumbsProps) {
       "@type": "ListItem",
       "position": index + 1,
       "name": item.label,
-      "item": item.href ? `https://oakheartgames.com${item.href}` : undefined,
+      "item": item.href ? `https://oakheartglobal.com${item.href}` : undefined,
     })),
   };
 

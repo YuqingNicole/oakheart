@@ -18,7 +18,6 @@ const RankingsIndex = () => {
       <main className="container mx-auto px-4 py-12 max-w-6xl">
         <SeoBreadcrumbs
           items={[
-            { label: "Home", href: "/" },
             { label: "Rankings", href: "/rankings" },
           ]}
         />

@@ -23,7 +23,6 @@ const RankingPage: React.FC<RankingPageProps> = ({ ranking }) => {
       <main className="container mx-auto px-4 py-12 max-w-4xl">
         <SeoBreadcrumbs
           items={[
-            { label: "Home", href: "/" },
             { label: "Rankings", href: "/rankings" },
             { label: ranking.title, href: `/rankings/${ranking.slug}` },
           ]}

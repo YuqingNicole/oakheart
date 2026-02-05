@@ -27,7 +27,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": post.title,
-    "image": post.imageUrl ? [`https://oakheart.com${post.imageUrl}`] : [],
+    "image": post.imageUrl ? [`https://oakheartglobal.com${post.imageUrl}`] : [],
     "datePublished": post.date,
     "author": [{
         "@type": "Person",
@@ -42,6 +42,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
         title={`${post.title} | Oakheart Blog`}
         description={post.excerpt}
         keywords={post.tags.join(', ')}
+        canonicalUrl={`/blog/${post.slug}`}
         ogType="article"
         ogImage={post.imageUrl}
         schema={articleSchema}

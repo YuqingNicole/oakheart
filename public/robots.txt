@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://oakheart.com
+Host: https://oakheartglobal.com
 
 # Sitemaps
-Sitemap: https://oakheart.com/sitemap.xml
+Sitemap: https://oakheartglobal.com/sitemap.xml

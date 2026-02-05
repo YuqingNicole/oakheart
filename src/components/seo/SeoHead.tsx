@@ -23,12 +23,12 @@ export const SeoHead: React.FC<SeoHeadProps> = ({
   noIndex = false,
 }) => {
   const siteTitle = title.includes('Oakheart') ? title : `${title} | Oakheart`;
-  const fullUrl = canonicalUrl ? `https://oakheart.com${canonicalUrl}` : 'https://oakheart.com';
+  const fullUrl = canonicalUrl ? `https://oakheartglobal.com${canonicalUrl}` : 'https://oakheartglobal.com';
   
   // Ensure absolute URL for ogImage
   const fullOgImage = ogImage?.startsWith('http') 
     ? ogImage 
-    : `https://oakheart.com${ogImage?.startsWith('/') ? '' : '/'}${ogImage}`;
+    : `https://oakheartglobal.com${ogImage?.startsWith('/') ? '' : '/'}${ogImage}`;
 
   return (
     <Head>

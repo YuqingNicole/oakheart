@@ -34,6 +34,7 @@ export default function BlogIndex({ posts }: BlogIndexProps) {
         title="Board Game Industry Insights & Guides | Oakheart Blog"
         description="Expert advice on board game design, manufacturing, crowdfunding, and publishing. Learn from industry veterans and stay updated with the latest trends."
         keywords="board game blog, game design tips, kickstarter advice, board game manufacturing, industry insights"
+        canonicalUrl="/blog"
       />
       
       <Header />

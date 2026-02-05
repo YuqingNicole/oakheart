@@ -14,8 +14,8 @@ const Index = () => {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Oakheart Games",
-    "url": "https://oakheart.com",
-    "logo": "https://oakheart.com/oakheart-logo.png",
+    "url": "https://oakheartglobal.com",
+    "logo": "https://oakheartglobal.com/oakheart-logo.png",
     "sameAs": [
       "https://www.facebook.com/oakheartgames",
       "https://twitter.com/oakheartgames",
