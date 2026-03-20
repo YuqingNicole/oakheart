@@ -15,7 +15,7 @@ const Index = () => {
     "@type": "Organization",
     "name": "Oakheart Games",
     "url": "https://oakheartglobal.com",
-    "logo": "https://oakheartglobal.com/oakheart-logo.png",
+    "logo": "https://oakheartglobal.com/logo/oakheart.png",
     "sameAs": [
       "https://www.facebook.com/oakheartgames",
       "https://twitter.com/oakheartgames",

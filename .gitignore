@@ -63,3 +63,6 @@ seo-templates.html
 # Generated site output
 site/
 
+# Resources (large content files)
+resources/
+

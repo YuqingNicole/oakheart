@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import logo from "@/assets/oakheart-logo.png";
+const logo = { src: "/logo/oakheart.png" };
 
 const footerLinks = {
   company: [
